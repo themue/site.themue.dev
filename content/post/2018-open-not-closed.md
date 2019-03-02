@@ -3,7 +3,7 @@ date = "2018-08-24T20:00:00+01:00"
 draft = false
 title = "Open, not closed"
 tags = ["internet", "protocols", "standards", "ietf", "rfc", "openess"]
-topics = ["blogging"]
+categories = ["internet"]
 +++
 
 These days it happened again. This time it has been **Twitter** which changed the services

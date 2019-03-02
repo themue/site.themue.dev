@@ -3,7 +3,7 @@ date = "2019-01-26T20:00:00+01:00"
 draft = false
 title = "Restart of the blog"
 tags = ["blogging"]
-topics = ["blogging"]
+categories = ["blogging"]
 +++
 
 Those who visited my blog before will recognize that I deleted several – most – of my old
