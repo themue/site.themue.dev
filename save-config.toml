@@ -1,0 +1,84 @@
+baseURL = "/"
+title = "Embrace Change"
+languageCode = "en-us"
+metaDataFormat = "toml"
+theme = "theme.themue.name"
+paginate = 10
+canonifyURLs = true
+enableEmoji = true
+
+[author]
+  name = "Frank Mueller"
+
+[permalinks]
+  post = "/blog/:year/:month/:day/:title/"
+
+[taxonomies]
+  tag = "tags"
+  topic = "topics"
+
+[params]
+  subtitle = "Insights into the World of Frank Mueller"
+  defaultDescription = "Embrace Change"
+  brand = "the µ"
+  truncate = true
+  hideReadingTime = false
+  highlightjs = "androidstudio"
+  dateFormat = "02 Jan 2006, 15:04"
+  highlight = "sunburst"
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    pre = "<i class='fa fa-home fa-fw'></i>"
+    weight = 1
+    identifier = "home"
+    url = "/"
+  [[menu.main]]
+    name = "Posts"
+    pre = "<i class='fa fa-list fa-fw'></i>"
+    weight = 2
+    identifier = "post"
+    url = "/post/"
+  [[menu.main]]
+    name = "Tags"
+    pre = "<i class='fa fa-tags fa-fw'></i>"
+    weight = 3
+    identifier = "tags"
+    url = "/tags/"
+  [[menu.main]]
+    name = "Topics"
+    pre = "<i class='fa fa-folder-open fa-fw'></i>"
+    weight = 4
+    identifier = "topics"
+    url = "/topics/"
+  [[menu.main]]
+    name = "About"
+    pre = "<i class='fa fa-user fa-fw'></i>"
+    weight = 5
+    identifier = "about"
+    url = "/info/about/"
+  [[menu.main]]
+    name = "Career"
+    pre = "<i class='fa fa-cogs fa-fw'></i>"
+    weight = 6
+    identifier = "career"
+    url = "/info/career/"
+  [[menu.main]]
+    name = "Contact"
+    pre = "<i class='fa fa-phone fa-fw'></i>"
+    weight = 7
+    url = "/info/contact/"
+
+[social]
+  linkedin = "themue"
+  xing = "Frank_Mueller7"
+  github = "tideland"
+  twitter = "TheMue"
+  mastodon = "mastodon.technology/@themue"
+  googleplus = "FrankMüllerOldenburg"
+  stackoverflow = "25814"
+  reddit = "TheMue"
+  flickr = "themue"
+  slideshare = "TheMue"
+
