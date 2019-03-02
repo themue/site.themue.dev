@@ -1,0 +1,40 @@
+{{ partial "header.html" . }}
+
+	<div class="main-content loop content" role="main">
+		{{- if not .IsHome }}
+		<header class="page-header">
+			<h1 class="page-header__title">{{ .Title }}</h1>
+		</header>
+		{{- end }}
+		{{- $paginator := .Paginate ( where .Data.Pages "Section" "post") }}
+		{{- range $paginator.Pages }}
+		<article class="loop__item post clearfix">
+			{{- if .Params.thumbnail }}
+			<figure class="loop__thumbnail">
+				<a href="{{ .Permalink }}">
+					<img src="{{ .Params.thumbnail | absURL }}" alt="{{ .Title }}" />
+				</a>
+			</figure>
+			{{- end }}
+			<div class="loop__content clearfix">
+				<header class="loop__header">
+					<h3 class="loop__title post__title ">
+						<a href="{{ .Permalink }}" rel="bookmark">{{ .Title }}</a>
+					</h3>
+					<div class="loop__meta meta">
+						<svg class="icon icon-time" height="14" viewBox="0 0 16 16" width="14" xmlns="http://www.w3.org/2000/svg"><path d="m8-.0000003c-4.4 0-8 3.6-8 8 0 4.4000003 3.6 8.0000003 8 8.0000003 4.4 0 8-3.6 8-8.0000003 0-4.4-3.6-8-8-8zm0 14.4000003c-3.52 0-6.4-2.88-6.4-6.4000003 0-3.52 2.88-6.4 6.4-6.4 3.52 0 6.4 2.88 6.4 6.4 0 3.5200003-2.88 6.4000003-6.4 6.4000003zm.4-10.4000003h-1.2v4.8l4.16 2.5600003.64-1.04-3.6-2.1600003z"/></svg>
+						<time class="loop__meta-date" datetime="{{ .Date }}">{{.Date.Format "January 02, 2006"}}</time>
+					</div>
+				</header>
+				<div class="loop__excerpt">
+					{{ .Summary }}
+				</div>
+			</div>
+		</article>
+		{{- end }}
+
+		{{ partial "pagination.html" . }}
+	</div>
+
+{{ partial "sidebar.html" . }}
+{{ partial "footer.html" . }}

@@ -1,17 +1,22 @@
 +++
-date = "2018-09-30T08:00:00+01:00"
+date = "2019-03-02T20:00:00+01:00"
 draft = false
+menu = "main"
+weight = 20
 title = "Career"
-tags = ["themue", "information", "career", "cv"]
-topics = ["personal"]
 +++
 
 ## Experience
 
+### 2019---Present :: Senior Software Engineer / Loodse / Remote
+
+- Implementation of an application system to deploy, manage, and run Kubernetes clusters
+- Technologies: Kubernetes, Google Go, Google Cloud
+
 ### 1993---Present :: Experienced Solutions Engineer / Self-Employed / Oldenburg
 
-- Consulting for software development processes, software architecture, Google Go, Erlang/OTP, Clouds, Microservices, Blockchains
-- Articles, book reviews, and conference reports for IT magazines like iX, heise developer, Entwickler Magazin, Java Magazin, Linux Enterprise
+- Consulting for software development processes, software architecture, Google Go, Erlang/OTP, Clouds, Microservices
+- Articles, book reviews, and conference reports for IT magazines like iX, heise developer, Entwickler Magazin, JavaSPEKTRUM, Java Magazin, Linux Enterprise
 - Author of the book *Systemprogrammierung in Google Go* (*System Progrmaming in Google Go*)
 - Talks on conferences like OOP, parrallel, DevOps Conference, WebTech Conference
 - Development of open-source software under the label [Tideland](https://github.com/tideland/)
@@ -19,19 +24,19 @@ topics = ["personal"]
 ### 2017---2018 :: Senior Software Engineer / Status Research & Development / Remote
 
 - Implementation of a mobile Ethereum system in a world-wide distributed team
-- Used technologies: Blockchains, Ethereum, Geth, Google Go, GitHub, Git
+- Technologies: Blockchains, Ethereum, Geth, Google Go
 
 ### 2016---2017 :: Senior Software Engineer / AKKA / Bremen
 
 - Architecture and implementation of a logistics management system
 - Implementation and management of development processes, requirements engineering and quality assurance
-- Used technologies: Microservices, RESTful API, Google Go, JavaScript, CouchDB, JSON Web Token, Linux, Docker, Gogs, GitLab, Git
+- Technologies: Microservices, RESTful API, Google Go, JavaScript, CouchDB, JSON Web Token, Linux, Docker
 
 ### 2011---2015 :: Senior Software Engineer / Canonical / Remote
 
 - Implementation of [Juju](https://jujucharms.com/), a cloud provisioning and configuration system, in a world-wide distributed team
 - Management of sub-contractors for the development
-- Used technologies: Linux, Google Go, MongoDB, Python, ZooKeeper, Amazon EC2, OpenStack, Azure, MAAS, LXC, GitHub, Git, Bazaar
+- Technologies: Linux, Google Go, MongoDB, Python, ZooKeeper, Amazon EC2, OpenStack, Azure, MAAS, LXC
 
 ### 2006---2011 :: Team Manager and Senior Consultant / BTC / Oldenburg
 
@@ -39,7 +44,7 @@ topics = ["personal"]
 - Analysis and consulting for SOA and software architecture
 - Team Manager with up to 24 team members
 - Trainer for requirements engineering and software cost estimation
-- Used technologies: Smalltalk, GemStrone/S, Java EE/SE, BizTalk, C#, Python
+- Technologies: Smalltalk, GemStrone/S, Java EE/SE, BizTalk, C#, Python
 
 ### 2003---2006 ::  Technical Project Manager and System Specialist / Thales / Wilhelmshaven
 
@@ -48,7 +53,7 @@ topics = ["personal"]
 - Management of sub-contractors for the development
 - Member of the sub-project *data management and meta data*
 - Requirements engineering and software quality assurance
-- Used technologies: Java EE, TopLink, Oracle, WebSphere, Rational Rose, Rational ClearCase
+- Technologies: Java EE, TopLink, Oracle, WebSphere, Rational Rose, Rational ClearCase
 
 ### 2001---2003 :: Development Director / OpenKnowledge / Oldenburg
 
@@ -56,21 +61,21 @@ topics = ["personal"]
 - System architecture
 - Implementation and management of development processes, requirements engineering, and quality assurance
 - Organization and execution of the staff training
-- Used technologies: Java EE, Python, JBOSS, Oracle, IDEA
+- Technologies: Java EE, Python, JBOSS, Oracle, IDEA
 
 ### 2000---2001 :: VP Software Development / CANBOX / Oldenburg and Boston
 
 - Vice President Software Development leading 22 team members in Oldenburg, Germany, and Boston, MA, USA
 - System architecture
 - Implementation and management of development processes, requirements engineering and quality assurance
-- Used technologies: Java EE
+- Technologies: Java EE
 
 ### 1999---2000 :: Development Director / RedDot / Oldenburg
 
 - Development Director for the enterprise edition of the RedDot Content Management System leading 7 team members
 - Software architecture
 - Implementation and management of development processes, requirements engineering and quality assurance
-- Used technologies: Java EE, POET OODBMS, SNiFF+, Python, CVS
+- Technologies: Java EE, POET OODBMS, SNiFF+, Python
 
 ### 1997---1999 :: System Specialist Unix / Nordwest-Zeitung / Oldenburg
 
@@ -79,7 +84,7 @@ topics = ["personal"]
 - Automation using shell, Python, and Perl scripting
 - Implementation of a system monitoring via SNMP
 - Development and implementation of a trouble ticket system
-- Used technologies: Solaris, OpenVision Axxion HA, Sun Cluster, Veritas, Oracle, Sybase, Linux, bash, Python, Perl, PostgreSQL, Apache, and more
+- Technologies: Solaris, OpenVision Axxion HA, Sun Cluster, Veritas, Oracle, Sybase, Linux, bash, Python, Perl, PostgreSQL
 
 ### 1991---1997 :: System Specialist / R+V Versicherung / Oldenburg
 
