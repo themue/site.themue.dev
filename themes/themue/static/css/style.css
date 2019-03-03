@@ -264,7 +264,7 @@ blockquote {
 	font-style: italic;
 	color: #666;
 	padding: 5px 0 5px 15px;
-	border-left: 5px solid #265CA2;
+	border-left: 5px solid #298A08;
 }
 
 sup {
@@ -305,7 +305,7 @@ a {
 }
 
 a:hover {
-	color: #265CA2;
+	color: #298A08;
 }
 
 /*** Lists ***/
@@ -377,7 +377,7 @@ select {
 	font-size: 14px;
 	font-size: 0.875rem;
 	line-height: 1;
-	color: #265CA2;
+	color: #298A08;
 	padding-top: 10px;
 	margin-top: 10px;
 	border-top: 1px solid #e5e5e5;
@@ -442,7 +442,7 @@ select {
 }
 
 .opened.menu__list {
-	border-top: 1px solid #265CA2;
+	border-top: 1px solid #298A08;
 }
 
 .menu__item {
@@ -452,11 +452,11 @@ select {
 }
 
 .menu__item:hover {
-	background: #265CA2;
+	background: #298A08;
 }
 
 .menu__item--active {
-	background: #265CA2;
+	background: #298A08;
 }
 
 .menu__item:first-child {
@@ -477,7 +477,7 @@ select {
 	}
 
 	.menu {
-		border-bottom: 5px solid #265CA2;
+		border-bottom: 5px solid #298A08;
 		min-height: 42px;
 	}
 
@@ -509,7 +509,7 @@ select {
 }
 
 .meta a:hover {
-	color: #265CA2;
+	color: #298A08;
 }
 
 .meta span {
@@ -560,11 +560,11 @@ select {
 
 .post__content a {
 	font-weight: 700;
-	color: #265CA2;
+	color: #298A08;
 }
 
 .post__content a:hover {
-	color: #265CA2;
+	color: #298A08;
 	text-decoration: underline;
 }
 
@@ -587,7 +587,7 @@ select {
 }
 
 .tags__item:hover {
-	background: #265CA2;
+	background: #298A08;
 }
 
 .tags__link, .tags__link:hover {
@@ -600,7 +600,7 @@ select {
 	float: left;
 	padding: 8px;
 	margin-right: 6px;
-	background: #265CA2;
+	background: #298A08;
 }
 
 .icon-tag {
@@ -686,7 +686,7 @@ select {
 
 .pagination__item:hover, .pagination__item--current {
 	color: #fff;
-	background: #265CA2;
+	background: #298A08;
 }
 
 /*** Post Navigation ***/
@@ -816,7 +816,7 @@ input[type=text], input[type=email], input[type=tel], input[type=url] {
 
 input[type=text]:hover, input[type=email]:hover, input[type=tel]:hover,
 input[type=url]:hover, textarea:hover {
-	border: 1px solid #265CA2;
+	border: 1px solid #298A08;
 }
 
 input[type=submit] {
@@ -825,7 +825,7 @@ input[type=submit] {
 	font-weight: 700;
 	color: #fff;
 	padding: 10px 15px;
-	background: #265CA2;
+	background: #298A08;
 	cursor: pointer;
 	text-transform: uppercase;
 	-webkit-transition: all 0.1s linear;
@@ -907,7 +907,7 @@ textarea {
 	margin-bottom: 20px;
 	margin-bottom: 1.25rem;
 	text-transform: uppercase;
-	border-bottom: 3px solid #265CA2;
+	border-bottom: 3px solid #298A08;
 }
 
 /*** Default WordPress Widgets ***/
@@ -938,7 +938,7 @@ textarea {
 
 .widget__link--taglist:hover, .widget .widget__link--taglist:hover {
 	color: #fff;
-	background: #265CA2;
+	background: #298A08;
 }
 
 /*** Recent Posts Widget ***/
