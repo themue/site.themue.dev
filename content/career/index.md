@@ -8,12 +8,16 @@ title = "Career"
 
 ## Experience
 
-### 2019---Present :: Senior Software Engineer / Loodse / Remote
+### 2019---Present :: Senior Software Engineer
+
+_Loodse / Remote_
 
 - Implementation of an application system to deploy, manage, and run Kubernetes clusters
 - Technologies: Kubernetes, Google Go, Google Cloud
 
-### 1993---Present :: Experienced Solutions Engineer / Self-Employed / Oldenburg
+### 1993---Present :: Experienced Solutions Engineer
+
+_Self-Employed / Oldenburg_
 
 - Consulting for software development processes, software architecture, Google Go, Erlang/OTP, Clouds, Microservices
 - Articles, book reviews, and conference reports for IT magazines like iX, heise developer, Entwickler Magazin, JavaSPEKTRUM, Java Magazin, Linux Enterprise
@@ -21,24 +25,32 @@ title = "Career"
 - Talks on conferences like OOP, parrallel, DevOps Conference, WebTech Conference
 - Development of open-source software under the label [Tideland](https://github.com/tideland/)
 
-### 2017---2018 :: Senior Software Engineer / Status Research & Development / Remote
+### 2017---2018 :: Senior Software Engineer
+
+_Status Research & Development / Remote_
 
 - Implementation of a mobile Ethereum system in a world-wide distributed team
 - Technologies: Blockchains, Ethereum, Geth, Google Go
 
-### 2016---2017 :: Senior Software Engineer / AKKA / Bremen
+### 2016---2017 :: Senior Software Engineer
+
+_AKKA / Bremen_
 
 - Architecture and implementation of a logistics management system
 - Implementation and management of development processes, requirements engineering and quality assurance
 - Technologies: Microservices, RESTful API, Google Go, JavaScript, CouchDB, JSON Web Token, Linux, Docker
 
-### 2011---2015 :: Senior Software Engineer / Canonical / Remote
+### 2011---2015 :: Senior Software Engineer
+
+_Canonical / Remote_
 
 - Implementation of [Juju](https://jujucharms.com/), a cloud provisioning and configuration system, in a world-wide distributed team
 - Management of sub-contractors for the development
 - Technologies: Linux, Google Go, MongoDB, Python, ZooKeeper, Amazon EC2, OpenStack, Azure, MAAS, LXC
 
-### 2006---2011 :: Team Manager and Senior Consultant / BTC / Oldenburg
+### 2006---2011 :: Team Manager and Senior Consultant
+
+_BTC / Oldenburg_
 
 - Maintenance and extension of Smalltalk and GemStone/S based configuration management system for telecommunication and networks
 - Analysis and consulting for SOA and software architecture
@@ -46,7 +58,9 @@ title = "Career"
 - Trainer for requirements engineering and software cost estimation
 - Technologies: Smalltalk, GemStrone/S, Java EE/SE, BizTalk, C#, Python
 
-### 2003---2006 ::  Technical Project Manager and System Specialist / Thales / Wilhelmshaven
+### 2003---2006 ::  Technical Project Manager and System Specialist
+
+_Thales / Wilhelmshaven_
 
 - Responsible for the data migration sub-project in a larger military project leading 7 team members
 - Technical Project Manager
@@ -55,7 +69,9 @@ title = "Career"
 - Requirements engineering and software quality assurance
 - Technologies: Java EE, TopLink, Oracle, WebSphere, Rational Rose, Rational ClearCase
 
-### 2001---2003 :: Development Director / OpenKnowledge / Oldenburg
+### 2001---2003 :: Development Director
+
+_OpenKnowledge / Oldenburg_
 
 - Development Director leading 15 team members
 - System architecture
@@ -63,21 +79,27 @@ title = "Career"
 - Organization and execution of the staff training
 - Technologies: Java EE, Python, JBOSS, Oracle, IDEA
 
-### 2000---2001 :: VP Software Development / CANBOX / Oldenburg and Boston
+### 2000---2001 :: VP Software Development
+
+_CANBOX / Oldenburg and Boston_
 
 - Vice President Software Development leading 22 team members in Oldenburg, Germany, and Boston, MA, USA
 - System architecture
 - Implementation and management of development processes, requirements engineering and quality assurance
 - Technologies: Java EE
 
-### 1999---2000 :: Development Director / RedDot / Oldenburg
+### 1999---2000 :: Development Director
+
+_RedDot / Oldenburg_
 
 - Development Director for the enterprise edition of the RedDot Content Management System leading 7 team members
 - Software architecture
 - Implementation and management of development processes, requirements engineering and quality assurance
 - Technologies: Java EE, POET OODBMS, SNiFF+, Python
 
-### 1997---1999 :: System Specialist Unix / Nordwest-Zeitung / Oldenburg
+### 1997---1999 :: System Specialist Unix
+
+_Nordwest-Zeitung / Oldenburg_
 
 - System Specialist for high-available Unix systems
 - Operation of newspaper production systems, SAP R/3, and mail servers
@@ -86,7 +108,9 @@ title = "Career"
 - Development and implementation of a trouble ticket system
 - Technologies: Solaris, OpenVision Axxion HA, Sun Cluster, Veritas, Oracle, Sybase, Linux, bash, Python, Perl, PostgreSQL
 
-### 1991---1997 :: System Specialist / R+V Versicherung / Oldenburg
+### 1991---1997 :: System Specialist
+
+_R+V Versicherung / Oldenburg_
 
 - System Specialist for mainframe, servers, PCs, networking, and telecommunication
 - Operation of a number of servers running OS/2, AIX, and DPPX
