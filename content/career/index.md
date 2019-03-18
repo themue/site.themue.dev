@@ -10,14 +10,14 @@ title = "Career"
 
 ### 2019---Present :: Senior Software Engineer
 
-_Loodse / Remote_
+**Loodse / Remote**
 
 - Implementation of an application system to deploy, manage, and run Kubernetes clusters
 - Technologies: Kubernetes, Google Go, Google Cloud
 
 ### 1993---Present :: Experienced Solutions Engineer
 
-_Self-Employed / Oldenburg_
+**Self-Employed / Oldenburg**
 
 - Consulting for software development processes, software architecture, Google Go, Erlang/OTP, Clouds, Microservices
 - Articles, book reviews, and conference reports for IT magazines like iX, heise developer, Entwickler Magazin, JavaSPEKTRUM, Java Magazin, Linux Enterprise
@@ -27,14 +27,14 @@ _Self-Employed / Oldenburg_
 
 ### 2017---2018 :: Senior Software Engineer
 
-_Status Research & Development / Remote_
+**Status Research & Development / Remote**
 
 - Implementation of a mobile Ethereum system in a world-wide distributed team
 - Technologies: Blockchains, Ethereum, Geth, Google Go
 
 ### 2016---2017 :: Senior Software Engineer
 
-_AKKA / Bremen_
+**AKKA / Bremen**
 
 - Architecture and implementation of a logistics management system
 - Implementation and management of development processes, requirements engineering and quality assurance
@@ -42,7 +42,7 @@ _AKKA / Bremen_
 
 ### 2011---2015 :: Senior Software Engineer
 
-_Canonical / Remote_
+**Canonical / Remote**
 
 - Implementation of [Juju](https://jujucharms.com/), a cloud provisioning and configuration system, in a world-wide distributed team
 - Management of sub-contractors for the development
@@ -50,7 +50,7 @@ _Canonical / Remote_
 
 ### 2006---2011 :: Team Manager and Senior Consultant
 
-_BTC / Oldenburg_
+**BTC / Oldenburg**
 
 - Maintenance and extension of Smalltalk and GemStone/S based configuration management system for telecommunication and networks
 - Analysis and consulting for SOA and software architecture
@@ -60,7 +60,7 @@ _BTC / Oldenburg_
 
 ### 2003---2006 ::  Technical Project Manager and System Specialist
 
-_Thales / Wilhelmshaven_
+**Thales / Wilhelmshaven**
 
 - Responsible for the data migration sub-project in a larger military project leading 7 team members
 - Technical Project Manager
@@ -71,7 +71,7 @@ _Thales / Wilhelmshaven_
 
 ### 2001---2003 :: Development Director
 
-_OpenKnowledge / Oldenburg_
+**OpenKnowledge / Oldenburg**
 
 - Development Director leading 15 team members
 - System architecture
@@ -81,7 +81,7 @@ _OpenKnowledge / Oldenburg_
 
 ### 2000---2001 :: VP Software Development
 
-_CANBOX / Oldenburg and Boston_
+**CANBOX / Oldenburg and Boston**
 
 - Vice President Software Development leading 22 team members in Oldenburg, Germany, and Boston, MA, USA
 - System architecture
@@ -90,7 +90,7 @@ _CANBOX / Oldenburg and Boston_
 
 ### 1999---2000 :: Development Director
 
-_RedDot / Oldenburg_
+**RedDot / Oldenburg**
 
 - Development Director for the enterprise edition of the RedDot Content Management System leading 7 team members
 - Software architecture
@@ -99,7 +99,7 @@ _RedDot / Oldenburg_
 
 ### 1997---1999 :: System Specialist Unix
 
-_Nordwest-Zeitung / Oldenburg_
+**Nordwest-Zeitung / Oldenburg**
 
 - System Specialist for high-available Unix systems
 - Operation of newspaper production systems, SAP R/3, and mail servers
@@ -110,7 +110,7 @@ _Nordwest-Zeitung / Oldenburg_
 
 ### 1991---1997 :: System Specialist
 
-_R+V Versicherung / Oldenburg_
+**R+V Versicherung / Oldenburg**
 
 - System Specialist for mainframe, servers, PCs, networking, and telecommunication
 - Operation of a number of servers running OS/2, AIX, and DPPX
