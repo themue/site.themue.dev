@@ -47,7 +47,8 @@ func (api *ShopAPI) ServeHTTP(w http.ResponseWriter, r *http.Request) {
     case strings.HasPrefix(r.URL.Path, "/api/orders/"):
         api.ordersServeHTTP(w, r)
     default:
-        http.Error(w, "cannot handle request", http.StatusNotFound)
+        http.Error(w,
+            "cannot handle request", http.StatusNotFound)
     }
 }
 ```
@@ -87,7 +88,8 @@ func (mux *MethodMux) Handle(method string, handler http.Handler) {
 func (mux *MethodMux) ServeHTTP(w http.ResponseWriter, r *http.Request) {
     handler, ok = mux.handlers[r.Method]
     if !ok {
-        http.Error(w, "cannot handle request", http.StatusMethodNotAllowed)
+        http.Error(w,
+            "cannot handle request", http.StatusMethodNotAllowed)
     }
     handler.ServeHTTP(w, r)
 }
@@ -157,7 +159,8 @@ func (api shopAPI) ServeGet(w http.ResponseWriter, r *http.Request) { ... }
 func (api shopAPI) ServePost(w http.ResponseWriter, r *http.Request) { ... }
 
 func (api shopAPI) ServeHTTP(w http.ResponseWriter, r *http.Request) {
-    http.Error(w, "cannot handle shop request", http.StatusMethodNotAllowed)
+    http.Error(w,
+        "cannot handle shop request", http.StatusMethodNotAllowed)
 }
 ```
 
@@ -199,7 +202,8 @@ func (aw AuthWrapper) ServeHTTP(w http.ResponseWriter, r *http.Request) {
         return
     }
     if !aw.isAllowed(r) {
-        http.Error(w, "access not allowed", http.StatusUnauthorized)
+        http.Error(w,
+            "access not allowed", http.StatusUnauthorized)
         return
     }
     w.handler.ServeHTTP(w, r)
@@ -242,7 +246,8 @@ func (w NestedWrapper) ServeHTTP(w http.ResponseWriter, r *http.Request) {
     case 4, 5:
         w.secondHandler.ServeHTTP(w, r)
     default:
-        http.Error(w, "invalid URL", http.StatusNotFound)
+        http.Error(w,
+            "invalid URL", http.StatusNotFound)
     }
 }
 ```
