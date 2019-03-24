@@ -3,7 +3,7 @@ date = "2019-03-23T22:50:00+01:00"
 draft = false
 title = "Don't be afraid of multiplexing"
 tags = ["golang", "http"]
-categories = ["software development"]
+categories = ["development"]
 +++
 
 Pretty often you read questions about multiplexing in Go web application on Slack, StackOverflow, or Reddit. Sometimes they think about using libraries like `gorilla/mux`, which is a powerful software, and its alternatives. Depending on individual requirements and constraints these may make sense, but for many cases the standard library or own little packages based on the standard library are more than enough. I'll show the idea behind the Go `net/http` package and how to build own solutions based on it.
