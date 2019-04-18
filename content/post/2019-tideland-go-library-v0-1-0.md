@@ -1,5 +1,5 @@
 +++
-date = "2019-04-18T21:35:00+01:00"
+date = "2019-04-18T20:35:00+01:00"
 draft = false
 title = "Tideland Go Library v0.1.0"
 tags = ["golang", "tideland", "library", "release"]
