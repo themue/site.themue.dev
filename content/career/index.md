@@ -22,7 +22,7 @@ title = "Career"
 - Consulting for software development processes, software architecture, Google Go, Erlang/OTP, Clouds, Microservices
 - Articles, book reviews, and conference reports for IT magazines like iX, heise developer, Entwickler Magazin, JavaSPEKTRUM, Java Magazin, Linux Enterprise
 - Author of the book *Systemprogrammierung in Google Go* (*System Progrmaming in Google Go*)
-- Talks on conferences like OOP, JAX, parrallel, DevOps Conference, WebTech Conference
+- Talks on conferences like OOP, JAX, parallel, DevOps Conference, WebTech Conference
 - Development of open-source software under the label [Tideland](https://github.com/tideland/)
 
 ### 2017---2018 :: Senior Software Engineer
