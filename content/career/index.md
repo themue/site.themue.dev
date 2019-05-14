@@ -1,5 +1,5 @@
 +++
-date = "2019-03-02T20:00:00+01:00"
+date = "2019-05-13T20:00:00+01:00"
 draft = false
 menu = "main"
 weight = 20
@@ -8,7 +8,7 @@ title = "Career"
 
 ## Experience
 
-### 2019---Present :: Senior Software Engineer
+### 2019---Present :: Senior Solution Engineer
 
 **Loodse / Remote**
 
@@ -22,7 +22,7 @@ title = "Career"
 - Consulting for software development processes, software architecture, Google Go, Erlang/OTP, Clouds, Microservices
 - Articles, book reviews, and conference reports for IT magazines like iX, heise developer, Entwickler Magazin, JavaSPEKTRUM, Java Magazin, Linux Enterprise
 - Author of the book *Systemprogrammierung in Google Go* (*System Progrmaming in Google Go*)
-- Talks on conferences like OOP, parrallel, DevOps Conference, WebTech Conference
+- Talks on conferences like OOP, JAX, parrallel, DevOps Conference, WebTech Conference
 - Development of open-source software under the label [Tideland](https://github.com/tideland/)
 
 ### 2017---2018 :: Senior Software Engineer
