@@ -96,6 +96,7 @@ out := Filter(in, lf.IsOK)
 ```
 
 ## Some examples
+
 The shown `Filter()` function for a set of data, here a slice of strings, is a well known member of a family of functions with functions as parameter. This family also contains `Map()` and `Aggregate()`. The first one for example could expect a `func(string) string` for the conversion of all input strings into upper or lower cases. Others could cut or pad for a unique length.
 
 ```
@@ -150,6 +151,8 @@ length := Aggregate(0, in, func(v, s string) int {
 ```
 
 These kinds of functions for different types and different already provided filter, mapping, and aggregation functions build a useful package. Sadly today it's sometimes a bit inconvenient due to the static typing in Go. You need multiple implementation for the different function signatures. Here dynamic typed languages have an advantage. But with the possibly upcoming generics in Go this may change.
+
+### Options
 
 Another nice example is the configuration of structured types. Here often the parameter fields should be private, should have default values, and should mostly only be set during instantiation. So one way is a constructor with all parameters, but here I need an explicit setting. Or I create a number of different constructors which gets horrific in case of an increasing number of different options.
 
@@ -235,6 +238,8 @@ p3 := pinger.New(
 )
 ```
 
+### Actor
+
 Another wonderful feature is that functions as regular types can be sent via channels too. This can be useful for concurrent types which shall execute only one modifying action at a time. Languages like Erlang/OTP doing this following to the actor model. Here messages are sent into a message box and they will be processed sequentially. Same is simply possible in Go with the processing of functions sent to a loop running inside a goroutine.
 
 ```
@@ -288,6 +293,8 @@ func (ma *MyActor) IsPositive() bool {
     return positive
 }
 ```
+
+### State machine
 
 There are many more helpful use cases for functions as parameter, as return value or as field of a  `struct`. So easily a state machine can be implemented, where all event processing handler functions do have the same signature and return the handler function for the next event. Depending on the state this could be the same or a different one. When returning `nil` the end of the state machine is reached. 
 
@@ -362,11 +369,11 @@ func (f HandlerFunc) ServeHTTP(w ResponseWriter, r *Request) {
 
 These examples may give you an overview over the power of functions in Go and how seamless they work together with other functions and types. If as normal functions, as types, as parameters, as return values, or as fields of structs, with name or anonymous. They are an important part of the implementation of powerful, flexible, and good maintainable solutions.
 
-## Some links
+## Some useful links
+
 - [Function types](https://golang.org/ref/spec#Function_types)
 - [Function declarations](https://golang.org/ref/spec#Function_declarations)
 - [Method declarations](https://golang.org/ref/spec#Function_declarations)
 - [Function literals](https://golang.org/ref/spec#Function_literals)
 - [Effective Go - Functions](https://golang.org/doc/effective_go.html#functions)
 - [http.HandlerFunc](https://golang.org/pkg/net/http/#HandlerFunc)
- 
