@@ -73,7 +73,7 @@ func MakeLenFilter(max int) FilterFunc {
     }
 }
 
-. . .
+...
 
 out := Filter(in, MakeLenFilter(80))
 ```
@@ -89,7 +89,7 @@ func (lf LengthFilter) IsOK(s string) bool {
     return len(s) <= lf
 }
 
-. . .
+...
 
 lf := LengthFilter(50)
 out := Filter(in, lf.IsOK)
@@ -110,7 +110,7 @@ func Map(in []string, update MapFunc) []string {
     return out
 }
 
-. . .
+...
 
 out := Map(in, func(s string) string {
     return strings.ToUpper(s)
@@ -143,7 +143,7 @@ func Aggregate(
     return out
 }
 
-. . .
+...
 
 length := Aggregate(0, in, func(v, s string) int {
     return v + len(s)
@@ -212,7 +212,7 @@ func Interval(i time.Duration) Option {
     }
 }
 
-. . .
+...
 
 func NoLogging() Option {
     return func(p *Pinger) {
@@ -311,7 +311,7 @@ type StateMachine struct {
 }
 
 func New() *StateMachine {
-    . . .
+    ...
 }
 
 func (sm *StateMachine) Handle(e Event) error {
