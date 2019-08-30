@@ -16,13 +16,13 @@ So after some thinking I decided to create a *mono-repo* as module and using an 
 
 The repository itself including issue handling and release planning is still at [GitHub](https://github.com/tideland/go), it's working fine. But the used domain for my software  is **tideland.dev**. So the `asserts` package now has to be imported via
 
-```
+```go
 import tideland.dev/go/audit/asserts
 ```
 
 To achieve this I'm using the remote import paths (see documentation of [go command](https://golang.org/cmd/go/#hdr-Remote_import_paths)). Here I told the *nginx* in my according Docker container to send a document containing the according meta tag as reply if the request contains the argument `go-get`.
 
-```
+```nginx
 location ~ "(/[^/]+)(/.*)?" {
     if ($arg_go-get = "1") {
         echo '<html><head><meta name="go-import" content="tideland.dev$1 git https://github.com/tideland$1.git"/></head></html>';
@@ -33,9 +33,9 @@ location ~ "(/[^/]+)(/.*)?" {
 
 The root directory also contains an `index.html` redirecting to the category [Tideland](https://themue.dev/categories/tideland/) here on this site. Additionally I'm mirroring the repository in this container but don't provide access to it right now. For cloning you still have to go to GitHub.
 
-Another part of it has been to add an import comment due to different domain (see documentation of [go command](https://golang.org/cmd/go/#hdr-Import_path_checking) again). 
+Another part of it has been to add an import comment due to different domain (see documentation of [go command](https://golang.org/cmd/go/#hdr-Import_path_checking) again).
 
-```
+```go
 package asserts // import "tideland.dev/go/audit/asserts
 ```
 

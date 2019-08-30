@@ -12,23 +12,23 @@ Pretty often you read questions about multiplexing in Go web application on Slac
 
 The package `net/http` provides a server which distributes incoming HTTP requests to processing functions in goroutines. The simplest variants are the functions `http.ListenAndServe()` for HTTP and `http.ListenAndServeTLS()` for HTTPS. Also there are `http.Serve()` and `http.ServeTLS()` which do work with individual instances of a `net.Listener` and provide more flexibility in its configuration. Third way with a maximum of flexibility is the creation of an own instance of the `http.Server` which is configurable by many parameters.
 
-All three ways have in common that they need an implementation of the `http.Handler` interface. It only defines one method, 
+All three ways have in common that they need an implementation of the `http.Handler` interface. It only defines one method,
 
-```
+```go
 ServeHTTP(w http.ResponseWriter, r *http.Request)
 ```
 
 This method is responsible to analyse the request `r` and write the answer to the writer `w`. Both types provide different fields and methods for this task.
 
-A simple and convenient form of the interface is the `http.HandlerFunc`. It is the simple function type 
+A simple and convenient form of the interface is the `http.HandlerFunc`. It is the simple function type
 
-```
+```go
 func(w http.ResponseWriter, r *http.Request)
 ```
 
 Here the needed method is implemented quite simple by calling the receiver type. It's nice in Go that function types can have methods too. So now a very simple server is done with only a few lines of code.
 
-```
+```go
 h := func(w http.ResponseWriter, r *http.Request) {
     w.WriteHeader(http.StatusOK)
     w.Write([]byte("Hello, World!"))
@@ -39,7 +39,7 @@ http.ListenAndServe(":8080", h)
 
 The analysis of the path of a request and the distribution to according functions inside the handler is a bit inconvenient. For example this can be done via a `switch` statement. But it's no fun.
 
-```
+```go
 func (api *ShopAPI) ServeHTTP(w http.ResponseWriter, r *http.Request) {
     switch {
     case strings.HasPrefix(r.URL.Path, "/api/customers/"):
@@ -57,7 +57,7 @@ This might be possible in case of very small APIs, but with growing number of pa
 
 Thankfully the `http` package of Go provides a handler which acts as multiplexer, the `http.ServeMux`. Here the `ServeHTTP()` method analyses the request path, computes relative parts, and distributes the request to handlers registered by paths. Those may be absolute for individual resources or for all resources inside a path. The used paths may overlap, for example one handler for `/posts/` and one for `/posts/images/`. When a request contains the longer registered path its handler has the higher priority.
 
-```
+```go
 mux := http.NewServeMux()
 
 mux.Handle("/posts/", NewPostsHandler())
@@ -72,11 +72,11 @@ http.ListenAndServe(":8080", mux)
 
 As long as only the simple  `http.ListenAndServe()` is used you don't need an extra instance of the multiplexer. The package contains the global `DefaultServeMux` and the handler can be registered via `http.Handle("/api/", NewAPIHandler())`. When starting the server you only need to pass `nil` as handler, so `http.ListenAndServe(":8080", nil)`.
 
-## But which method?
+## But which method
 
 Beside the path of a request its HTTP method is important too. Here the Go packages provide nothing, a handler has to do evaluate the field `Request.Method` manually. But by creating a small `MethodMux` it's no problem.
 
-```
+```go
 type MethodMux struct {
     handlers map[string]http.Handler
 }
@@ -97,7 +97,7 @@ func (mux *MethodMux) ServeHTTP(w http.ResponseWriter, r *http.Request) {
 
 So in a RESTful API for a shop on base of the `DefaultServeMux` individual handler and handler functions can be registered for individual HTTP methods.
 
-```
+```go
 customerAPI := NewMethodMux()
 
 customerAPI.Handle(http.MethodPost, NewCustomerCreateHandler())
@@ -111,7 +111,7 @@ http.Handle("/api/customers/", customerAPI)
 
 For many APIs a better approach may be the usage of only one handler but with individual Go methods for the individual HTTP methods. Here a wrapper, a number of interfaces, and the _type assertion_ can help. First you need to define a small interface for each HTTP method.
 
-```
+```go
 type GetHandler interface {
     ServeGet(w http.ResponseWriter, r *http.Request)
 }
@@ -125,7 +125,7 @@ type PostHandler interface {
 
 And the wrapper evaluates inside its `ServeHTTP()` method the HTTP method and checks if the given handler implements the matching interface.
 
-```
+```go
 type MethodWrapper struct {
     handler http.Handler
 }
@@ -151,7 +151,7 @@ func (mw MethodWrapper) ServeHTTP(w http.ResponseWriter, r *http.Request) {
 
 Now the business logic can be distributed to the according methods if those are provided. Otherwise the `ServeHTTP()` method of the handler itself can provide an error message or some kind of default handling. All fields and methods of the handler are shared between all method handle methods (_Why both share the same name, HTTP and Go?_)
 
-```
+```go
 type shopAPI struct {}
 
 func (api shopAPI) ServeGet(w http.ResponseWriter, r *http.Request) { ... }
@@ -166,7 +166,7 @@ func (api shopAPI) ServeHTTP(w http.ResponseWriter, r *http.Request) {
 
 This way the deployment will become one line of code.
 
-```
+```go
 http.Handle("/shop/", NewMethodWrapper(NewShopAPI()))
 ```
 
@@ -178,7 +178,7 @@ Another requirement for many web applications is the protection against unauthor
 
 The token for a user session has to be generated after the authentication and to be returned to the client. The client has to deliver it as header in the form `Authorization: Bearer <Token>`  with each request. On server-side a security wrapper can read this header, check for consistency and validity, and let only pass authorized requests. Thankfully there are several supporting packages for JWT available.
 
-```
+```go
 type AuthWrapper struct {
     handler http.Handler
     authURL string
@@ -186,7 +186,7 @@ type AuthWrapper struct {
 }
 
 func NewAuthWrapper(
-    handler http.Handler, 
+    handler http.Handler,
     authURL string,
     roles ...string) http.Handler {
     return AuthWrapper{
@@ -212,7 +212,7 @@ func (aw AuthWrapper) ServeHTTP(w http.ResponseWriter, r *http.Request) {
 
 If a request contains no token or is a delivered one expired a redirect to a URL for the login has to be done. Also an automatic extension if a token expires in a few minutes is a nice feature. There a many possible strategies, most important is the idea of the wrapping as part of the own toolbox.
 
-```
+```go
 usersAPI := NewAuthWrapper(NewMethodWrapper(NewUsersAPI()), "admin")
 
 http.Handle("/api/users/", usersAPI)
@@ -220,7 +220,7 @@ http.Handle("/api/users/", usersAPI)
 
 With a trivial interface with only one method is this more simple and convenient possible as with complex interfaces and a huge configuration. Another strength of this approach is also the simple isolated testing of the business logic handlers without any infrastructure tasks. Here Go provides a very useful `httptest.Server` as local test server in the package `net/http/httptest`.
 
-## And RESTful APIs?
+## What about RESTful APIs
 
 The `http.ServeMux` is helpful when working with static paths. But delivering paths with flexible parts to the same handlers is no feature. In case of RESTful APIs individual identifiers are parts or the path the HTTP methods control what to do then. Examples are
 
@@ -233,7 +233,7 @@ It would be nice if this could be done with only two handlers. An `OrdersAPI` fo
 
 With the `ServeMux` all requests prefixed `/api/orders/` can be assigned to one handler. This one has to process requests around orders and order items. A little helper function for the checking and retrieval of the order ID and the item index should be no problem. So the order ID can retrieved via `id, ok := GetPathElem(r, 3)` very easily. Now only the question on how to distribute the request to the two handlers can be done is left. Once again a simple wrapper helps.
 
-```
+```go
 type NestedWrapper struct {
     firstHandler  http.Handler
     secondHandler http.Handler
@@ -254,12 +254,12 @@ func (w NestedWrapper) ServeHTTP(w http.ResponseWriter, r *http.Request) {
 
 The handlers managed by this wrapper themselves can be wrapped by or use other wrappers, depending on their needs. Those can be the ones for the authorization, for the dispatching of the HTTP methods, or others.
 
-```
+```go
 ordersAPI := NewAuthWrapper(
     NewNestedWrapper(
-        NewMethodWrapper(NewOrdersAPI()), 
+        NewMethodWrapper(NewOrdersAPI()),
         NewMethodWrapper(NewOrdersItemsAPI()),
-    ), 
+    ),
     "dispatcher",
 )
 

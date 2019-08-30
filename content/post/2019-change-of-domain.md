@@ -16,10 +16,10 @@ The personal domain is now changed, the Tideland domains will follow these days.
 I also have to change the new Go mono repository I'm migrating my packages to. They'll
 then be importable like
 
-```
+```go
 import (
     "context"
-    
+
     "tideland.dev/go/together/loop"
     "tideland.dev/go/together/notifier"
 )
