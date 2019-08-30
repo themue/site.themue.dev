@@ -266,4 +266,4 @@ ordersAPI := NewAuthWrapper(
 http.Handle("/api/orders/", ordersAPI)
 ```
 
-Surely the are useful applications where the pros of using an existing library is bigger then the cons through complexity and dependencies. But this decision has to be evaluated very thoroughly. Go is designed for simplicity and composition, the basic ideas of Unix. And the package `net/http` shows by a simple interface and the both types for request and response how own flexible toolboxes can easily be created with this philosophy.
+Surely there are useful applications where the pros of using an existing library is bigger than the cons through complexity and dependencies. But this decision has to be evaluated very thoroughly. Go is designed for simplicity and composition, the basic ideas of Unix. And the package `net/http` shows with a simple interface and the both types for request and response how own flexible toolboxes can easily be created with this philosophy.
