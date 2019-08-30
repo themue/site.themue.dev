@@ -12,7 +12,7 @@ title = "Career"
 
 - Remote
 - Implementation of an application system to deploy, manage, and run Kubernetes clusters
-- Customer
+- Customer support regarding clouds, Kubernetes, and Docker
 - Technologies: Kubernetes, Docker, Google Go, Google Cloud
 
 ### 1993---Present :: Experienced Solutions Engineer :: Self-Employed
