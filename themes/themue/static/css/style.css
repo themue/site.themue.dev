@@ -63,7 +63,7 @@ body {
 	font-size: 14px;
 	font-size: 0.875rem;
 	line-height: 1.6;
-	background: #f7f7f7;
+	background: #000000;
 	word-wrap: break-word;
 }
 
@@ -83,7 +83,7 @@ body {
 
 .wrapper {
 	padding: 25px;
-	background: #fff;
+	background: #000000;
 }
 
 .content {
@@ -216,7 +216,7 @@ h6 {
 
 h1, h2, h3, h4, h5, h6 {
 	font-family: "Open Sans", Helvetica, Arial, sans-serif;
-	color: #000;
+	color: #ffffff;
 	line-height: 1.3;
 	font-weight: 700;
 }
@@ -228,18 +228,18 @@ small {
 
 pre {
 	font-family: "Consolas", Courier New, Courier, monospace;
-	color: #000;
+	color: #ffffff;
 	margin-bottom: 20px;
 	margin-bottom: 1.25rem;
-	background: #f5f5f5;
-	border: 1px solid #aaa;
+	background: #111111;
+	border: 1px solid #333333;
 	border-radius: 0.1875em;
 	-moz-border-radius: 0.1875em;
 	-moz-box-shadow: 0 0.0625em 0 rgba(0, 0, 0, 0.2), 0 0 0 0.125em white inset;
 	-webkit-border-radius: 0.1875em;
 	-webkit-box-shadow: 0 0.0625em 0 rgba(0, 0, 0, 0.2), 0 0 0 0.125em white inset;
 	box-shadow: 0 0.0625em 0 rgba(0, 0, 0, 0.2), 0 0 0 0.125em white inset;
-	text-shadow: 0 0.0625em 0 #fff;
+	text-shadow: 0 0.0625em 0 #000000;
 	padding: 20px;
 	padding: 1.25rem;
 	white-space: pre-wrap;
@@ -251,9 +251,9 @@ pre {
 kbd, code {
 	font-family: "Consolas", Courier New, Courier, monospace;
 	font-weight: bold;
-	color: #000;
+	color: #ffffff;
 	padding: 0px;
-	background: #f5f5f5;
+	background: #111111;
 }
 
 blockquote {
@@ -262,7 +262,7 @@ blockquote {
 	font-size: 0.9375rem;
 	line-height: 1.6;
 	font-style: italic;
-	color: #666;
+	color: #666666;
 	padding: 5px 0 5px 15px;
 	border-left: 5px solid #298A08;
 }
@@ -285,7 +285,7 @@ abbr, acronym {
 }
 
 cite {
-	color: #9a9b97;
+	color: #aaaaaa;
 }
 
 q {
@@ -300,12 +300,12 @@ address {
 }
 
 a {
-	color: #000;
+	color: #ffffff;
 	text-decoration: none;
 }
 
 a:hover {
-	color: #298A08;
+	color: #ffcc00;
 }
 
 /*** Lists ***/
@@ -353,7 +353,7 @@ select {
 
 /*** Header ***/
 .header {
-	background: #fff;
+	background: #000000;
 }
 
 .logo {
@@ -377,7 +377,7 @@ select {
 	font-size: 14px;
 	font-size: 0.875rem;
 	line-height: 1;
-	color: #298A08;
+	color: #ffcc00;
 	padding-top: 10px;
 	margin-top: 10px;
 	border-top: 1px solid #e5e5e5;
@@ -385,7 +385,7 @@ select {
 
 /*** Navigation — Responsive-nav.js ***/
 .menu {
-	background: #2a2a2a;
+	background: #ffcc00;
 	width: 100%;
 	margin: 0 auto;
 	position: relative;
@@ -393,7 +393,7 @@ select {
 }
 
 .menu__toggle {
-	background: #2a2a2a;
+	background: #ffcc00;
 	text-transform: uppercase;
 	padding: 10px 15px;
 	color: #ffffff;
@@ -420,13 +420,13 @@ select {
 .menu__link {
 	padding: 10px 15px;
 	display: block;
-	color: #fff;
+	color: #000000;
 	border-left: 1px solid rgba(255, 255, 255, 0.1);
 	font-weight: 700;
 }
 
 .menu__link:hover {
-	color: #ffffff;
+	color: #ffff00;
 }
 
 .js .menu--collapse {
@@ -442,7 +442,7 @@ select {
 }
 
 .opened.menu__list {
-	border-top: 1px solid #298A08;
+	border-top: 1px solid #ff0000;
 }
 
 .menu__item {
@@ -452,11 +452,11 @@ select {
 }
 
 .menu__item:hover {
-	background: #298A08;
+	background: #ffffff;
 }
 
 .menu__item--active {
-	background: #298A08;
+	background: #ffffff;
 }
 
 .menu__item:first-child {
