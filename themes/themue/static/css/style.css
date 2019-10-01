@@ -264,7 +264,7 @@ blockquote {
 	font-style: italic;
 	color: #666666;
 	padding: 5px 0 5px 15px;
-	border-left: 5px solid #298A08;
+	border-left: 5px solid #cc9900;
 }
 
 sup {
@@ -305,7 +305,7 @@ a {
 }
 
 a:hover {
-	color: #ffcc00;
+	color: #cc9900;
 }
 
 /*** Lists ***/
@@ -377,7 +377,7 @@ select {
 	font-size: 14px;
 	font-size: 0.875rem;
 	line-height: 1;
-	color: #ffcc00;
+	color: #cc9900;
 	padding-top: 10px;
 	margin-top: 10px;
 	border-top: 1px solid #e5e5e5;
@@ -385,7 +385,7 @@ select {
 
 /*** Navigation — Responsive-nav.js ***/
 .menu {
-	background: #ffcc00;
+	background: #cc9900;
 	width: 100%;
 	margin: 0 auto;
 	position: relative;
@@ -393,7 +393,7 @@ select {
 }
 
 .menu__toggle {
-	background: #ffcc00;
+	background: #cc9900;
 	text-transform: uppercase;
 	padding: 10px 15px;
 	color: #ffffff;
@@ -477,7 +477,7 @@ select {
 	}
 
 	.menu {
-		border-bottom: 5px solid #298A08;
+		border-bottom: 5px solid #cc9900;
 		min-height: 42px;
 	}
 
@@ -509,7 +509,7 @@ select {
 }
 
 .meta a:hover {
-	color: #ffcc00;
+	color: #cc9900;
 }
 
 .meta span {
@@ -560,11 +560,11 @@ select {
 
 .post__content a {
 	font-weight: 700;
-	color: #298A08;
+	color: #cc9900;
 }
 
 .post__content a:hover {
-	color: #298A08;
+	color: #cc9900;
 	text-decoration: underline;
 }
 
@@ -582,12 +582,12 @@ select {
 	font-weight: 700;
 	margin: 0 6px 6px 0;
 	margin: 0 0.375rem 0.375rem 0;
-	background: #2a2a2a;
+	background: #111111;
 	text-transform: uppercase;
 }
 
 .tags__item:hover {
-	background: #298A08;
+	background: #cc9900;
 }
 
 .tags__link, .tags__link:hover {
@@ -600,7 +600,7 @@ select {
 	float: left;
 	padding: 8px;
 	margin-right: 6px;
-	background: #ffcc00;
+	background: #cc9900;
 }
 
 .icon-tag {
@@ -686,7 +686,7 @@ select {
 
 .pagination__item:hover, .pagination__item--current {
 	color: #000000;
-	background: #ffcc00;
+	background: #cc9900;
 }
 
 /*** Post Navigation ***/
@@ -720,7 +720,7 @@ select {
 /*** Footer ***/
 .footer {
 	padding: 10px 25px;
-	border-top: 3px solid #ffcc00;
+	border-top: 3px solid #cc9900;
 	background: #cccccc;
 }
 
@@ -816,7 +816,7 @@ input[type=text], input[type=email], input[type=tel], input[type=url] {
 
 input[type=text]:hover, input[type=email]:hover, input[type=tel]:hover,
 input[type=url]:hover, textarea:hover {
-	border: 1px solid #ffcc00;
+	border: 1px solid #cc9900;
 }
 
 input[type=submit] {
@@ -825,7 +825,7 @@ input[type=submit] {
 	font-weight: 700;
 	color: #fff;
 	padding: 10px 15px;
-	background: #ffcc00;
+	background: #cc9900;
 	cursor: pointer;
 	text-transform: uppercase;
 	-webkit-transition: all 0.1s linear;
@@ -907,7 +907,7 @@ textarea {
 	margin-bottom: 20px;
 	margin-bottom: 1.25rem;
 	text-transform: uppercase;
-	border-bottom: 3px solid #298A08;
+	border-bottom: 3px solid #cc9900;
 }
 
 /*** Default WordPress Widgets ***/
