@@ -8,14 +8,14 @@ title = "Career"
 
 ## Experience
 
-### 2019---Present :: Senior Solution Engineer :: Loodse
+### 2019---Present :: Solutions Engineer :: Loodse
 
 - Remote
 - Implementation of an application system to deploy, manage, and run Kubernetes clusters
 - Customer support regarding clouds, Kubernetes, and Docker
 - Technologies: Kubernetes, Docker, Google Go, Google Cloud
 
-### 1993---Present :: Experienced Solutions Engineer :: Self-Employed
+### 1993---Present :: Solutions Engineer :: Self-Employed
 
 - Oldenburg
 - Consulting for software development processes, software architecture, Google Go, Erlang/OTP, Clouds, Microservices
