@@ -13,7 +13,7 @@ title = "Career"
 - Remote
 - Implementation of an application system to deploy, manage, and run Kubernetes clusters
 - Customer support regarding clouds, Kubernetes, and Docker
-- Technologies: Kubernetes, Docker, Google Go, Google Cloud
+- Technologies: Kubernetes, Docker, Google Go, Google Cloud, Amazon EC2
 
 ### 1993---Present :: Solutions Engineer :: Self-Employed
 
@@ -30,21 +30,21 @@ title = "Career"
 - Implementation of a mobile Ethereum system in a world-wide distributed team
 - Technologies: Blockchains, Ethereum, Geth, Google Go
 
-### 2016---2017 :: Senior Software Engineer :: AKKA
+### 2016---2017 :: Software Engineer :: AKKA
 
 - Bremen
 - Architecture and implementation of a logistics management system
 - Implementation and management of development processes, requirements engineering and quality assurance
 - Technologies: Microservices, RESTful API, Google Go, JavaScript, CouchDB, JSON Web Token, Linux, Docker
 
-### 2011---2015 :: Senior Software Engineer :: Canonical
+### 2011---2015 :: Software Engineer :: Canonical
 
 - Remote
 - Implementation of [Juju](https://jujucharms.com/), a cloud provisioning and configuration system, in a world-wide distributed team
 - Management of sub-contractors for the development
 - Technologies: Linux, Google Go, MongoDB, Python, ZooKeeper, Amazon EC2, OpenStack, Azure, MAAS, LXC
 
-### 2006---2011 :: Team Manager and Senior Consultant :: BTC
+### 2006---2011 :: Team Manager and Consultant :: BTC
 
 - Oldenburg
 - Maintenance and extension of Smalltalk and GemStone/S based configuration management system for telecommunication and networks
