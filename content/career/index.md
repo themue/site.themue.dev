@@ -24,7 +24,7 @@ title = "Career"
 - Talks on conferences like OOP, JAX, parallel, DevOps Conference, WebTech Conference
 - Development of open-source software under the label [Tideland](https://github.com/tideland/)
 
-### 2017---2018 :: Senior Software Engineer :: Status Research & Development
+### 2017---2018 :: Software Engineer :: Status Research & Development
 
 - Remote
 - Implementation of a mobile Ethereum system in a world-wide distributed team
