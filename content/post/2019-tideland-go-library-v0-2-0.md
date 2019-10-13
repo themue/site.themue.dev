@@ -10,4 +10,4 @@ Here it is, a new minor release of the **Tideland Go Library**. It's the new **v
 
 But it also contains two bigger blocks. One has been the splitting of the somehow poor designed and organized `webbex` into the new `httpx` and `web`. The other one is the even bigger one, I needed most of the time for it. It's the re-engineering of the `cells` package for event-driven Go applications.
 
-The first ideas for the next release are already planned and noted as [issues](https://github.com/tideland/go/issues). Quite interesting will be the factories for typical cell meshes. Also thinking about adding more helper packages for the work with concurrency.
+The first ideas for the next release are already planned and noted as [issues](https://github.com/tideland/go/issues). Quite interesting will be the factories for typical cell meshes. Or the possibility of setting options for started cells. I'm Also thinking about adding more helper packages for the work with concurrency.
