@@ -6,7 +6,7 @@ tags = ["golang", "tideland", "library", "release"]
 categories = ["tideland"]
 +++
 
-Here it is, a new minor release of the **Tideland Go Library**. It's the new **v0.2.0** and contains some smaller changes. You can read about it inside the [changelog](https://github.com/tideland/go/blob/v0.2.0/CHANGELOG.md).
+Here it is, a new minor release of the **Tideland Go Library**. It's the new **v0.2.0** and contains some smaller changes. You can read about it inside the [CHANGELOG](https://github.com/tideland/go/blob/v0.2.0/CHANGELOG.md).
 
 But it also contains two bigger blocks. One has been the splitting of the somehow poor designed and organized `webbex` into the new `httpx` and `web`. The other one is the even bigger one, I needed most of the time for it. It's the re-engineering of the `cells` package for event-driven Go applications.
 
