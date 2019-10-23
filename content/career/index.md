@@ -11,8 +11,8 @@ title = "Career"
 ### 2019---Present :: Solutions Engineer :: Loodse
 
 - Remote
-- Implementation of an application system to deploy, manage, and run Kubernetes clusters
 - Consulting and customer support regarding clouds, Kubernetes, and Docker
+- Implementation of an application system to deploy, manage, and run Kubernetes clusters
 - Technologies: Kubernetes, Docker, Google Go, Google Cloud, Amazon EC2
 
 ### 1993---Present :: Solutions Engineer :: Self-Employed
