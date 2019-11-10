@@ -10,7 +10,7 @@ Today we're celebrating the birthday of our little gopher, Googles programming l
 
 ![Gophers 10th Birthday ](https://blog.golang.org/10years/gopher10th-small.jpg)
 
-When Go started in 2009 I immediately started to experiment with it too. Reason has been my interest in. concurrent languages, l already used _Erlang/OTP_ the years before and so I quickly got the concepts of Go and have been quite happy with it. Talks, articles, and a book followed, and since 2011 I'm using Go professionally. Cloud provisioning, a logistics application based on micro-services, Ethereum, und Kubernetes, Googles language always has been a good companion. And as you know you can find my private stuff labeled [Tideland](https://github.com/tideland/go).
+When Go started in 2009 I immediately started to dive into it too. Reason has been my interest in concurrent languages. l already used _Erlang/OTP_ the years before and so quickly got the concepts of Go. Talks, articles, and a book followed, and since 2011 I'm using Go professionally. Cloud provisioning, a logistics application based on micro-services, Ethereum, and Kubernetes, Googles language always has been a good companion. And as you know you can find my private stuff labeled [Tideland](https://github.com/tideland/go).
 
 For German readers I wrote a little news about the last decade for [Heise Developer](https://www.heise.de/developer/meldung/Programmiersprache-Go-feiert-zehnten-Geburtstag-4583503.html).
 
