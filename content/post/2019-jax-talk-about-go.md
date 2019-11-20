@@ -2,7 +2,7 @@
 date = "2019-08-29T22:00:00+01:00"
 draft = false
 title = "Video of my JAX 2019 talk about Go"
-tags = ["talk", "golang"]
+tags = ["conference", "talk", "golang"]
 categories = ["conferences", "development"]
 +++
 
