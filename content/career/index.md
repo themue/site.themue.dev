@@ -1,5 +1,5 @@
 +++
-date = "2019-05-13T20:00:00+01:00"
+date = "2019-03-11T20:00:00+01:00"
 draft = false
 menu = "main"
 weight = 20
@@ -10,14 +10,15 @@ title = "Career"
 
 ### 2019---Present :: Solution Engineer :: Loodse
 
-- Remote
+- Oldenburg, Germany - Remote in an international team
+- Implementation of [](https://www.loodse.com/products/kubermatic/), a multicloud Kubernetes management platform
 - Consulting and customer support regarding clouds, Kubernetes, and Docker
 - Implementation of an application system to deploy, manage, and run Kubernetes clusters
 - Technologies: Kubernetes, Docker, Google Go, Google Cloud, Amazon EC2
 
 ### 1993---Present :: Solution Engineer :: Self-Employed
 
-- Oldenburg
+- Oldenburg, Germany
 - Consulting for software development processes, software architecture, Google Go, Erlang/OTP, Clouds, Microservices
 - Articles, book reviews, and conference reports for IT magazines like iX, heise developer, Entwickler Magazin, JavaSPEKTRUM, Java Magazin, Linux Enterprise
 - Author of the book *Systemprogrammierung in Google Go* (*System Progrmaming in Google Go*)
@@ -26,27 +27,27 @@ title = "Career"
 
 ### 2017---2018 :: Software Engineer :: Status Research & Development
 
-- Remote
-- Implementation of a mobile Ethereum system in a world-wide distributed team
+- Oldenburg, Germany - Remote in an international team
+- Implementation of [Status](https://status.im), a mobile Ethereum system
 - Technologies: Blockchains, Ethereum, Geth, Google Go
 
 ### 2016---2017 :: Software Engineer and Software Architect :: AKKA
 
-- Bremen
+- Bremen, Germany
 - Architecture and implementation of a logistics management system
 - Implementation and management of development processes, requirements engineering and quality assurance
 - Technologies: Microservices, RESTful API, Google Go, JavaScript, CouchDB, JSON Web Token, Linux, Docker
 
 ### 2011---2015 :: Software Engineer :: Canonical
 
-- Remote
-- Implementation of [Juju](https://jujucharms.com/), a cloud provisioning and configuration system, in a world-wide distributed team
+- Oldenburg, Germany - Remote in an international team
+- Implementation of [Juju](https://jujucharms.com/), a cloud provisioning and configuration system
 - Management of sub-contractors for the development
 - Technologies: Linux, Google Go, MongoDB, Python, ZooKeeper, Amazon EC2, OpenStack, Azure, MAAS, LXC
 
 ### 2006---2011 :: Team Manager and Consultant :: BTC
 
-- Oldenburg
+- Oldenburg, Germany
 - Maintenance and extension of Smalltalk and GemStone/S based configuration management system for telecommunication and networks
 - Analysis and consulting for SOA and software architecture
 - Team Manager with up to 24 team members
@@ -55,7 +56,7 @@ title = "Career"
 
 ### 2003---2006 ::  Technical Project Manager and System Specialist :: Thales
 
-- Wilhelmshaven
+- Wilhelmshaven, Germany
 - Responsible for the data migration sub-project in a larger military project leading 7 team members
 - Technical Project Manager
 - Management of sub-contractors for the development
@@ -65,7 +66,7 @@ title = "Career"
 
 ### 2001---2003 :: Development Director :: OpenKnowledge
 
-- Oldenburg
+- Oldenburg, Germany
 - Development Director leading 15 team members
 - System architecture
 - Implementation and management of development processes, requirements engineering, and quality assurance
@@ -74,15 +75,15 @@ title = "Career"
 
 ### 2000---2001 :: VP Software Development :: CANBOX
 
-- Oldenburg and Boston
-- Vice President Software Development leading 22 team members in Oldenburg, Germany, and Boston, MA, USA
+- Oldenburg, Germany and Boston, MA USA
+- Vice President Software Development leading 22 team members
 - System architecture
 - Implementation and management of development processes, requirements engineering and quality assurance
 - Technologies: Java EE
 
 ### 1999---2000 :: Development Director :: RedDot
 
-- Oldenburg
+- Oldenburg, Germany
 - Development Director for the enterprise edition of the RedDot Content Management System leading 7 team members
 - Software architecture
 - Implementation and management of development processes, requirements engineering and quality assurance
@@ -90,7 +91,7 @@ title = "Career"
 
 ### 1997---1999 :: System Specialist Unix :: Nordwest-Zeitung
 
-- Oldenburg
+- Oldenburg, Germany
 - System Specialist for high-available Unix systems
 - Operation of newspaper production systems, SAP R/3, and mail servers
 - Automation using shell, Python, and Perl scripting
@@ -100,7 +101,7 @@ title = "Career"
 
 ### 1991---1997 :: System Specialist :: R+V Versicherung
 
-- Oldenburg
+- Oldenburg, Germany
 - System Specialist for mainframe, servers, PCs, networking, and telecommunication
 - Operation of a number of servers running OS/2, AIX, and DPPX
 - Remote operation of mainframes running MVS with TSO, CICS, and DB2
