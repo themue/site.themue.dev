@@ -11,7 +11,7 @@ title = "Career"
 ### 2019---Present :: Solution Engineer :: Loodse
 
 - Oldenburg, Germany - Remote in an international team
-- Implementation of [](https://www.loodse.com/products/kubermatic/), a multicloud Kubernetes management platform
+- Implementation of [Kubermatic](https://www.loodse.com/products/kubermatic/), a multicloud Kubernetes management platform
 - Consulting and customer support regarding clouds, Kubernetes, and Docker
 - Implementation of an application system to deploy, manage, and run Kubernetes clusters
 - Technologies: Kubernetes, Docker, Google Go, Google Cloud, Amazon EC2
