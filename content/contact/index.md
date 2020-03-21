@@ -12,7 +12,7 @@ title = "Contact"
 Oldenburg </br>
 Germany </br>
 Mobile Phone +49-174-1819758 </br>
-Mail [mail@themue.dev](mailto:mail@themue.dev)
+Mail [frank.mueller@themue.dev](mailto:frank.mueller@themue.dev)
 
 ## Links
 
