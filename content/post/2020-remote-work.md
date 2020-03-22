@@ -1,20 +1,32 @@
 +++
 date = "2020-03-21T22:15:00+01:00"
 draft = false
-title = "Working remote in the digital age"
+title = "Working remotely - not only due to the virus"
 tags = ["work", "remote", "virus"]
 categories = ["work"]
 +++
 
-**And not only motivated by a virus.**
+Interestingly I already wanted to write about remote work before the current crisis. I had the luck to start with it in 2011. I then began working for [Canonical](https://canonical.com/), a world-wide distributed company. My direct colleagues had been spread from New Zealand and Australia via several locations in Europe to North- and South-America. A fantastic feeling. Actually I'm working for [Loodse](https://www.loodse.com/), not as large but 100% remote too. And I enjoy working with all my different colleagues.
 
-Interestingly I already wanted to write about this topic since a longer time. I started remote work in 2011, only once interrupted. And that interruption has been together with two hours of commuting each day, loosing time and money. This already is a good motivation for working from home, but not the only one. I really love working remotely. Now the situation changed, a **virus** forces people to work from home as well as companies quickly have to change their processes and infrastructures.
+But right now the motivation for many is a different one. It's the virus crisis which forces people to stay home and to work there. Not all jobs allow to do so, but IT jobs like mine or many other typical office jobs do so. So this possibly is a chance to establish remote work even more. So far many executive boards are still sceptical.
 
-There are several benefits beside lower costs and loosing less time. So for example the teams are virtual and spread over many locations, in a city, in a country, or all over the world. You may think that this is negative, but these teams depend on their **knowledge** and **interest** for a topic and not on their **location**. It also helps when being handicapped or when you've got a young family. Another fascinating aspect when your company and the team are spread over the world is the varied mixture of colleagues from many different continents and countries. **It's a great feeling**.
+Why do I appreciate remote work so much? It's being close to the family, having a self designed office, quiet and in my case with self-chosen hardware. Additionally I'm avoiding the daily commuting. Here I once had an one hour distance, 10 hours lost time per week, not talking about the additional cost. So useless and dumb. And I also like the freedom regarding the time or the working place, will write more about it later. And a special benefit is the feeling. Your team isn't determined by the location. It's determined by the specialisation of the people, their knowledge, their interests. And as mentioned above you may have international colleagues you're working with each day.
 
-Surely there are several **challenges**. As a company you have to ensure access to your internal infrastructure, for example using a VPN. Or you use an infrastructure provided by several service providers like Google or Microsoft. And there are many more solutions allowing 100% remote companies to do without own server and software installations. They cover mail and calendar, office suite, chat, video conference, all around software development, sales, HR, travel agencies and cost management, and many services more. It's fantastic.
+### Infrastructure
 
-Beside technology there are also **process** aspects to handle. The communication is different from just move to the next office. So establish chat rooms and messaging as well as video calls. You need to find a common language, often English, if your teams are spread over several countries. Next part is the spreading of the team member over different time zones. It's not always simple to keep individual groups close to each other to make their work more simple. Also coordinating appointments needs precise times with time zones or UTC to have it fixed for all. And in software development you also need to establish distributed review processes ensuring that only approved and tested branches get merged into the code base (which also is good for local development).
+One interesting topic is the infrastructure. Many companies do have their own data center. So they need enough capacity and the technology to enter it from outside. VPNs and terminal servers are a way. The other one chosen by many IT startups is to use external services like Google Apps. And there's a lot for office, HR and recruiting, sales, customer service, travel booking and cost management, documentation, and communication. And for development teams there's code management, code review, and CI. So you can avoid own central infrastructure.
+
+But still the employees need their hardware. Distribution of central managed computers and mobile phones is one way. Another is supporting people in buying their own computer or using their private ones for the job too. As we all know we have individual preferences. As long as those match to the environment it's no problem.
+
+### Processes
+
+Surely communication is more simple when sitting in one room or you just have to walk around the corner. But there are possibilities. You can establish instant messaging, group chats in channels, or video calls. In case of being spread over multiple countries and time zones you have to take care when setting up meetings. Try to find a convenient time vor all invited colleagues, communicate times including a fixed time zone like UTC, and take care for bank holidays. Sounds difficult but isn't. Just care for it.
+
+Also when having your video group calls, single ones as well as regular ones per day or week, then try to make them short. It's difficult to participate in long video discussions, especially when you're one of the passive members for one topic. So try to first cover the status exchange for all or general discussions and then setup individual calls for smaller groups with need for more discussion.
+
+Another aspect of distribution is the sharing of information. Not all can always exchange in the meetings and calls, follow all chats, or participate in detailed discussions about decisions. So always take notes and document ideas, concepts, and decisions. Here wikis are very simple and useful.
+
+### Daily routine
 
 So far a quick overview over business aspects. But there are also many **individual** ones. It starts with your regular morning. This best should be like for a regular office job. You get up early, go into the bath, get dressed, have your breakfast, and start your work. This in detail surely depends on your personal preferences, you've got a lot of freedom. But the regularity helps you to switch into a **work mode**, a separating between spare time and work. And it helps you to focus. Last but not least your colleagues know when they can reach you best.
 
