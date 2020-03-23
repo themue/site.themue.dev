@@ -1,7 +1,7 @@
 +++
 date = "2020-03-23T22:15:00+01:00"
 draft = false
-title = "Working remotely - not only due to the virus"
+title = "Working remotely today"
 tags = ["work", "remote", "virus"]
 categories = ["work"]
 +++
