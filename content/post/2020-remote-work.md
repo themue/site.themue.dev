@@ -1,5 +1,5 @@
 +++
-date = "2020-03-21T22:15:00+01:00"
+date = "2020-03-23T22:15:00+01:00"
 draft = false
 title = "Working remotely - not only due to the virus"
 tags = ["work", "remote", "virus"]
@@ -28,17 +28,31 @@ Another aspect of distribution is the sharing of information. Not all can always
 
 ### Daily routine
 
-So far a quick overview over business aspects. But there are also many **individual** ones. It starts with your regular morning. This best should be like for a regular office job. You get up early, go into the bath, get dressed, have your breakfast, and start your work. This in detail surely depends on your personal preferences, you've got a lot of freedom. But the regularity helps you to switch into a **work mode**, a separating between spare time and work. And it helps you to focus. Last but not least your colleagues know when they can reach you best.
+So far a quick overview over some of the business aspects. But there are also several individual ones. One of it is the daily routine. Sure you've got a lot of freedom when you're working and if you do it in a leisure suit (or even less). But it's better to do it like in a regular office job. Chose your standard wake-up time in the morning, visit the bath, get dressed, have your breakfast, and start your job. Sure it may be different in your case, but at least try to have a standard way to start your day and then get into your work mode. So you can focus and separate spare time and work. Also your colleagues know when they can reach you.
 
-There are also many ways to arrange your **work area**. It helps a lot if you can chose a quiet area for the most time of your daily work, optimal surely an own room, a home office. But it also works with a different quiet room. Sleeping rooms are quiet over the day too, or a dressing room. If nobody is at home over the day the kitchen table may be also okay, or a litte desk in your living room. And when the virus crises is over a co-working space is a very good alternative too. Here they provide a good infrastructure and you have got other people for daily smalltalk around you.
+Beside your start the end is important too. Log your time and finish work. It's important for your work-life balance. Otherwise you quickly make too much overtime and loose your energy.
 
-While I said that you should find a standard time and location this doesn't mean it's **fixed**. Modern working from home means that it's normally no problem to move or interrupt your working times due to visits of doctors, garages, barbers, quickly shopping a bargain, or simply having a break to enjoy the sun. If possible you could work on your veranda too. And it's always nice to meet colleagues in a coffee shop to discuss topics or simply cultivate your contacts, once it's possible again.
+### Workplace
 
-Working from home should not lead into **isolation**. Use your possibilities to contact the colleagues and enjoy talking about topics not related to your work. It's like standing with a cup of coffee in the door of the next office room and talk with them about movies, music, or hobbies. Only that it's virtually. **Instant messaging**, **text chats**, and **video calls** help a lot. In case of chatting take care how you're writing in chat. Your colleagues don't get your facial expression or your voice. Once a conversation gets unpleasant ask for a quick video call, it helps. Also typical team meetings, daily or weekly, should be via video. No long time, just exchanging news or the current status of a process. This helps a lot.
+As for the time you've got a lot of freedom to chose your workplace. There's no problem to work on the couch in front of the TV. But you can imagine the problems here. It does not really help to concentrate on your tasks. Best surely is an extra room, your home office. Quite, with convenient furniture and, at least in my case, music. I've also bought a height-adjustable desktop at IKEA. It doesn't cost too much. If you don't have an extra room, then try to find a silent edge. Before my office I've worked in our walk-in closed on a home-made table. Another alternative seen at my colleagues are for example sleeping rooms or little edges in the living room. And when the virus crises is over a co-working space is a very good alternative too. Here they provide a good infrastructure and you have got other people for daily smalltalk around you.
 
-All meeting **protocols** and other **documentation** should be maintained online too. Here you can use tools like the Google docs or a wiki. This way the information reaches all people of your team, regardless of location or individual reasons for missing a meeting.
+### Freedom
 
-While working our **cat** often sleeps in my office. And from time to time she likes to jump on my lap or the desk, especially when I've got a video call. But that's never a problem, nobody cares. Also when your partner or your child rushes into the room. Quickly excuse yourself, mute the microphone, care for the interruption, and return to the meeting. Remote working people normally are pretty flexible here too.
+Yes, I've said you should have your standard time and your standard location. But please also enjoy the freedom of working remote. You surely can move or break your working time in case you need it, for example for visiting  doctors, garages, or barbers, the quickly shopping of bargains, or simply to have a break to enjoy the sun. It's so wonderful fuss-free.
 
-So only one part left, especially when the virus crisis is over and we can **travel** again. Remote companies should establish **real life meetings** from time to time. Those may be in smaller teams or with the whole company if possible. Even in pure remote companies it is very important to create a better **team spirit**. This is hard to establish via video. In real life people meet from face to face, talk about much more than only work, have fun, enjoy good meals, and drink wine or beer. **Events** together like sightseeing tours can amplify this.
+And beside several changes in your working time you also can change your working place. In case you've got the opportunity you can work on the veranda. Or you can meet colleagues in a coffee shop to discuss topics or simply cultivate your contacts, once it's possible again.
+
+### Communication
+
+While there are many benefits it important, that working from home does not lead into isolation. Use your possibilities to contact the colleagues and enjoy talking about topics not always related to your work. It's like standing with a cup of coffee in the door of the next office room and talk to them about movies, music, or hobbies. Only that it's virtually and distributed. Instant messaging, text chats, and video calls help a lot.
+
+But In case of messaging or chatting take care how you're writing in chat. You may know it from private chatting and social messaging. The people don't get your facial expression or your voice. So once a conversation gets unpleasant say sorry, try to rephrase it, and ask for a quick video call, it helps. Also typical team meetings, daily or weekly, should be via video. No long time, just exchanging news or the current status of a process. In case of special topics to discuss the concerned participants can continue in an extra call.
+
+All meeting protocols and other results should be maintained online too. Here you can use tools like the Google Docs or similar, or a wiki. This way the information reaches all people of your team, regardless of location, time zone, or individual reasons for missing a meeting.
+
+While I'm working working our cat **Flora** often sleeps in my office on the rack behind me. And from time to time she likes to jump on my lap or the desktop, especially when I've got a video call. But that's never a problem, nobody cares. And it's the same with the partner or children. When they rush into the room it's never a problem. Just a quick sorry, mute the microphone, care for the interruption, and return to the meeting. Remote working people normally are very understandingly here, the know the situation.
+
+### Real life meetings
+
+So only one part left, especially when the virus crisis is over and we can travel again. Remote companies should establish real life meetings from time to time. Those may be in smaller teams or sometimes with the whole company if possible. Even in pure remote companies it is very important to create a better team spirit. This is hard to establish via video. In real life people meet from face to face, talk about much more than only work, have fun, enjoy good meals, and drink wine or beer. Events together like sightseeing tours can amplify this.
 
