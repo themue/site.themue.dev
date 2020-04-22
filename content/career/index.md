@@ -25,7 +25,7 @@ title = "Career"
 - Articles, book reviews, and conference reports for IT magazines like iX, heise developer, Entwickler Magazin, JavaSPEKTRUM, Java Magazin, Linux Enterprise
 - Author of the book *Systemprogrammierung in Google Go* (*System Progrmaming in Google Go*)
 - Speaker on international conferences like SOA India, OOP, JAX, parallel, DevOps Conference, WebTech Conference
-- Development of open-source software under the label [Tideland](https://github.com/tideland/)
+- Development of open-source software labeled [Tideland](https://github.com/tideland/)
 
 ### 2017---2018 :: Software Engineer :: Status Research & Development
 
