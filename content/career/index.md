@@ -23,7 +23,7 @@ title = "Career"
 - Oldenburg, Germany
 - Consulting for software development processes, software architecture, Go, Erlang/OTP, Clouds, Microservices
 - Articles, book reviews, and conference reports for IT magazines like iX, heise developer, Entwickler Magazin, JavaSPEKTRUM, Java Magazin, Linux Enterprise
-- Author of the book *Systemprogrammierung in Google Go* (*System Progrmaming in Google Go*)
+- Author of the book *Systemprogrammierung in Google Go* (*System Programming in Google Go*)
 - Speaker on international conferences like SOA India, OOP, JAX, parallel, DevOps Conference, WebTech Conference
 - Development of open-source software labeled [Tideland](https://github.com/tideland/)
 
