@@ -12,9 +12,11 @@ title = "Career"
 
 - Oldenburg, Germany - Remote in an international team
 - Implementation of [Kubermatic](https://www.loodse.com/products/kubermatic/), a multicloud Kubernetes management platform
-- Consulting and customer support regarding clouds, Kubernetes, and Docker
+- Consulting and customer support regarding cloud native technologies, Kubernetes, and Docker
 - Implementation of customer specific Kubernetes operators
-- Technologies: Kubernetes, Docker, Go, Google Cloud, Amazon EC2
+- Trainer for cloud native technologies
+- Speaker on international conferences
+- Technologies: Kubernetes, Docker, Go, Google Cloud Platform, Amazon EC2
 
 ### 1993---Present :: Solution Engineer :: Self-Employed
 
