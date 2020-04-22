@@ -44,14 +44,14 @@ title = "Career"
 
 - Oldenburg, Germany - Remote in an international team
 - Implementation of [Juju](https://jujucharms.com/), a cloud provisioning and configuration system
-- Management of sub-contractors for the development
+- Management of subcontractors for the development
 - Technologies: Linux, Go, MongoDB, Python, ZooKeeper, Amazon EC2, OpenStack, Azure, MAAS, LXC
 
 ### 2006---2011 :: Team Manager and Consultant :: BTC
 
 - Oldenburg, Germany
 - Maintenance and extension of Smalltalk and GemStone/S based configuration management system for telecommunication and networks
-- Analysis and consulting for SOA and software architecture
+- Analysis and consulting for SOA and software architectures
 - Team Manager with up to 24 team members
 - Trainer for requirements engineering and software cost estimation
 - Technologies: Smalltalk, GemStrone/S, Java EE/SE, BizTalk, C#, Python
@@ -61,8 +61,8 @@ title = "Career"
 - Wilhelmshaven, Germany
 - Responsible for the data migration sub-project in a larger military project leading 7 team members
 - Technical Project Manager
-- Management of sub-contractors for the development
-- Member of the sub-project *data management and meta data*
+- Management of subcontractors for the development
+- Member of the sub-project *data management and metadata*
 - Requirements engineering and software quality assurance
 - Technologies: Java EE, TopLink, Oracle, WebSphere, Rational Rose, Rational ClearCase
 
