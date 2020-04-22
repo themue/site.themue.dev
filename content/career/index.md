@@ -13,13 +13,13 @@ title = "Career"
 - Oldenburg, Germany - Remote in an international team
 - Implementation of [Kubermatic](https://www.loodse.com/products/kubermatic/), a multicloud Kubernetes management platform
 - Consulting and customer support regarding clouds, Kubernetes, and Docker
-- Implementation of an application system to deploy, manage, and run Kubernetes clusters
-- Technologies: Kubernetes, Docker, Google Go, Google Cloud, Amazon EC2
+- Implementation of customer specific Kubernetes operators
+- Technologies: Kubernetes, Docker, Go, Google Cloud, Amazon EC2
 
 ### 1993---Present :: Solution Engineer :: Self-Employed
 
 - Oldenburg, Germany
-- Consulting for software development processes, software architecture, Google Go, Erlang/OTP, Clouds, Microservices
+- Consulting for software development processes, software architecture, Go, Erlang/OTP, Clouds, Microservices
 - Articles, book reviews, and conference reports for IT magazines like iX, heise developer, Entwickler Magazin, JavaSPEKTRUM, Java Magazin, Linux Enterprise
 - Author of the book *Systemprogrammierung in Google Go* (*System Progrmaming in Google Go*)
 - Talks on conferences like OOP, JAX, parallel, DevOps Conference, WebTech Conference
@@ -29,21 +29,21 @@ title = "Career"
 
 - Oldenburg, Germany - Remote in an international team
 - Implementation of [Status](https://status.im), a mobile Ethereum system
-- Technologies: Blockchains, Ethereum, Geth, Google Go
+- Technologies: Blockchains, Ethereum, Geth, Go
 
 ### 2016---2017 :: Software Engineer and Software Architect :: AKKA
 
 - Bremen, Germany
 - Architecture and implementation of a logistics management system
 - Implementation and management of development processes, requirements engineering and quality assurance
-- Technologies: Microservices, RESTful API, Google Go, JavaScript, CouchDB, JSON Web Token, Linux, Docker
+- Technologies: Microservices, RESTful API, Go, JavaScript, CouchDB, JSON Web Token, Linux, Docker
 
 ### 2011---2015 :: Software Engineer :: Canonical
 
 - Oldenburg, Germany - Remote in an international team
 - Implementation of [Juju](https://jujucharms.com/), a cloud provisioning and configuration system
 - Management of sub-contractors for the development
-- Technologies: Linux, Google Go, MongoDB, Python, ZooKeeper, Amazon EC2, OpenStack, Azure, MAAS, LXC
+- Technologies: Linux, Go, MongoDB, Python, ZooKeeper, Amazon EC2, OpenStack, Azure, MAAS, LXC
 
 ### 2006---2011 :: Team Manager and Consultant :: BTC
 
