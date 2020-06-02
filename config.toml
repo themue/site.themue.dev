@@ -26,7 +26,7 @@ authorbox = false
 readmore = true
 post_nagivation = true
 date_format = "2006-01-02"
-highlightColor = "#0000ff"
+highlightColor = "#2e8b57"
 
 [params.logo]
 title = "Embrace Change"
