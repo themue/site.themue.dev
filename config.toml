@@ -1,5 +1,4 @@
 baseURL = "/"
-title = "Embrace Change"
 languageCode = "en-us"
 paginate = 10
 theme = "mainroad"
@@ -15,19 +14,26 @@ bio = "Frank Mueller / Oldenburg / Germany / Europe / World"
 avatar = "/img/mue.jpg"
 
 [params]
-subtitle = "Insights into the world of Frank Mueller ..."
-description = ""
+description = "Insights into the world of Frank Mueller ..."
 opengraph = true
 leftsidebar = false
 authorbox = false
 post_nagivation = true
+date_format = "2006-01-02"
+highlightColor = "#0000aa"
+
+[params.logo]
+title = "Embrace Change"
+subtitle = "Insights into the world of Frank Mueller ..."
+
+[params.sidebar]
+home = "right"
+list = "right"
+single = false
+widgets = ["search", "recent", "categories", "taglist"]
 
 [params.widgets]
-search = true
-recent_articles = true
-recent_articles_num = 10
-categories = true
-tags = true
+recent_num = 10
 tags_counter = true
 
 [permalinks]
