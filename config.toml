@@ -1,4 +1,5 @@
 baseURL = "/"
+title = "Embrace Change"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 paginate = 10
@@ -27,6 +28,7 @@ readmore = true
 post_nagivation = true
 date_format = "2006-01-02"
 highlightColor = "#2e8b57"
+post_meta = ["author", "date", "categories"]
 
 [params.logo]
 title = "Embrace Change"
