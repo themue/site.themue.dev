@@ -1,12 +1,17 @@
 baseURL = "/"
 languageCode = "en-us"
+defaultContentLanguage = "en"
 paginate = 10
 theme = "mainroad"
 canonifyURLs = true
 enableEmoji = true
+enableRobotsTXT = true
 metaDataFormat = "toml"
 paginatePath = "page"
 googleAnalytics = "UA-136788356-1"
+
+[frontmatter]
+date = ["publishDate"]
 
 [author]
 name = "Frank Mueller"
@@ -18,9 +23,10 @@ description = "Insights into the world of Frank Mueller ..."
 opengraph = true
 leftsidebar = false
 authorbox = false
+readmore = true
 post_nagivation = true
 date_format = "2006-01-02"
-highlightColor = "#0000aa"
+highlightColor = "#0000ff"
 
 [params.logo]
 title = "Embrace Change"
