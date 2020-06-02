@@ -12,7 +12,7 @@ paginatePath = "page"
 googleAnalytics = "UA-136788356-1"
 
 [frontmatter]
-date = ["publishDate"]
+date = ["date"]
 
 [author]
 name = "Frank Mueller"
