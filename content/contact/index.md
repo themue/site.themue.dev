@@ -8,11 +8,10 @@ title = "Contact"
 
 ## Address
 
-**Frank Müller** </br>
-Oldenburg </br>
-Germany </br>
-Mobile Phone +49-174-1819758 </br>
-Mail [frank.mueller@themue.dev](mailto:frank.mueller@themue.dev)
+- **Frank Müller**
+- Oldenburg / Germany / Europe / World
+- Mobile Phone +49-174-1819758
+- Mail [frank.mueller@themue.dev](mailto:frank.mueller@themue.dev)
 
 ## Links
 
