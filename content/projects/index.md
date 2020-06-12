@@ -10,7 +10,7 @@ title = "Projects"
 
 - Learing Go with "Go to Go"
 
-## Titeland
+## Tideland
 
 ### Go Modules
 
