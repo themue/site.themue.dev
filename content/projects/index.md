@@ -8,7 +8,7 @@ title = "Projects"
 
 ## Private
 
-- Learing Go with "Go to Go"
+- Learning Go with **Go to Go**
 
 ## Tideland
 
@@ -20,4 +20,4 @@ title = "Projects"
 - Web Applications with [Go Net](https://pkg.go.dev/mod/tideland.dev/go/net)
 - Text Processing with [Go Text](https://pkg.go.dev/mod/tideland.dev/go/text)
 - Concurrency with [Go Together](https://pkg.go.dev/mod/tideland.dev/go/together)
-- Monitoring, logging, and more with [Go Trace](https://pkg.go.dev/mod/tideland.dev/go/trace)
+- Monitoring, Logging, and more with [Go Trace](https://pkg.go.dev/mod/tideland.dev/go/trace)
