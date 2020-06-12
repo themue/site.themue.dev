@@ -21,3 +21,7 @@ title = "Projects"
 - Text Processing with [Go Text](https://pkg.go.dev/mod/tideland.dev/go/text)
 - Concurrency with [Go Together](https://pkg.go.dev/mod/tideland.dev/go/together)
 - Monitoring, Logging, and more with [Go Trace](https://pkg.go.dev/mod/tideland.dev/go/trace)
+
+### Applications
+
+- Demonstration of Kubernetes Operators in Go with [CoDis](https://pkg.go.dev/mod/tideland.dev/codis)
