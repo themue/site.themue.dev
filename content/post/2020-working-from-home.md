@@ -1,12 +1,12 @@
 +++
 date = "2020-03-23T22:15:00+01:00"
 draft = false
-title = "Work from home today"
-tags = ["work", "remote", "home", "virus", "covid-19"]
+title = "Working from home"
+tags = ["work from home", "remote", "home", "virus", "covid-19"]
 categories = ["work"]
 +++
 
-Interestingly I already wanted to write about remote work before the current crisis. I had the luck to start with it in 2011. I then began working for [Canonical](https://canonical.com/), a world-wide distributed company. My direct colleagues had been spread from New Zealand and Australia via several locations in Europe to North- and South-America. A fantastic feeling. Actually I'm working for [Loodse](https://www.loodse.com/), not as large but 100% remote too. And I enjoy working with all my different colleagues.
+Interestingly I already wanted to write about working from home already before the current crisis. I had the luck to start with it in 2011. I then began working for [Canonical](https://canonical.com/), a world-wide distributed company. My direct colleagues had been spread from New Zealand and Australia via several locations in Europe to North- and South-America. A fantastic feeling. Actually I'm working for [Loodse](https://www.loodse.com/), not as large but 100% remote too. And I enjoy working with all my different colleagues.
 
 But right now the motivation for many is a different one. It's the virus crisis which forces people to stay home and to work there. Not all jobs allow to do so, but IT jobs like mine or many other typical office jobs do. So this possibly is a chance to establish remote work even more. Until today many executive boards have been too sceptical about it.
 
@@ -56,3 +56,6 @@ While I'm working our cat **Flora** often sleeps in my office on the rack behind
 
 So only one part left, especially when the virus crisis is over and we can travel again. Remote companies should establish real life meetings from time to time. Those may be in smaller teams or sometimes with the whole company if possible. Even in pure remote companies it is very important to create a better **team spirit**. This is hard to establish via video. In real life people meet from face to face, talk about much more than only work, have fun, enjoy good meals, and drink wine or beer. Events together like sightseeing tours can amplify this.
 
+---
+
+For German speaking people I also have got the slides if a talk about this topic on the OOP 2013. You'll find it on [SlideShare](https://www.slideshare.net/TheMue/oop2013-frank-muellerweltweiteentwicklungvonoss). Translation should be simple.
