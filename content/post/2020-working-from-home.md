@@ -56,7 +56,5 @@ While I'm working our cat **Flora** often sleeps in my office on the rack behind
 
 So only one part left, especially when the virus crisis is over and we can travel again. Remote companies should establish real life meetings from time to time. Those may be in smaller teams or sometimes with the whole company if possible. Even in pure remote companies it is very important to create a better **team spirit**. This is hard to establish via video. In real life people meet from face to face, talk about much more than only work, have fun, enjoy good meals, and drink wine or beer. Events together like sightseeing tours can amplify this.
 
----
-
 For German speaking people I also have got the slides of my talk about this topic on the OOP 2013 conference. You'll find it on [SlideShare](https://www.slideshare.net/TheMue/oop2013-frank-muellerweltweiteentwicklungvonoss). Translation should be simple.
 
