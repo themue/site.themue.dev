@@ -6,7 +6,7 @@ tags = ["golang", "taining", "online"]
 categories = ["development"]
 +++
 
-Last Monday I had a remote workshop about Go programming. It has been an interesting experience, not yet done something similar before. Sadly I needed too much time for the basic topics. So I had not enough time in the end to dive into my example. This has been a module containing a little declarative environment for components, a bit like Kubernetes. As a result I decided to create an online training for Go based on an improved version of that example.
+Last Monday I gave a remote workshop about Go programming. It has been an interesting experience, not yet done something similar before. Sadly I needed too much time for the basic topics. So I had not enough time in the end to dive into my example. This has been a module containing a little declarative environment for components, a bit like Kubernetes. As a result I decided to create an online training for Go based on an improved version of that example.
 
 The idea is to provide everything as a GitHub project. Planned inside are a `doc` directory containing an introduction into the history of Go, the people behind it, and the tools. Additionally it will contain a quick introduction into the language Go to learn the most important structures, data types, and statements. But only so much to get a first understanding of the following modules.
 
