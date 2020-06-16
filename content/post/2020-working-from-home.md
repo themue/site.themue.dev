@@ -58,4 +58,5 @@ So only one part left, especially when the virus crisis is over and we can trave
 
 ---
 
-For German speaking people I also have got the slides if a talk about this topic on the OOP 2013. You'll find it on [SlideShare](https://www.slideshare.net/TheMue/oop2013-frank-muellerweltweiteentwicklungvonoss). Translation should be simple.
+For German speaking people I also have got the slides of my talk about this topic on the OOP 2013 conference. You'll find it on [SlideShare](https://www.slideshare.net/TheMue/oop2013-frank-muellerweltweiteentwicklungvonoss). Translation should be simple.
+
