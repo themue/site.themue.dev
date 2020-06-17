@@ -1,5 +1,5 @@
 +++
-date = "2019-03-11T20:00:00+01:00"
+date = "2019-06-17T13:00:00+01:00"
 draft = false
 menu = "main"
 weight = 20
@@ -8,10 +8,10 @@ title = "Career"
 
 ## Experience
 
-### 2019---Present :: Solution Engineer :: Loodse
+### 2019---Present :: Solution Engineer :: Kubermatic
 
 - Oldenburg, Germany - Remote in an international team
-- Implementation of [Kubermatic](https://www.loodse.com/products/kubermatic/), a multicloud Kubernetes management platform
+- Implementation of [Kubermatic Kubernetes Platform](https://www.kubermatic.com/products/kubermatic/), a multicloud Kubernetes management platform
 - Consulting and customer support regarding cloud native technologies, Kubernetes, and Docker
 - Implementation of customer specific Kubernetes operators
 - Trainer for cloud native technologies
