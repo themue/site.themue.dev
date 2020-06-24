@@ -20,7 +20,7 @@ bio = "Frank Mueller / Oldenburg / Germany / Europe / World"
 avatar = "/img/mue.jpg"
 
 [params]
-description = "Insights into the world of Frank Mueller ..."
+description = "Insights into the world of Frank Mueller"
 opengraph = true
 leftsidebar = false
 authorbox = false
@@ -31,8 +31,8 @@ highlightColor = "#2e8b57"
 post_meta = ["author", "date", "categories"]
 
 [params.logo]
-title = "Embrace Change"
-subtitle = "Insights into the world of Frank Mueller ..."
+title = "Frank Mueller"
+subtitle = "Change is the only Constant in Nature"
 
 [params.sidebar]
 home = "right"
