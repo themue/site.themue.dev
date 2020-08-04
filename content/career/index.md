@@ -14,7 +14,7 @@ title = "Career"
 - Consulting and customer support regarding cloud native technologies, Kubernetes, and Docker
 - Implementation of customer specific Kubernetes operators
 - Trainer for cloud native technologies
-- Technologies: Kubernetes, Docker, Kubermatic, Go, Google Cloud Platform, Amazon EC2
+- Technologies: [Kubermatic](https://www.kubermatic.com), Kubernetes, Docker, Go, Google Cloud Platform, Amazon EC2
 
 ### 1993---Present :: Solution Engineer :: Self-Employed
 
