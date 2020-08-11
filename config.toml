@@ -31,8 +31,8 @@ highlightColor = "#2e8b57"
 post_meta = ["author", "date", "categories"]
 
 [params.logo]
-title = "Frank Mueller"
-subtitle = "Change is the only Constant in Nature"
+title = "Embrace Change"
+subtitle = "Insights into the world of Frank Mueller"
 
 [params.sidebar]
 home = "right"
