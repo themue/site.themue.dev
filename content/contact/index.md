@@ -24,5 +24,4 @@ title = "Contact"
 - [Stack Overflow](https://stackoverflow.com/users/25814/themue)
 - [Reddit](https://www.reddit.com/user/TheMue)
 - [Flickr](https://www.flickr.com/photos/themue/)
-- [YouPic](https://youpic.com/photographer/themue/)
 - [SlideShare](https://www.slideshare.net/TheMue)
