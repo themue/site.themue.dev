@@ -8,9 +8,10 @@ title = "Career"
 
 ## Experience
 
-### 2019---Present :: Team Lead and Solution Engineer :: Kubermatic
+### 2019---Present :: Team Lead and Consultant :: Kubermatic
 
 - Oldenburg, Germany - Remote in an international team
+- Team Lead with up to 4 team members
 - Consulting and customer support regarding cloud native technologies, Kubernetes, and Docker
 - Implementation of customer specific Kubernetes operators
 - Trainer for cloud native technologies
@@ -45,12 +46,12 @@ title = "Career"
 - Management of subcontractors for the development
 - Technologies: Linux, Go, MongoDB, Python, ZooKeeper, Amazon EC2, OpenStack, Azure, MAAS, LXC
 
-### 2006---2011 :: Team Manager and Consultant :: BTC
+### 2006---2011 :: Team Lead and Consultant :: BTC
 
 - Oldenburg, Germany
+- Team Lead with up to 24 team members
 - Maintenance and extension of Smalltalk and GemStone/S based configuration management system for telecommunication and networks
 - Analysis and consulting for SOA and software architectures
-- Team Manager with up to 24 team members
 - Trainer for requirements engineering and software cost estimation
 - Technologies: Smalltalk, GemStrone/S, Java EE/SE, BizTalk, C#, Python
 
