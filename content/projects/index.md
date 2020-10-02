@@ -1,5 +1,5 @@
 +++
-date = "2020-06-12T18:00:00+01:00"
+date = "2020-10-02T18:00:00+01:00"
 draft = false
 menu = "main"
 weight = 30
@@ -9,6 +9,8 @@ title = "Projects"
 ## Private
 
 - Learning Go with **Go to Go**
+- [The Samples Project](https://github.com/themue/samples/) containing programming code,
+  deployment descriptors, and configurations for articles, talks, trainings, and workshops
 
 ## Tideland
 
