@@ -9,7 +9,6 @@ enableEmoji = true
 enableRobotsTXT = true
 metaDataFormat = "toml"
 paginatePath = "page"
-googleAnalytics = "UA-136788356-1"
 
 [frontmatter]
 date = ["date"]
