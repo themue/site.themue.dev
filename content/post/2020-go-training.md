@@ -2,7 +2,7 @@
 date = "2020-06-12T10:15:00+01:00"
 draft = false
 title = "Online Go training, working title 'Go to Go'"
-tags = ["golang", "taining", "online"]
+tags = ["golang", "training", "online"]
 categories = ["development"]
 +++
 
