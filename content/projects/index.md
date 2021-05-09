@@ -1,5 +1,5 @@
 +++
-date = "2020-10-02T18:00:00+01:00"
+date = "2021-05-09T12:00:00+01:00"
 draft = false
 menu = "main"
 weight = 30
@@ -8,9 +8,9 @@ title = "Projects"
 
 ## Private
 
-- Learning Go with **Go to Go**
 - [The Samples Project](https://github.com/themue/samples/) containing programming code,
   deployment descriptors, and configurations for articles, talks, trainings, and workshops
+- [BBGo](https://github.com/themue/bbgo/) for Go programming with BBEdit on macOS
 
 ## Tideland
 
@@ -26,4 +26,4 @@ title = "Projects"
 
 ### Applications
 
-- Demonstration of Kubernetes Operators in Go with [CoDis](https://pkg.go.dev/mod/tideland.dev/codis)
+- Simple demonstration of Kubernetes Operators in Go with [CoDis](https://pkg.go.dev/mod/tideland.dev/codis)
