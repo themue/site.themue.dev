@@ -8,11 +8,10 @@ title = "Career"
 
 ## Experience
 
-### 2019---Present :: Team Lead and Consultant :: Kubermatic
+### 2019---Present :: Team Lead and Senior Software Engineer :: Kubermatic
 
 - Oldenburg, Germany - Remote in an international team
 - Team Lead with up to 4 team members
-- Consulting and customer support regarding cloud native technologies, Kubernetes, and Docker
 - Implementation of customer specific Kubernetes operators
 - Trainer for cloud native technologies
 - Technologies: [Kubermatic](https://www.kubermatic.com), Kubernetes, Docker, Go, Google Cloud Platform, Amazon EC2
