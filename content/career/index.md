@@ -16,13 +16,13 @@ title = "Career"
 - Trainer for cloud native technologies
 - Technologies: [Kubermatic](https://www.kubermatic.com), Kubernetes, Docker, Go, Google Cloud Platform, Amazon EC2
 
-### 1993---Present :: Solution Engineer :: Self-Employed
+### 1993---Present :: Part-Time Self-Employed Software Engineer and Technical Author
 
 - Oldenburg, Germany
 - Consulting for software development processes, software architecture, Go, Erlang/OTP, Clouds, Microservices
 - Articles, book reviews, and conference reports for IT magazines like iX, heise developer, Entwickler Magazin, JavaSPEKTRUM, Java Magazin, Linux Enterprise
 - Author of the book *Systemprogrammierung in Google Go* (*System Programming in Google Go*)
-- Speaker on international conferences like OOP, JAX/W-JAX, GoDays, API Summit, API Conference, parallel, betterCode, DevOps Conference, WebTech Conference, SOA India
+- Speaker on international conferences like OOP, JAX/W-JAX, GoDays, API Summit, API Conference, parallel, DevOps Conference, WebTech Conference, SOA India
 - Development of open-source software labeled [Tideland](https://github.com/tideland/)
 
 ### 2017---2018 :: Software Engineer :: Status Research & Development
