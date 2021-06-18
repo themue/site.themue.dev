@@ -7,7 +7,7 @@ categories = ["tideland"]
 +++
 
 While step by step  reorganizing the Tideland Go libraries the one for testing
-your projects reached a new version. I've just released the *Tideland Go Audit v0.5.0*.
+your projects reached a new version. I've just released the **Tideland Go Audit v0.5.0**.
 As it already is a very robust and complete library there are only few changes.
 
 * The `asserts` package now provides the additional assertions `NotOK()` and `AnyError()`.
@@ -17,7 +17,7 @@ As it already is a very robust and complete library there are only few changes.
 * The `generators` package now also contains a `OneOf()` returning one of the given
   variadic parameters.
 
-The library *Tideland Go Audit* supports testing Go projects in multiple ways:
+The library **Tideland Go Audit** supports testing Go projects in multiple ways:
 
 * Package `asserts` provides functions for assertions helpful in tests and validation.
 * Package `capture` allows capturing of STDOUT and STDERR.
