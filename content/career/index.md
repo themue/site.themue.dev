@@ -1,5 +1,5 @@
 +++
-date = "2021-05-01T13:00:00+01:00"
+date = "2021-08-01T13:00:00+01:00"
 draft = false
 menu = "main"
 weight = 20
@@ -11,7 +11,7 @@ title = "Career"
 ### 2019---Present :: Team Lead and Senior Software Engineer :: Kubermatic
 
 - Oldenburg, Germany - Remote in an international team
-- Team Lead with up to 4 team members
+- Team Lead with up to 5 team members
 - Implementation of customer specific Kubernetes operators
 - Trainer for cloud native technologies
 - Technologies: [Kubermatic](https://www.kubermatic.com), Kubernetes, Docker, Go, Google Cloud Platform, Amazon EC2
@@ -142,3 +142,31 @@ title = "Career"
 - 1997 :: Solaris 2.x Administration 2
 - 1997 :: Sybase - Fast Track to Sybase SQL Server
 - 1997 :: Sybase - SQL Server Administration
+
+### Talks
+
+- 2021 :: WeAreDevelopers :: Concurrency with Go
+- 2021 :: OOP :: Kubernetes Operatoren
+- 2021 :: DevOpsCon :: Verteilte Entwicklung in Go
+- 2020 :: Webinar :: Einführung in Go
+- 2020 :: GoDays :: Fun with Functions
+- 2019 :: JAX :: Ein Gopher im Netz
+- 2018 :: OOP :: Ethereum
+- 2016 :: OOP :: Spaß an der Nebenläufigkeit
+- 2015 :: parallel :: Juju - Verteilte Software auf Basis von Google Go
+- 2015 :: DevOpsCon :: Go - Googles Sprache für skalierbare Systeme
+- 2015 :: DevOpsCon :: Cloud Provisioning mit Juju
+- 2014 :: OOP :: Skalierbare Anwendungen mit Google Go
+- 2014 :: OOP :: Clouds leicht beherrschbar
+- 2014 :: GUG Hamburg :: RESTful Web Applications with Google Go
+- 2013 :: WebTechCon :: Juju - Mit ein wenig Magie zur perfekten Cloud 
+- 2013 :: OOP :: Weltweite Entwicklung von OSS
+- 2013 :: GDG Bremen :: Juju - Google Go in a scalable Environment
+- 2012 :: OOP :: Nebenläufigkeit als natürliches Paradigma
+- 2012 :: OOP :: Go to the Cloud
+- 2012 :: GTUG Bremen :: Beauty and Power of Go
+- 2011 :: OEC :: Aston Martin
+- 2010 :: CeBIT iX :: Google Go - Good Artists Borrow - Great Artists Steal
+- 2010 :: BTC :: Go
+- 2008 :: SOA India :: On Event-Driven Architecture
+- 2008 :: SOA India :: Agility And The Way To SOA
