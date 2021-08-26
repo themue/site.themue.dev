@@ -1,5 +1,5 @@
 +++
-date = "2021-08-01T13:00:00+01:00"
+date = "2021-09-01T13:00:00+01:00"
 draft = false
 menu = "main"
 weight = 20
@@ -11,7 +11,7 @@ title = "Career"
 ### 2019---Present :: Team Lead and Senior Software Engineer :: Kubermatic
 
 - Oldenburg, Germany - Remote in an international team
-- Team Lead with up to 5 team members
+- Team Lead for up to 8 engineers
 - Implementation of customer specific Kubernetes operators
 - Trainer for cloud native technologies
 - Technologies: [Kubermatic](https://www.kubermatic.com), Kubernetes, Docker, Go, Google Cloud Platform, Amazon EC2
@@ -48,17 +48,17 @@ title = "Career"
 ### 2006---2011 :: Team Lead and Consultant :: BTC
 
 - Oldenburg, Germany
-- Team Lead with up to 24 team members
+- Team Lead for up to 24 engineers
 - Maintenance and extension of Smalltalk and GemStone/S based configuration management system for telecommunication and networks
 - Analysis and consulting for SOA and software architectures
 - Trainer for requirements engineering and software cost estimation
 - Technologies: Smalltalk, GemStrone/S, Java EE/SE, BizTalk, C#, Python
 
-### 2003---2006 ::  Technical Project Manager and System Specialist :: Thales
+### 2003---2006 :: Technical Project Manager and System Specialist :: Thales
 
 - Wilhelmshaven, Germany
-- Responsible for the data migration sub-project in a larger military project leading 7 team members
-- Technical Project Manager
+- Technical Project Manager for up to 7 engineers
+- Multi-database data consolidation and migration
 - Management of subcontractors for the development
 - Member of the sub-project *data management and metadata*
 - Requirements engineering and software quality assurance
@@ -67,26 +67,23 @@ title = "Career"
 ### 2001---2003 :: Development Director :: OpenKnowledge
 
 - Oldenburg, Germany
-- Development Director leading 15 team members
-- System architecture
-- Implementation and management of development processes, requirements engineering, and quality assurance
-- Organization and execution of the staff training
+- Development Director for up to 15 engineers
+- Development processes, requirements engineering, quality assurance, and staff training
 - Technologies: Java EE, Python, JBOSS, Oracle, IDEA
 
 ### 2000---2001 :: VP Software Development :: CANBOX
 
 - Oldenburg, Germany and Boston, MA USA
-- Vice President Software Development leading 22 team members
-- System architecture
-- Implementation and management of development processes, requirements engineering and quality assurance
+- Vice President Software Development for up to 22 engineers
+- Development processes, requirements engineering and quality assurance
 - Technologies: Java EE
 
 ### 1999---2000 :: Development Director :: RedDot
 
 - Oldenburg, Germany
-- Development Director for the enterprise edition of the RedDot Content Management System leading 7 team members
-- Software architecture
-- Implementation and management of development processes, requirements engineering and quality assurance
+- Development Director for up to 7 engineers
+- Implementation of the RedDot Content Management Systeme Enterprise Edition
+- Development processes, requirements engineering and quality assurance
 - Technologies: Java EE, POET OODBMS, SNiFF+, Python
 
 ### 1997---1999 :: System Specialist Unix :: Nordwest-Zeitung
@@ -159,7 +156,7 @@ title = "Career"
 - 2014 :: OOP :: Skalierbare Anwendungen mit Google Go
 - 2014 :: OOP :: Clouds leicht beherrschbar
 - 2014 :: GUG Hamburg :: RESTful Web Applications with Google Go
-- 2013 :: WebTechCon :: Juju - Mit ein wenig Magie zur perfekten Cloud 
+- 2013 :: WebTechCon :: Juju - Mit ein wenig Magie zur perfekten Cloud
 - 2013 :: OOP :: Weltweite Entwicklung von OSS
 - 2013 :: GDG Bremen :: Juju - Google Go in a scalable Environment
 - 2012 :: OOP :: Nebenläufigkeit als natürliches Paradigma
