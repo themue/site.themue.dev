@@ -20,11 +20,11 @@ title = "Projects"
 - [Go Cells](https://pkg.go.dev/mod/tideland.dev/go/cells) for event processing
 - [Go UUID](https://pkg.go.dev/mod/tideland.dev/go/uuid) for generation of unique identifiers
 
-| NOTE
-|
-| There is some more stuff in the [Tideland repositories](https://github.com/tideland). This is
-| currently stop by step migrated from grouped repositories for multiple similar packages into
-| individual ones.
+> NOTE
+>
+> There is some more stuff in the [Tideland repositories](https://github.com/tideland). This is
+> currently stop by step migrated from grouped repositories for multiple similar packages into
+> individual ones.
 
 ### Applications
 
