@@ -13,7 +13,7 @@ histories and their versions are tied to those of the entire library. This must 
 
 Therefore, the reconstruction of these projects has now begun. So some of the packages from the
 repositories move to the main level and become independent projects. A first example is now
-[Tideland Go UUID](https://github.go/tideland/go-uuid). The package implements the generation
+[Tideland Go UUID](https://github.com/tideland/go-uuid). The package implements the generation
 of the versions v1, v3, v4, and v5. v2 will follow, as well as v6, v7, and v8 when the corresponding
 [draft](https://datatracker.ietf.org/doc/html/draft-peabody-dispatch-new-uuid-format) is approved.
 
