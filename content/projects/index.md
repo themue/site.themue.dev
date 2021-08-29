@@ -22,9 +22,9 @@ title = "Projects"
 
 > NOTE
 >
-> There is some more stuff in the [Tideland repositories](https://github.com/tideland). This is
-> currently stop by step migrated from grouped repositories for multiple similar packages into
-> individual ones.
+> There is some more stuff in the [Tideland repositories](https://github.com/tideland), just
+> take a look. It's group in larger repositories and so sadly hard to find. So I'll now step
+> by step split these repositories into individual smaller projects.
 
 ### Applications
 
