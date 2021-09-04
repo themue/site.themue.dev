@@ -1,5 +1,5 @@
 +++
-date = "2021-08-01T12:00:00+00:00"
+date = "2021-09-01T12:00:00+00:00"
 draft = false
 menu = "main"
 weight = 30
@@ -17,6 +17,7 @@ title = "Projects"
 ### Go Modules
 
 - [Go Audit](https://pkg.go.dev/mod/tideland.dev/go/audit) for testing and test data generation
+- [Go Actor](https://pkg.go.dev/mod/tideland.dev/go/actor) for simple goroutine development
 - [Go Cells](https://pkg.go.dev/mod/tideland.dev/go/cells) for event processing
 - [Go UUID](https://pkg.go.dev/mod/tideland.dev/go/uuid) for generation of unique identifiers
 
