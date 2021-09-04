@@ -1,5 +1,5 @@
 +++
-date = "2021-05-01T12:00:00+00:00"
+date = "2021-09-01T12:00:00+00:00"
 draft = false
 menu = "main"
 weight = 30
@@ -16,13 +16,16 @@ title = "Projects"
 
 ### Go Modules
 
-- Testing with [Go Audit](https://pkg.go.dev/mod/tideland.dev/go/audit)
-- CouchDB and Redis with [Go DB](https://pkg.go.dev/mod/tideland.dev/go/db)
-- Data Structures and Algorithms with [Go DSA](https://pkg.go.dev/mod/tideland.dev/go/dsa)
-- Web Applications with [Go Net](https://pkg.go.dev/mod/tideland.dev/go/net)
-- Text Processing with [Go Text](https://pkg.go.dev/mod/tideland.dev/go/text)
-- Concurrency with [Go Together](https://pkg.go.dev/mod/tideland.dev/go/together)
-- Monitoring, Logging, and more with [Go Trace](https://pkg.go.dev/mod/tideland.dev/go/trace)
+- [Go Audit](https://pkg.go.dev/mod/tideland.dev/go/audit) for testing and test data generation
+- [Go Actor](https://pkg.go.dev/mod/tideland.dev/go/actor) for simple goroutine development
+- [Go Cells](https://pkg.go.dev/mod/tideland.dev/go/cells) for event processing
+- [Go UUID](https://pkg.go.dev/mod/tideland.dev/go/uuid) for generation of unique identifiers
+
+> NOTE
+>
+> There is some more stuff in the [Tideland repositories](https://github.com/tideland), just
+> take a look. It's group in larger repositories and so sadly hard to find. So I'll now step
+> by step split these repositories into individual smaller projects.
 
 ### Applications
 
