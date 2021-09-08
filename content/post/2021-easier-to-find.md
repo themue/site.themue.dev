@@ -2,7 +2,7 @@
 date = "2021-08-29T13:00:00+01:00"
 draft = false
 title = "Make it easier to find"
-tags = ["golang", "tideland", "package"]
+tags = ["golang", "tideland", "package", "uuid"]
 categories = ["tideland"]
 +++
 
