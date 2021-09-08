@@ -17,9 +17,10 @@ title = "Projects"
 ### Go Modules
 
 - [Go Audit](https://pkg.go.dev/mod/tideland.dev/go/audit) for testing and test data generation
-- [Go Actor](https://pkg.go.dev/mod/tideland.dev/go/actor) for simple goroutine development
+- [Go Actor](https://pkg.go.dev/mod/tideland.dev/go/actor) for concurrency following the actor model
 - [Go Cells](https://pkg.go.dev/mod/tideland.dev/go/cells) for event processing
 - [Go UUID](https://pkg.go.dev/mod/tideland.dev/go/uuid) for generation of unique identifiers
+- [Go Wait](https://pkg.go.dev/mod/tideland.dev/go/wait) for polling of desired conditions
 
 > NOTE
 >
