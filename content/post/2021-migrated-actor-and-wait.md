@@ -7,8 +7,8 @@ categories = ["tideland"]
 +++
 
 As described a few days ago, I am migrating individual packages of the Tideland
-libraries to individual repositories. I have already described my motivation for
-this. In the meantime, two more packages have been migrated to the main level:
+libraries to owb repositories. I have already described my motivation for this.
+In the meantime, two more packages have been migrated to the main level:
 **Tideland Go Actor** and **Tideland Go Wait**.
 
 The package **Tideland Go Actor** pursues the idea to realize concurrency in Go
