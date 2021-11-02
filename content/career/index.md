@@ -1,5 +1,5 @@
 +++
-date = "2021-09-13T08:00:00+01:00"
+date = "2021-10-01T08:00:00+01:00"
 draft = false
 menu = "main"
 weight = 20
@@ -11,7 +11,7 @@ title = "Career"
 ### 2019---Present :: Team Lead and Senior Software Engineer :: Kubermatic
 
 - Oldenburg, Germany - Remote in an international team
-- Team Lead for up to 9 engineers
+- Team Lead for up to 10 engineers
 - Implementation of customer specific Kubernetes operators
 - Trainer for cloud native technologies
 - Technologies: [Kubermatic](https://www.kubermatic.com), Kubernetes, Docker, Go, Google Cloud Platform, Amazon EC2
