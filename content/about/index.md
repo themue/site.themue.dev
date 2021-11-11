@@ -12,6 +12,8 @@ My name is **Frank Müller** a.k.a **Mue** and I'm located in
 *Oldeburg / Germany / Europe / World*. Here I'm also born in 1965 and
 decided to stay because it is such a wonderful town.
 
+![Frank Müller](/img/themue.jpg)
+
 ## What do I do
 
 In my main profession I'm a software engineer with now more than 30 years

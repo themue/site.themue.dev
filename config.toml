@@ -40,14 +40,8 @@ single = false
 widgets = ["search", "recent", "categories", "taglist"]
 
 [params.widgets]
-recent_num = 10
+recent_num = 5
 tags_counter = true
-
-[params.widgets.social]
-twitter = "themue"
-linkedin = "themue"
-github = "themue"
-email = "frank.mueller@themue.dev"
 
 [permalinks]
 post = "/blog/:year/:month/:day/:slug/"
