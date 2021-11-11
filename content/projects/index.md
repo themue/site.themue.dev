@@ -19,13 +19,14 @@ title = "Projects"
 - [Go Audit](https://pkg.go.dev/mod/tideland.dev/go/audit) for testing and test data generation
 - [Go Actor](https://pkg.go.dev/mod/tideland.dev/go/actor) for concurrency following the actor model
 - [Go Cells](https://pkg.go.dev/mod/tideland.dev/go/cells) for event processing
+- [Go JWT](https://pkg.go.dev/mod/tideland.dev/go/jwt) providing a JSON Web Token
 - [Go UUID](https://pkg.go.dev/mod/tideland.dev/go/uuid) for generation of unique identifiers
 - [Go Wait](https://pkg.go.dev/mod/tideland.dev/go/wait) for polling of desired conditions
 
 > NOTE
 >
 > There is some more stuff in the [Tideland repositories](https://github.com/tideland), just
-> take a look. It's group in larger repositories and so sadly hard to find. So I'll now step
+> take a look. It's grouped in larger repositories and so sadly hard to find. So I'll now step
 > by step split these repositories into individual smaller projects.
 
 ### Applications
