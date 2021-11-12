@@ -2,7 +2,7 @@
 date = "2019-03-02T20:00:00+01:00"
 draft = false
 menu = "main"
-weight = 40
+weight = 50
 title = "Contact"
 +++
 

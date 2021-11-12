@@ -142,6 +142,7 @@ title = "Career"
 
 ### Talks
 
+- 2021 :: betterCode Go :: Once Web Application with Everything in Go
 - 2021 :: WeAreDevelopers :: Concurrency with Go
 - 2021 :: OOP :: Kubernetes Operatoren
 - 2021 :: DevOpsCon :: Verteilte Entwicklung in Go
