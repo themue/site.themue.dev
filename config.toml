@@ -40,7 +40,7 @@ single = false
 widgets = ["search", "recent", "categories", "taglist"]
 
 [params.widgets]
-recent_num = 5
+recent_num = 10
 tags_counter = true
 
 [permalinks]
