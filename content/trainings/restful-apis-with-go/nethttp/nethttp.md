@@ -1,8 +1,6 @@
 +++
 date = "2021-11-19T12:00:00+01:00"
 draft = false
-menu = "trainings"
-weight = 101
 title = "RESTful APIs with Go - The net/http package
 +++
 
@@ -34,8 +32,8 @@ func (f HandlerFunc) ServeHTTP(w ResponseWriter, r *Request) {
 * The function `http.ListenAndServe` starts an HTTP server on the given address
 
 ```go
-func ListenAndServe(addr string, handler Handler) error 
-``` 
+func ListenAndServe(addr string, handler Handler) error
+```
 
 * Additionally the variant `http.ListenAndServeTLS` starts an HTTPS server on the given address
 
@@ -65,7 +63,7 @@ func main() {
 
     log.Fatal(err)
 }
-``` 
+```
 
 ---
 

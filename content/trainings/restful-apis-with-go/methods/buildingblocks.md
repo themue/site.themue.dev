@@ -1,8 +1,6 @@
 +++
 date = "2021-11-19T12:00:00+01:00"
 draft = false
-menu = "trainings"
-weight = 101
 title = "RESTful APIs with Go - The building blocks together
 +++
 
@@ -30,7 +28,7 @@ type JSONDoc struct {
     Content json.RawMessage `json:"content"`
 }
 
-// JSONCacheHandler provides a simple JSON in-memory cache server. Cache is 
+// JSONCacheHandler provides a simple JSON in-memory cache server. Cache is
 // done via a map of string to JSONDoc. The JSONDoc contains the ID and a
 // raw content. The sync.RWMutex is used to ensure that the cache is
 // thread-safe.
@@ -67,7 +65,7 @@ func (h *JSONCacheHandler) ServeHTTPGet(w http.ResponseWriter, r *http.Request) 
         http.Error(w, "JSON document not found", http.StatusNotFound)
         return
     }
-    err := https.WriteBody(w, httpx.ContentTypeJSON, doc) 
+    err := https.WriteBody(w, httpx.ContentTypeJSON, doc)
     if err != nil {
         log.Printf("Error writing body: %v", err)
     }

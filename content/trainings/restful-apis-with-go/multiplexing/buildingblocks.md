@@ -1,8 +1,6 @@
 +++
 date = "2021-11-19T12:00:00+01:00"
 draft = false
-menu = "trainings"
-weight = 101
 title = "RESTful APIs with Go - The building blocks together
 +++
 
@@ -22,7 +20,7 @@ import (
     "./pkg/users"
 )
 
-func main() { 
+func main() {
     mux := http.NewServeMux()
     apimux := httpx.NewNestedMux("/api/v1")
 

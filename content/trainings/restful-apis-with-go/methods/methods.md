@@ -1,8 +1,6 @@
 +++
 date = "2021-11-19T12:00:00+01:00"
 draft = false
-menu = "trainings"
-weight = 101
 title = "RESTful APIs with Go - Handling HTTP methods
 +++
 
@@ -35,7 +33,7 @@ default:
 ```go
 // Package httpx contains helper functions for the daily work with HTTP.
 package httpx
-``` 
+```
 
 * And now create our method wrapper `pkg/httpx/methods.go`
 * It defines individual interfaces for each HTTP method

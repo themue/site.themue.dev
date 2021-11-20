@@ -1,8 +1,6 @@
 +++
 date = "2021-11-19T12:00:00+01:00"
 draft = false
-menu = "trainings"
-weight = 101
 title = "RESTful APIs with Go - The building blocks together
 +++
 
@@ -43,7 +41,7 @@ func newCacheHandler() *CacheHandler {
 // private helper methods.
 func (h *CacheHandler) ServeHTTP(w http.ResponseWriter, r *http.Request) {
     // Map HTTP methods to individual methods.
-    switch r.Method { 
+    switch r.Method {
     case http.MethodGet:
         h.handleGet(w, r)
     case http.MethodPost:

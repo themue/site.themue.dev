@@ -1,8 +1,6 @@
 +++
 date = "2021-11-19T12:00:00+01:00"
 draft = false
-menu = "trainings"
-weight = 101
 title = "RESTful APIs with Go - Distribute paths to handlers
 +++
 
@@ -54,7 +52,7 @@ import (
     "./pkg/users"
 )
 
-func main() { 
+func main() {
     mux := http.NewServeMux()
 
     mux.Handle("/api/v1/cache/", httpx.MethodWrapper(cache.NewCacheHandler()))
@@ -65,7 +63,7 @@ func main() {
 
     http.ListenAndServe(":8080", mux)
 }
-``` 
+```
 
 ---
 
