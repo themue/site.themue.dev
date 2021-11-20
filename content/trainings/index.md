@@ -8,5 +8,4 @@ title = "Trainings"
 
 ## Google Go
 
-- [Once Web Application with Everything in Go](https://github.com/themue-trainings/go-webapps)
-- [RESTful APIs with Go](/trainings/restful-apis-with-go/)
+- [RESTful APIs with Go](https://github.com/themue-trainings/restful-apis-with-go)
