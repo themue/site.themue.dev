@@ -8,4 +8,4 @@ title = "Trainings"
 
 ## Google Go
 
-- [RESTful APIs with Go](https://github.com/themue-trainings/restful-apis-with-go)
+- [RESTful APIs with Go](https://restful-apis-with-go.themue.dev)
