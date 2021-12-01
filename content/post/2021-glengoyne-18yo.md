@@ -1,10 +1,10 @@
-+++
+---
 date = "2021-11-18T21:00:00+01:00"
 draft = false
 title = "Glengoyne 18yo"
 tags = ["whisky", "tastingnotes"]
 categories = ["whisky"]
-+++
+---
 
 A malt that is already in my collection since February 2019 and was opened only now, is the **Glengoyne 18yo** matured in sherry casks.  I bought it blind on sale at the time, but I already knew the 15yo. Now I was pleasantly surprised by this wonderful natural colored Highland.
 
