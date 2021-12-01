@@ -1,9 +1,9 @@
 ---
-title = "Bowmore 15yo"
-date = "2021-12-01T18:00:00+01:00"
-draft = false
-tags = ["whisky", "tastingnotes"]
-categories = ["whisky"]
+title: 'Bowmore 15yo'
+date: '2021-12-01T18:00:00+01:00'
+draft: false
+categories: ['whisky']
+tags:  ['whisky', 'tastingnotes']
 ---
 
 Some time ago I already had the **Bowmore No. 1** as a small addition to
