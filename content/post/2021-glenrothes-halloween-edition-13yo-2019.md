@@ -42,4 +42,4 @@ changed my database - not all the values yet, just the system - and now I
 give the nose, taste, finish and the overall expectation a score between 0 
 and 25. The overall score will therefore be between 0 and 100, although it will
 probably be the upper third in many cases. In the case of the Glenrothes 
-Halloween Edition 13yo 2019, it is **79/100 points**.
+Halloween Edition 13yo 2019, it is **79/100** points.
