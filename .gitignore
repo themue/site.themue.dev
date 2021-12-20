@@ -1,1 +1,2 @@
 go.mod
+.hugo_build.lock
