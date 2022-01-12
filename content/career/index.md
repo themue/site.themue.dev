@@ -140,6 +140,19 @@ title = "Career"
 - 1997 :: Sybase - Fast Track to Sybase SQL Server
 - 1997 :: Sybase - SQL Server Administration
 
+## External References
+
+### Links
+
+- [Linkedin](https://www.linkedin.com/in/themue/)
+- [XING](https://www.xing.com/profile/Frank_Mueller7/)
+- [GitHub Private](https://github.com/themue)
+- [GitHub Tideland](https://github.com/tideland)
+- [Stack Overflow](https://stackoverflow.com/users/25814/themue)
+- [Reddit](https://www.reddit.com/user/TheMue)
+- [Flickr](https://www.flickr.com/photos/themue/)
+- [SlideShare](https://www.slideshare.net/TheMue)
+
 ### Talks
 
 - 2021 :: API Summit :: Modular RESTful APIs with Go
@@ -169,15 +182,4 @@ title = "Career"
 - 2010 :: BTC :: Go
 - 2008 :: SOA India :: On Event-Driven Architecture
 - 2008 :: SOA India :: Agility And The Way To SOA
-
-### Links
-
-- [Linkedin](https://www.linkedin.com/in/themue/)
-- [XING](https://www.xing.com/profile/Frank_Mueller7/)
-- [GitHub Private](https://github.com/themue)
-- [GitHub Tideland](https://github.com/tideland)
-- [Stack Overflow](https://stackoverflow.com/users/25814/themue)
-- [Reddit](https://www.reddit.com/user/TheMue)
-- [Flickr](https://www.flickr.com/photos/themue/)
-- [SlideShare](https://www.slideshare.net/TheMue)
 
