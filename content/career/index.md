@@ -132,7 +132,7 @@ title = "Career"
 - 2000 :: Object-Oriented Developer
 - 2000 :: Web Programmer
 - 1999 :: Sun Enterprise HA 2.x Cluster Administration
-- 1998 :: XYLAN Netzwerkmanagement mit OmniVision
+- 1998 :: XYLAN Netzwerkmanagement mit OmniVision (Network Management with OmniVision)
 - 1998 :: XYLAN Switch Operations
 - 1997 :: Solaris 2.x Advanced Admin / DiskSuite
 - 1997 :: Solaris 2.x Administration 1
@@ -140,27 +140,41 @@ title = "Career"
 - 1997 :: Sybase - Fast Track to Sybase SQL Server
 - 1997 :: Sybase - SQL Server Administration
 
+## External References
+
+### Links
+
+- [Linkedin](https://www.linkedin.com/in/themue/)
+- [XING](https://www.xing.com/profile/Frank_Mueller7/)
+- [GitHub Private](https://github.com/themue)
+- [GitHub Tideland](https://github.com/tideland)
+- [Stack Overflow](https://stackoverflow.com/users/25814/themue)
+- [Reddit](https://www.reddit.com/user/TheMue)
+- [Flickr](https://www.flickr.com/photos/themue/)
+- [SlideShare](https://www.slideshare.net/TheMue)
+
 ### Talks
 
+- 2021 :: API Summit :: Modular RESTful APIs with Go
 - 2021 :: betterCode Go :: Once Web Application with Everything in Go
 - 2021 :: WeAreDevelopers :: Concurrency with Go
-- 2021 :: OOP :: Kubernetes Operatoren
-- 2021 :: DevOpsCon :: Verteilte Entwicklung in Go
-- 2020 :: Webinar :: Einführung in Go
+- 2021 :: OOP :: Kubernetes Operators
+- 2021 :: DevOpsCon :: Distributed Development in Go
+- 2020 :: Webinar :: Introduction in Go
 - 2020 :: GoDays :: Fun with Functions
-- 2019 :: JAX :: Ein Gopher im Netz
+- 2019 :: JAX :: A Gopher in the Network
 - 2018 :: OOP :: Ethereum
-- 2016 :: OOP :: Spaß an der Nebenläufigkeit
-- 2015 :: parallel :: Juju - Verteilte Software auf Basis von Google Go
-- 2015 :: DevOpsCon :: Go - Googles Sprache für skalierbare Systeme
-- 2015 :: DevOpsCon :: Cloud Provisioning mit Juju
-- 2014 :: OOP :: Skalierbare Anwendungen mit Google Go
-- 2014 :: OOP :: Clouds leicht beherrschbar
-- 2014 :: GUG Hamburg :: RESTful Web Applications with Google Go
-- 2013 :: WebTechCon :: Juju - Mit ein wenig Magie zur perfekten Cloud
-- 2013 :: OOP :: Weltweite Entwicklung von OSS
-- 2013 :: GDG Bremen :: Juju - Google Go in a scalable Environment
-- 2012 :: OOP :: Nebenläufigkeit als natürliches Paradigma
+- 2016 :: OOP :: Fun with Concurrency
+- 2015 :: parallel :: Juju - Distributed Software based on Google Go
+- 2015 :: DevOpsCon :: Go - Googles Language for Scalable Systems
+- 2015 :: DevOpsCon :: Cloud Provisioning with Juju
+- 2014 :: OOP :: Scalable Applications with Go
+- 2014 :: OOP :: Clouds easily managable
+- 2014 :: GUG Hamburg :: RESTful Web Applications with Go
+- 2013 :: WebTechCon :: Juju - Some Magic for the Perfect Cloud
+- 2013 :: OOP :: Worldwide Development of OSS
+- 2013 :: GDG Bremen :: Juju - Google Go in a Scalable Environment
+- 2012 :: OOP :: Concurrency as a Natural Paradigm
 - 2012 :: OOP :: Go to the Cloud
 - 2012 :: GTUG Bremen :: Beauty and Power of Go
 - 2011 :: OEC :: Aston Martin
@@ -168,3 +182,4 @@ title = "Career"
 - 2010 :: BTC :: Go
 - 2008 :: SOA India :: On Event-Driven Architecture
 - 2008 :: SOA India :: Agility And The Way To SOA
+
