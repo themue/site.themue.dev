@@ -18,6 +18,6 @@ The taste is again dominated by orange and vanilla. In addition, there is an int
 
 ### Finish
 
-The finish is not surprising, it is really long and warm and leaves the course to the stomach nicely. Together with the slight peat note, unusual for an Iceland, a wonderful drop.
+The finish is not really surprising. It is wonderful long and warm and leaves the course to the stomach nicely. Together with the slight peat note, unusual for the Islands, a wonderful drop.
 
 The Cask Strength Release No 1 is something special for a Highland Park, which I always like anyway. This intensity has something special and also gives room to gain further flavours with a little water. The range is wide and so a gift for the friends of Highland Park. I gave it **88/100** points.
