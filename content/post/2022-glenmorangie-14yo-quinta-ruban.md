@@ -6,7 +6,7 @@ categories: ['whisky']
 tags:  ['whisky', 'tastingnotes']
 ---
 
-The **Glenmorangie 14yo Quinta Ruban** is a beautiful variant of the Glenmorangie. Aged longer than typical 10 or 12 year olds, matured in ex-bourbon casks with a finish in Ruby Port Pipes. The result is an affordable malt with 46%.
+The **Glenmorangie 14yo Quinta Ruban** is a beautiful variant of the Glenmorangie. Aged longer than typical 10 or 12 year olds, matured in ex-bourbon casks with a finish in Ruby Port Pipes. The result is an affordable Highland malt with 46%.
 
 ### Nose
 
