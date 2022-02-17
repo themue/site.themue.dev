@@ -31,7 +31,7 @@ Even in the finish, this whisky is wonderfully pleasantly smoky with nice
 sherry notes - all nicely fitting. There is also some sweetness as well
 as the oak of the cask again. This pleases.
 
-All in all, I liked this single malt, I give it an **71/100** points. And since 
-I had just emptied a few bottles again, I now have room in my cupboard again. 
-There I strike again at the next opportunity.
+All in all, I really liked this single malt, I give it an **85/100** points. And
+since  I had just emptied a few bottles again, I now have room in my cupboard. There
+I strike again at the next opportunity.
 
