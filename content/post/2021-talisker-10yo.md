@@ -29,5 +29,5 @@ intense and lingers for a long time. Again, the peppery notes of the
 flavour are found at the end.
 
 This 10 year old doesn't hold a candle to the 18 year old or even the
-25 year old. But it is tasty, balanced and strong. And so it gets 7
-out of 10 points from me.
+25 year old. But it is tasty, balanced and strong. And so it gets **73/100** years
+points from me.

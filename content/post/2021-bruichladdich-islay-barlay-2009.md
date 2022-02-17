@@ -22,4 +22,4 @@ Here the tongue is immediately hit by a pinch of salt, then real smoke and lovel
 
 The finish is wonderfully warm and long lasting. At the same time it is very nice and smooth, without any spiciness.
 
-With the second glass, the Bruichladdich becomes rounder and warmer, a beautiful malt without imposing itself with its percentage. For its price, a nice drop. In my rating, it has 7 out of 10 points.
+With the second glass, the Bruichladdich becomes rounder and warmer, a beautiful malt without imposing itself with its percentage. For its price, a nice drop. In my rating, it has **72/100** points.
