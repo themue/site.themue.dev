@@ -1,5 +1,5 @@
 ---
-date = "2022-02-28T22:30:00+01:00"
+date = "2022-02-28T22:00:00+01:00"
 draft = false
 title = "Tideland Go Audit v0.6.5"
 tags = ["golang", "tideland", "library", "release", "testing"]
