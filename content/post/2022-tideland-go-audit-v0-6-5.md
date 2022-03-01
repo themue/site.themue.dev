@@ -1,6 +1,6 @@
 ---
 title: 'Tideland Go Audit v0.6.5'
-date: '2022-03-01T16:43:00+01:00'
+date: '2022-03-01T15:43:00+01:00'
 draft: false
 categories: ['tideland']
 tags: ['golang', 'tideland', 'library', 'release', 'testing']
