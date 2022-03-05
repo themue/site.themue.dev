@@ -1,12 +1,12 @@
 ---
-title: 'Gellivet 18yo'
+title: 'The Glenlivet 18yo'
 date: '2022-03-05T22:01:00+01:00'
 draft: false
 categories: ['whisky']
 tags:  ['whisky', 'tastingnotes']
 ---
 
-Some drops I let stand a little long, this one five years. But I'm glad that with my **Glenlivet 18yo** the
+Some drops I let stand a little long, this one five years. But I'm glad that with my **The Glenlivet 18yo** the
 cork is not dry and the now opened bottle continues to seal well. It will not get much older now, but a
 good closure is already important.
 
@@ -26,6 +26,6 @@ slight spiciness from ginger and some pepper.
 Right out of the taste, the malt transitions into a nice warm and lingering finish. It is accompanied by oak
 and malt.
 
-The Glenlivet 18yo may not be high end, but it is pleasing, very round and nice, very smooth and also very
+The The Glenlivet 18yo may not be high end, but it is pleasing, very round and nice, very smooth and also very
 warm. A pleasant malt for a quiet evening. It achieved **89/100** points in my rating.
 
