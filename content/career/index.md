@@ -155,8 +155,9 @@ title = "Career"
 
 ### Talks
 
+- 2022 :: betterCode() API :: Let the computer do it
 - 2021 :: API Summit :: Modular RESTful APIs with Go
-- 2021 :: betterCode Go :: Once Web Application with Everything in Go
+- 2021 :: betterCode() Go :: Once Web Application with Everything in Go
 - 2021 :: WeAreDevelopers :: Concurrency with Go
 - 2021 :: OOP :: Kubernetes Operators
 - 2021 :: DevOpsCon :: Distributed Development in Go
