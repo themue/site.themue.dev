@@ -1,20 +1,17 @@
-+++
-date = "2021-10-01T08:00:00+01:00"
-draft = false
-menu = "main"
-weight = 20
-title = "Career"
-+++
+---
+title: 'Career'
+draft: false
+menu: 'main'
+weight: 20
+date: '2022-06-04T23:30:00+02:00'
+---
 
 ## Experience
 
-### 2019---Present :: Team Lead and Senior Software Engineer :: Kubermatic
+### 2022--Present :: Director Technical Architecture Platform :: sonnen
 
-- Oldenburg, Germany - Remote in an international team
-- Team Lead for up to 10 engineers
-- Implementation of customer specific Kubernetes operators
-- Trainer for cloud native technologies
-- Technologies: [Kubermatic](https://www.kubermatic.com), Kubernetes, Docker, Go, Google Cloud Platform, Amazon EC2
+- Oldenburg, Germany
+- Working remote
 
 ### 1993---Present :: Part-Time Self-Employed Software Engineer and Technical Author
 
@@ -25,9 +22,19 @@ title = "Career"
 - Speaker on international conferences like OOP, JAX/W-JAX, GoDays, API Summit, API Conference, parallel, DevOps Conference, WebTech Conference, SOA India
 - Development of open-source software labeled [Tideland](https://github.com/tideland/)
 
+### 2019---2022 :: Team Lead and Senior Software Engineer :: Kubermatic
+
+- Oldenburg, Germany
+- Working remote
+- Team Lead for up to 10 international engineers
+- Implementation of customer specific Kubernetes operators
+- Trainer for cloud native technologies
+- Technologies: [Kubermatic](https://www.kubermatic.com), Kubernetes, Docker, Go, Google Cloud Platform, Amazon EC2
+
 ### 2017---2018 :: Software Engineer :: Status Research & Development
 
-- Oldenburg, Germany - Remote in an international team
+- Oldenburg, Germany
+- Working remote in an international team
 - Implementation of [Status](https://status.im), a mobile Ethereum system
 - Technologies: Blockchains, Ethereum, Geth, Go
 
@@ -40,7 +47,8 @@ title = "Career"
 
 ### 2011---2015 :: Software Engineer :: Canonical
 
-- Oldenburg, Germany - Remote in an international team
+- Oldenburg, Germany
+- Working remote in an international team
 - Implementation of [Juju](https://jujucharms.com/), a cloud provisioning and configuration system
 - Management of subcontractors for the development
 - Technologies: Linux, Go, MongoDB, Python, ZooKeeper, Amazon EC2, OpenStack, Azure, MAAS, LXC
