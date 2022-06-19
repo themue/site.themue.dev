@@ -8,12 +8,13 @@ date: '2022-06-19T15:00:00+02:00'
 
 ## Experience
 
-### 2022--Present :: Director Technical Architecture Platform :: sonnen
+### 2022---Present :: Director Technical Architecture Platform :: sonnen
 
 - Oldenburg, Germany
 - Working remote
 - Team Lead for multiple Solution Architects
 - Responsible for the setup and maintenance of the company IT System Architecture
+- Technologies: Regenerative Energies, VPP, Salesforce, SAP, Integration Technologies, Linux, Microservices, Git, CI/CD, AWS, OpenStack, Kubernetes, Containers, Infrastructure as a Code, Elixir, Python, Ruby, Java
 
 ### 1993---Present :: Part-Time Self-Employed Software Engineer and Technical Author
 
@@ -31,7 +32,7 @@ date: '2022-06-19T15:00:00+02:00'
 - Team Lead for up to 10 international engineers
 - Implementation of customer specific Kubernetes operators
 - Trainer for cloud native technologies
-- Technologies: [Kubermatic](https://www.kubermatic.com), Kubernetes, Docker, Go, Google Cloud Platform, Amazon EC2
+- Technologies: [Kubermatic](https://www.kubermatic.com), Kubernetes, Docker, Go, Google Cloud Platform, AWS
 
 ### 2017---2018 :: Software Engineer :: Status Research & Development
 
