@@ -3,7 +3,7 @@ title: 'Career'
 draft: false
 menu: 'main'
 weight: 20
-date: '2022-06-04T23:30:00+02:00'
+date: '2022-06-19T15:00:00+02:00'
 ---
 
 ## Experience
@@ -12,6 +12,8 @@ date: '2022-06-04T23:30:00+02:00'
 
 - Oldenburg, Germany
 - Working remote
+- Team Lead for multiple Solution Architects
+- Responsible for the setup and maintenance of the company IT System Architecture
 
 ### 1993---Present :: Part-Time Self-Employed Software Engineer and Technical Author
 
