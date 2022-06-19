@@ -29,9 +29,9 @@ date: '2022-06-19T15:00:00+02:00'
 
 - Oldenburg, Germany
 - Working remote
-- Team Lead for up to 10 international engineers
-- Implementation of customer specific Kubernetes operators
-- Trainer for cloud native technologies
+- Team Lead for up to 10 international Software Engineers
+- Implementation of customer specific Kubernetes Operators
+- Trainer for Cloud-Native Technologies
 - Technologies: [Kubermatic](https://www.kubermatic.com); Kubernetes; Docker; Go; Google Cloud Platform; Amazon Web Services
 
 ### 2017---2018 :: Software Engineer :: Status Research & Development
@@ -45,7 +45,6 @@ date: '2022-06-19T15:00:00+02:00'
 
 - Bremen, Germany
 - Architecture and implementation of a Logistics Management System
-- Responsibilities: Development Processes; Requirements Engineering; Software Cost Estimation; Quality Assurance
 - Technologies: Microservices; RESTful APIs;, Go; JavaScript; CouchDB; JSON Web Token; Linux; Docker
 
 ### 2011---2015 :: Software Engineer :: Canonical
@@ -53,49 +52,43 @@ date: '2022-06-19T15:00:00+02:00'
 - Oldenburg, Germany
 - Working remote in an international team
 - Implementation of [Juju](https://jujucharms.com/), a Cloud Provisioning and Configuration System
-- Responsibilities: Subcontractor Management
 - Technologies: Linux; Go; MongoDB; Python; ZooKeeper; Amazon Web Services; Google Cloud Platform; OpenStack; Microsoft Azure; MAAS; LXC
 
 ### 2006---2011 :: Team Lead and Consultant :: BTC
 
 - Oldenburg, Germany
-- Team Lead for up to 24 engineers
+- Team Lead for up to 24 Software Engineers and Technicians
 - Managing teams developing software for the management of wind farm centers and deployment planning of energy plant technicians
 - Maintenance and extension of CONDIS, a Smalltalk and GemStone/S based Configuration Management System for Telecommunication and Networks
 - Analyst and Consultant for SOA and Software Architectures
 - Trainer for Requirements Engineering and Software Cost Estimation
-- Responsibilities: Development Processes; Requirements Engineering; Software Cost Estimation; Quality Assurance 
 - Technologies: Smalltalk; GemStrone/S; Java EE/SE; Microsoft BizTalk; C#; Python
 
 ### 2003---2006 :: Technical Project Manager and System Specialist :: Thales
 
 - Wilhelmshaven, Germany
-- Technical Project Manager for up to 7 engineers
+- Technical Project Manager for up to 7 Software Engineers
 - Multi-database data consolidation and migration
 - Member of the sub-project *data management and metadata*
-- Responsibilities: Subcontractor Management; Software Cost Estimation; Quality Assurance
 - Technologies: Java EE; TopLink; Oracle; WebSphere; Rational Rose; Rational ClearCase
 
 ### 2001---2003 :: Development Director :: OpenKnowledge
 
 - Oldenburg, Germany
-- Development Director for up to 15 engineers
-- Responsibilities: Development Processes; Requirements Engineering; Software Cost Estimation; Quality Assurance; Team Training
+- Development Director for up to 15 Software Engineers
 - Technologies: Java EE; Python; JBOSS; Oracle; IDEA
 
 ### 2000---2001 :: VP Software Development :: CANBOX
 
 - Oldenburg, Germany and Boston, MA USA
-- Vice President Software Development for up to 22 engineers
-- Responsibilities: Development Processes; Requirements Engineering; Software Cost Estimation; Quality Assurance
+- Vice President Software Development for up to 22 Software Engineers
 - Technologies: Java EE
 
 ### 1999---2000 :: Development Director :: RedDot
 
 - Oldenburg, Germany
-- Development Director for up to 7 engineers
+- Development Director for up to 7 Software Engineers
 - Implementation of the RedDot Content Management Systeme Enterprise Edition
-- Responsibilities: Development Processes; Requirements Engineering; Software Cost Estimation; Quality Assurance
 - Technologies: Java EE; POET OODBMS; SNiFF+; Python
 
 ### 1997---1999 :: System Specialist Unix :: Nordwest-Zeitung
@@ -112,11 +105,7 @@ date: '2022-06-19T15:00:00+02:00'
 
 - Oldenburg, Germany
 - System Specialist for mainframe, servers, PCs, networking, and telecommunication
-- Operation of a number of servers running OS/2, AIX, and DPPX
-- Remote operation of mainframes running MVS with TSO, CICS, and DB2
-- Maintenance of a Token Ring based network
-- Operation of a Siemens Hicom 300
-- Development of applications in Turbo Pascal and ReXX
+- Technologies: MVS; TSO; CICS; DB2; AIX; OS/2; DPPX; Siemens Hicom 300; Token Ring; Turbo Pascal; ReXX
 
 ## Education
 
