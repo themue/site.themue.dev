@@ -1,110 +1,111 @@
-+++
-date = "2021-10-01T08:00:00+01:00"
-draft = false
-menu = "main"
-weight = 20
-title = "Career"
-+++
+---
+title: 'Career'
+draft: false
+menu: 'main'
+weight: 20
+date: '2022-06-19T15:00:00+02:00'
+---
 
 ## Experience
 
-### 2019---Present :: Team Lead and Senior Software Engineer :: Kubermatic
+### 2022---Present :: Director Technical Architecture Platform :: sonnen
 
-- Oldenburg, Germany - Remote in an international team
-- Team Lead for up to 10 engineers
-- Implementation of customer specific Kubernetes operators
-- Trainer for cloud native technologies
-- Technologies: [Kubermatic](https://www.kubermatic.com), Kubernetes, Docker, Go, Google Cloud Platform, Amazon EC2
+- Oldenburg, Germany
+- Working remote
+- Team Lead for multiple Solution Architects
+- Setup and maintenance of the company IT System Architecture
+- Technologies: Regenerative Energies; VPP; Salesforce; SAP; Integration Technologies; Linux; Microservices; CI/CD; Amazon Web Services; OpenStack; Kubernetes; Containers; Infrastructure as a Code; Elixir; Python; Ruby; Java
 
 ### 1993---Present :: Part-Time Self-Employed Software Engineer and Technical Author
 
 - Oldenburg, Germany
-- Consulting for software development processes, software architecture, Go, Erlang/OTP, Clouds, Microservices
-- Articles, book reviews, and conference reports for IT magazines like iX, heise developer, Entwickler Magazin, JavaSPEKTRUM, Java Magazin, Linux Enterprise
+- Consulting for Software Development Processes, Software Architecture, Go, Erlang/OTP, Clouds and Microservices
+- Articles, book reviews and conference reports for IT magazines like iX, heise developer, Entwickler Magazin, JavaSPEKTRUM, Java Magazin and Linux Enterprise
 - Author of the book *Systemprogrammierung in Google Go* (*System Programming in Google Go*)
-- Speaker on international conferences like OOP, JAX/W-JAX, GoDays, API Summit, API Conference, parallel, DevOps Conference, WebTech Conference, SOA India
+- Speaker on international conferences like OOP, JAX/W-JAX, GoDays, API Summit, API Conference, parallel, DevOps Conference, WebTech Conference and SOA India
 - Development of open-source software labeled [Tideland](https://github.com/tideland/)
+
+### 2019---2022 :: Team Lead and Senior Software Engineer :: Kubermatic
+
+- Oldenburg, Germany
+- Working remote
+- Team Lead for up to 10 international Software Engineers
+- Implementation of customer specific Kubernetes Operators
+- Trainer for Cloud-Native Technologies
+- Technologies: [Kubermatic](https://www.kubermatic.com); Kubernetes; Docker; Go; Google Cloud Platform; Amazon Web Services
 
 ### 2017---2018 :: Software Engineer :: Status Research & Development
 
-- Oldenburg, Germany - Remote in an international team
+- Oldenburg, Germany
+- Working remote in an international team
 - Implementation of [Status](https://status.im), a mobile Ethereum system
-- Technologies: Blockchains, Ethereum, Geth, Go
+- Technologies: Blockchains; Ethereum; Geth; Go
 
 ### 2016---2017 :: Software Engineer and Software Architect :: AKKA
 
 - Bremen, Germany
-- Architecture and implementation of a logistics management system
-- Implementation and management of development processes, requirements engineering and quality assurance
-- Technologies: Microservices, RESTful API, Go, JavaScript, CouchDB, JSON Web Token, Linux, Docker
+- Architecture and implementation of a Logistics Management System
+- Technologies: Microservices; RESTful APIs;, Go; JavaScript; CouchDB; JSON Web Token; Linux; Docker
 
 ### 2011---2015 :: Software Engineer :: Canonical
 
-- Oldenburg, Germany - Remote in an international team
-- Implementation of [Juju](https://jujucharms.com/), a cloud provisioning and configuration system
-- Management of subcontractors for the development
-- Technologies: Linux, Go, MongoDB, Python, ZooKeeper, Amazon EC2, OpenStack, Azure, MAAS, LXC
+- Oldenburg, Germany
+- Working remote in an international team
+- Implementation of [Juju](https://jujucharms.com/), a Cloud Provisioning and Configuration System
+- Technologies: Linux; Go; MongoDB; Python; ZooKeeper; Amazon Web Services; Google Cloud Platform; OpenStack; Microsoft Azure; MAAS; LXC
 
 ### 2006---2011 :: Team Lead and Consultant :: BTC
 
 - Oldenburg, Germany
-- Team Lead for up to 24 engineers
-- Maintenance and extension of Smalltalk and GemStone/S based configuration management system for telecommunication and networks
-- Analysis and consulting for SOA and software architectures
-- Trainer for requirements engineering and software cost estimation
-- Technologies: Smalltalk, GemStrone/S, Java EE/SE, BizTalk, C#, Python
+- Team Lead for up to 24 Software Engineers and Technicians
+- Managing teams developing software for the management of wind farm centers and deployment planning of energy plant technicians
+- Maintenance and extension of CONDIS, a Smalltalk and GemStone/S based Configuration Management System for Telecommunication and Networks
+- Analyst and Consultant for SOA and Software Architectures
+- Trainer for Requirements Engineering and Software Cost Estimation
+- Technologies: Smalltalk; GemStrone/S; Java EE/SE; Microsoft BizTalk; C#; Python
 
 ### 2003---2006 :: Technical Project Manager and System Specialist :: Thales
 
 - Wilhelmshaven, Germany
-- Technical Project Manager for up to 7 engineers
+- Technical Project Manager for up to 7 Software Engineers
 - Multi-database data consolidation and migration
-- Management of subcontractors for the development
 - Member of the sub-project *data management and metadata*
-- Requirements engineering and software quality assurance
-- Technologies: Java EE, TopLink, Oracle, WebSphere, Rational Rose, Rational ClearCase
+- Technologies: Java EE; TopLink; Oracle; WebSphere; Rational Rose; Rational ClearCase
 
 ### 2001---2003 :: Development Director :: OpenKnowledge
 
 - Oldenburg, Germany
-- Development Director for up to 15 engineers
-- Development processes, requirements engineering, quality assurance, and staff training
-- Technologies: Java EE, Python, JBOSS, Oracle, IDEA
+- Development Director for up to 15 Software Engineers
+- Technologies: Java EE; Python; JBOSS; Oracle; IDEA
 
 ### 2000---2001 :: VP Software Development :: CANBOX
 
 - Oldenburg, Germany and Boston, MA USA
-- Vice President Software Development for up to 22 engineers
-- Development processes, requirements engineering and quality assurance
+- Vice President Software Development for up to 22 Software Engineers
 - Technologies: Java EE
 
 ### 1999---2000 :: Development Director :: RedDot
 
 - Oldenburg, Germany
-- Development Director for up to 7 engineers
+- Development Director for up to 7 Software Engineers
 - Implementation of the RedDot Content Management Systeme Enterprise Edition
-- Development processes, requirements engineering and quality assurance
-- Technologies: Java EE, POET OODBMS, SNiFF+, Python
+- Technologies: Java EE; POET OODBMS; SNiFF+; Python
 
 ### 1997---1999 :: System Specialist Unix :: Nordwest-Zeitung
 
 - Oldenburg, Germany
 - System Specialist for high-available Unix systems
-- Operation of newspaper production systems, SAP R/3, and mail servers
-- Automation using shell, Python, and Perl scripting
-- Implementation of a system monitoring via SNMP
-- Development and implementation of a trouble ticket system
-- Technologies: Solaris, OpenVision Axxion HA, Sun Cluster, Veritas, Oracle, Sybase, Linux, bash, Python, Perl, PostgreSQL
+- Operation of Newspaper Production Systems, SAP R/3, and Mail Servers
+- Automation using Shell, Python, and Perl scripting
+- Implementation of a System Monitoring via SNMP
+- Development and implementation of a Trouble Ticket System
+- Technologies: Sun Solaris; OpenVision Axxion HA; Sun Cluster; Veritas; Oracle; Sybase; Linux; Bash; Python; Perl; PostgreSQL
 
 ### 1991---1997 :: System Specialist :: R+V Versicherung
 
 - Oldenburg, Germany
 - System Specialist for mainframe, servers, PCs, networking, and telecommunication
-- Operation of a number of servers running OS/2, AIX, and DPPX
-- Remote operation of mainframes running MVS with TSO, CICS, and DB2
-- Maintenance of a Token Ring based network
-- Operation of a Siemens Hicom 300
-- Development of applications in Turbo Pascal and ReXX
+- Technologies: MVS; TSO; CICS; DB2; AIX; OS/2; DPPX; Siemens Hicom 300; Token Ring; Turbo Pascal; ReXX
 
 ## Education
 
