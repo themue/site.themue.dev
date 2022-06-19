@@ -12,9 +12,9 @@ date: '2022-06-19T15:00:00+02:00'
 
 - Oldenburg, Germany
 - Working remote
-- Team Lead for multiple Solution Architects
-- Responsible for the setup and maintenance of the company IT System Architecture
-- Technologies: Regenerative Energies, VPP, Salesforce, SAP, Integration Technologies, Linux, Microservices, Git, CI/CD, AWS, OpenStack, Kubernetes, Containers, Infrastructure as a Code, Elixir, Python, Ruby, Java
+- Team Lead for multiple solution architects
+- Responsible for the setup and maintenance of the company IT system architecture
+- Technologies: Regenerative energies; VPP; Salesforce; SAP; integration technologies; Linux; microservices; Git; CI/CD; Amazon Web Services; OpenStack; Kubernetes; Containers; Infrastructure as a Code; Elixir; Python; Ruby; Java
 
 ### 1993---Present :: Part-Time Self-Employed Software Engineer and Technical Author
 
@@ -32,21 +32,21 @@ date: '2022-06-19T15:00:00+02:00'
 - Team Lead for up to 10 international engineers
 - Implementation of customer specific Kubernetes operators
 - Trainer for cloud native technologies
-- Technologies: [Kubermatic](https://www.kubermatic.com), Kubernetes, Docker, Go, Google Cloud Platform, AWS
+- Technologies: [Kubermatic](https://www.kubermatic.com); Kubernetes; Docker; Go; Google Cloud Platform; Amazon Web Services
 
 ### 2017---2018 :: Software Engineer :: Status Research & Development
 
 - Oldenburg, Germany
 - Working remote in an international team
 - Implementation of [Status](https://status.im), a mobile Ethereum system
-- Technologies: Blockchains, Ethereum, Geth, Go
+- Technologies: Blockchains; Ethereum; Geth; Go
 
 ### 2016---2017 :: Software Engineer and Software Architect :: AKKA
 
 - Bremen, Germany
 - Architecture and implementation of a logistics management system
 - Implementation and management of development processes, requirements engineering and quality assurance
-- Technologies: Microservices, RESTful API, Go, JavaScript, CouchDB, JSON Web Token, Linux, Docker
+- Technologies: Microservices; RESTful APIs;, Go; JavaScript; CouchDB; JSON Web Token; Linux; Docker
 
 ### 2011---2015 :: Software Engineer :: Canonical
 
@@ -54,7 +54,7 @@ date: '2022-06-19T15:00:00+02:00'
 - Working remote in an international team
 - Implementation of [Juju](https://jujucharms.com/), a cloud provisioning and configuration system
 - Management of subcontractors for the development
-- Technologies: Linux, Go, MongoDB, Python, ZooKeeper, Amazon EC2, OpenStack, Azure, MAAS, LXC
+- Technologies: Linux; Go; MongoDB; Python; ZooKeeper; Amazon Web Services; Google Cloud Platform; OpenStack; Microsoft Azure; MAAS; LXC
 
 ### 2006---2011 :: Team Lead and Consultant :: BTC
 
@@ -63,7 +63,7 @@ date: '2022-06-19T15:00:00+02:00'
 - Maintenance and extension of Smalltalk and GemStone/S based configuration management system for telecommunication and networks
 - Analysis and consulting for SOA and software architectures
 - Trainer for requirements engineering and software cost estimation
-- Technologies: Smalltalk, GemStrone/S, Java EE/SE, BizTalk, C#, Python
+- Technologies: Smalltalk; GemStrone/S; Java EE/SE; Microsoft BizTalk; C#; Python
 
 ### 2003---2006 :: Technical Project Manager and System Specialist :: Thales
 
@@ -73,14 +73,14 @@ date: '2022-06-19T15:00:00+02:00'
 - Management of subcontractors for the development
 - Member of the sub-project *data management and metadata*
 - Requirements engineering and software quality assurance
-- Technologies: Java EE, TopLink, Oracle, WebSphere, Rational Rose, Rational ClearCase
+- Technologies: Java EE; TopLink; Oracle; WebSphere; Rational Rose; Rational ClearCase
 
 ### 2001---2003 :: Development Director :: OpenKnowledge
 
 - Oldenburg, Germany
 - Development Director for up to 15 engineers
 - Development processes, requirements engineering, quality assurance, and staff training
-- Technologies: Java EE, Python, JBOSS, Oracle, IDEA
+- Technologies: Java EE; Python; JBOSS; Oracle; IDEA
 
 ### 2000---2001 :: VP Software Development :: CANBOX
 
@@ -95,7 +95,7 @@ date: '2022-06-19T15:00:00+02:00'
 - Development Director for up to 7 engineers
 - Implementation of the RedDot Content Management Systeme Enterprise Edition
 - Development processes, requirements engineering and quality assurance
-- Technologies: Java EE, POET OODBMS, SNiFF+, Python
+- Technologies: Java EE; POET OODBMS; SNiFF+; Python
 
 ### 1997---1999 :: System Specialist Unix :: Nordwest-Zeitung
 
@@ -105,7 +105,7 @@ date: '2022-06-19T15:00:00+02:00'
 - Automation using shell, Python, and Perl scripting
 - Implementation of a system monitoring via SNMP
 - Development and implementation of a trouble ticket system
-- Technologies: Solaris, OpenVision Axxion HA, Sun Cluster, Veritas, Oracle, Sybase, Linux, bash, Python, Perl, PostgreSQL
+- Technologies: Sun Solaris; OpenVision Axxion HA; Sun Cluster; Veritas; Oracle; Sybase; Linux; bash; Python; Perl; PostgreSQL
 
 ### 1991---1997 :: System Specialist :: R+V Versicherung
 
