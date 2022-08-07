@@ -1,6 +1,6 @@
 ---
-title: 'Lagavulin 16yo'
-date: '2022-05-06T21:30:00+02:00'
+title: 'Glenmorangie Extremely Rare 18yo'
+date: '2022-08-07T21:30:00+02:00'
 draft: false
 categories: ['whisky']
 tags:  ['whisky', 'tastingnotes']
