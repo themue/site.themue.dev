@@ -1,14 +1,11 @@
-+++
-date = "2021-11-11T12:00:00+00:00"
-draft = false
-menu = "main"
-weight = 30
-title = "Projects"
-+++
-
-## Private
-
-- [BBGo](https://github.com/themue/bbgo/) for Go programming with BBEdit on macOS
+---
+title: 'Projects'
+date: '2022-08-20T21:00:00+01:00'
+draft: false
+categories: ['tideland']
+menu: 'main'
+weight: 30
+---
 
 ## Tideland
 
@@ -19,6 +16,7 @@ title = "Projects"
 - [Go Cells](https://pkg.go.dev/mod/tideland.dev/go/cells) providing a single node event processing environment
 - [Go JWT](https://pkg.go.dev/mod/tideland.dev/go/jwt) creates and handles JSON Web Tokens
 - [Go UUID](https://pkg.go.dev/mod/tideland.dev/go/uuid) generates UUIDs v1, v3, v4, and v5
+- [Go Slices](https://pkg.go.dev/tideland.dev/go/slices) manages slices using generics.
 - [Go Wait](https://pkg.go.dev/mod/tideland.dev/go/wait) allows waiting for defined conditions by polling
 
 > NOTE
