@@ -1,6 +1,6 @@
 ---
 title: 'Bunnahabhain 12yo'
-date: '2022-10-28T20:00:00+02:00'
+date: '2022-10-28T22:00:00+02:00'
 draft: false
 categories: ['whisky']
 tags:  ['whisky', 'tastingnotes']
