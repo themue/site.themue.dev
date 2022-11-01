@@ -3,18 +3,18 @@ title: 'Career'
 draft: false
 menu: 'main'
 weight: 20
-date: '2022-06-19T15:00:00+02:00'
+date: '2022-11-01T08:00:00+02:00'
 ---
 
 ## Experience
 
-### 2022---Present :: Director Technical Architecture Platform :: sonnen
+### 2022---Present :: Director Enterprise Architecture :: sonnen
 
 - Oldenburg, Germany
 - Working remote
 - Team Lead for multiple Solution Architects
 - Setup and maintenance of the company IT System Architecture
-- Technologies: Regenerative Energies; VPP; Salesforce; SAP; Integration Technologies; Linux; Microservices; CI/CD; Amazon Web Services; OpenStack; Kubernetes; Containers; Infrastructure as a Code; Elixir; Python; Ruby; Java
+- Technologies: Regenerative Energies; VPP; Salesforce; SAP; Integration Technologies; Linux; Microservices; CI/CD; Amazon Web Services; Kubernetes; Containers; Infrastructure as a Code; Elixir; Python; Ruby; Node.JS
 
 ### 1993---Present :: Part-Time Self-Employed Software Engineer and Technical Author
 
