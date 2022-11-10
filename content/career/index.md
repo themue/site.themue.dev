@@ -14,12 +14,12 @@ date: '2022-11-01T08:00:00+02:00'
 - Working remote
 - Team Lead for multiple Solution Architects
 - Setup and maintenance of the company IT System Architecture
-- Technologies: Regenerative Energies; VPP; Salesforce; SAP; Integration Technologies; Linux; Microservices; CI/CD; Amazon Web Services; Kubernetes; Containers; Infrastructure as a Code; Elixir; Python; Ruby; Node.JS
+- Technologies: Regenerative Energies; VPP; Salesforce; SAP; Integration Technologies; Amazon Web Services; Kubernetes; Docker; Infrastructure as a Code; Elixir; Python; Ruby; Node.JS
 
 ### 1993---Present :: Part-Time Self-Employed Software Engineer and Technical Author
 
 - Oldenburg, Germany
-- Consulting for Software Development Processes, Software Architecture, Go, Erlang/OTP, Clouds and Microservices
+- Consulting for Software Development Processes, Software Architecture, Google Go, Erlang/OTP, Cloud Architecture and Microservices
 - Articles, book reviews and conference reports for IT magazines like iX, heise developer, Entwickler Magazin, JavaSPEKTRUM, Java Magazin and Linux Enterprise
 - Author of the book *Systemprogrammierung in Google Go* (*System Programming in Google Go*)
 - Speaker on international conferences like OOP, JAX/W-JAX, GoDays, API Summit, API Conference, parallel, DevOps Conference, WebTech Conference and SOA India
@@ -29,35 +29,35 @@ date: '2022-11-01T08:00:00+02:00'
 
 - Oldenburg, Germany
 - Working remote
-- Team Lead for up to 10 international Software Engineers
+- Team Lead for 10 international Software Engineers
 - Implementation of customer specific Kubernetes Operators
 - Trainer for Cloud-Native Technologies
-- Technologies: [Kubermatic](https://www.kubermatic.com); Kubernetes; Docker; Go; Google Cloud Platform; Amazon Web Services
+- Technologies: [Kubermatic](https://www.kubermatic.com); Kubernetes; Docker; Google Go; Google Cloud Platform; Amazon Web Services
 
 ### 2017---2018 :: Software Engineer :: Status Research & Development
 
 - Oldenburg, Germany
 - Working remote in an international team
 - Implementation of [Status](https://status.im), a mobile Ethereum system
-- Technologies: Blockchains; Ethereum; Geth; Go
+- Technologies: Blockchains; Ethereum; Google Go; Geth
 
 ### 2016---2017 :: Software Engineer and Software Architect :: AKKA
 
 - Bremen, Germany
 - Architecture and implementation of a Logistics Management System
-- Technologies: Microservices; RESTful APIs;, Go; JavaScript; CouchDB; JSON Web Token; Linux; Docker
+- Technologies: Microservices; RESTful APIs; Google Go; JavaScript; CouchDB; JSON Web Token; Linux; Docker
 
 ### 2011---2015 :: Software Engineer :: Canonical
 
 - Oldenburg, Germany
 - Working remote in an international team
 - Implementation of [Juju](https://jujucharms.com/), a Cloud Provisioning and Configuration System
-- Technologies: Linux; Go; MongoDB; Python; ZooKeeper; Amazon Web Services; Google Cloud Platform; OpenStack; Microsoft Azure; MAAS; LXC
+- Technologies: Linux; Google Go; MongoDB; Python; ZooKeeper; Amazon Web Services; Google Cloud Platform; OpenStack; Microsoft Azure; MAAS; LXC
 
 ### 2006---2011 :: Team Lead and Consultant :: BTC
 
 - Oldenburg, Germany
-- Team Lead for up to 24 Software Engineers and Technicians
+- Team Lead for 24 Software Engineers and Technicians
 - Managing teams developing software for the management of wind farm centers and deployment planning of energy plant technicians
 - Maintenance and extension of CONDIS, a Smalltalk and GemStone/S based Configuration Management System for Telecommunication and Networks
 - Analyst and Consultant for SOA and Software Architectures
@@ -67,7 +67,7 @@ date: '2022-11-01T08:00:00+02:00'
 ### 2003---2006 :: Technical Project Manager and System Specialist :: Thales
 
 - Wilhelmshaven, Germany
-- Technical Project Manager for up to 7 Software Engineers
+- Technical Project Manager for 7 Software Engineers
 - Multi-database data consolidation and migration
 - Member of the sub-project *data management and metadata*
 - Technologies: Java EE; TopLink; Oracle; WebSphere; Rational Rose; Rational ClearCase
@@ -75,19 +75,19 @@ date: '2022-11-01T08:00:00+02:00'
 ### 2001---2003 :: Development Director :: OpenKnowledge
 
 - Oldenburg, Germany
-- Development Director for up to 15 Software Engineers
+- Development Director for 15 Software Engineers
 - Technologies: Java EE; Python; JBOSS; Oracle; IDEA
 
 ### 2000---2001 :: VP Software Development :: CANBOX
 
 - Oldenburg, Germany and Boston, MA USA
-- Vice President Software Development for up to 22 Software Engineers
+- Vice President Software Development for 22 Software Engineers
 - Technologies: Java EE
 
 ### 1999---2000 :: Development Director :: RedDot
 
 - Oldenburg, Germany
-- Development Director for up to 7 Software Engineers
+- Development Director for 7 Software Engineers
 - Implementation of the RedDot Content Management Systeme Enterprise Edition
 - Technologies: Java EE; POET OODBMS; SNiFF+; Python
 
@@ -105,7 +105,7 @@ date: '2022-11-01T08:00:00+02:00'
 
 - Oldenburg, Germany
 - System Specialist for mainframe, servers, PCs, networking, and telecommunication
-- Technologies: MVS; TSO; CICS; DB2; AIX; OS/2; DPPX; Siemens Hicom 300; Token Ring; Turbo Pascal; ReXX
+- Technologies: MVS; TSO; CICS; DB2; AIX; OS/2; DPPX; Siemens Hicom; Token Ring; Turbo Pascal; ReXX
 
 ## Education
 
@@ -146,13 +146,12 @@ date: '2022-11-01T08:00:00+02:00'
 ### Links
 
 - [Linkedin](https://www.linkedin.com/in/themue/)
-- [XING](https://www.xing.com/profile/Frank_Mueller7/)
 - [GitHub Private](https://github.com/themue)
 - [GitHub Tideland](https://github.com/tideland)
+- [SlideShare](https://www.slideshare.net/TheMue)
 - [Stack Overflow](https://stackoverflow.com/users/25814/themue)
 - [Reddit](https://www.reddit.com/user/TheMue)
 - [Flickr](https://www.flickr.com/photos/themue/)
-- [SlideShare](https://www.slideshare.net/TheMue)
 
 ### Talks
 
