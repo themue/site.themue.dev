@@ -12,8 +12,9 @@ date: '2022-11-01T08:00:00+02:00'
 
 - Oldenburg, Germany
 - Working remote
-- Team Lead for multiple Solution Architects
+- Team Lead for 3 Solution Architects
 - Setup and maintenance of the company IT System Architecture
+- Business Area: Batteries, Charger and Virtual Power Plants
 - Technologies: Regenerative Energies; VPP; Salesforce; SAP; Integration Technologies; Amazon Web Services; Kubernetes; Docker; Infrastructure as a Code; Elixir; Python; Ruby; Node.JS
 
 ### 1993---Present :: Part-Time Self-Employed Software Engineer and Technical Author
@@ -32,6 +33,7 @@ date: '2022-11-01T08:00:00+02:00'
 - Team Lead for 10 international Software Engineers
 - Implementation of customer specific Kubernetes Operators
 - Trainer for Cloud-Native Technologies
+- Business Area: Consulting and Production of Kubernetes Software
 - Technologies: [Kubermatic](https://www.kubermatic.com); Kubernetes; Docker; Google Go; Google Cloud Platform; Amazon Web Services
 
 ### 2017---2018 :: Software Engineer :: Status Research & Development
@@ -39,12 +41,14 @@ date: '2022-11-01T08:00:00+02:00'
 - Oldenburg, Germany
 - Working remote in an international team
 - Implementation of [Status](https://status.im), a mobile Ethereum system
+- Business Area: Blockchains
 - Technologies: Blockchains; Ethereum; Google Go; Geth
 
 ### 2016---2017 :: Software Engineer and Software Architect :: AKKA
 
 - Bremen, Germany
 - Architecture and implementation of a Logistics Management System
+- Business Area: Logistics for Production of Planes, Cars and Ships
 - Technologies: Microservices; RESTful APIs; Google Go; JavaScript; CouchDB; JSON Web Token; Linux; Docker
 
 ### 2011---2015 :: Software Engineer :: Canonical
@@ -52,6 +56,7 @@ date: '2022-11-01T08:00:00+02:00'
 - Oldenburg, Germany
 - Working remote in an international team
 - Implementation of [Juju](https://jujucharms.com/), a Cloud Provisioning and Configuration System
+- Business Area: Ubuntu Linux Distribution
 - Technologies: Linux; Google Go; MongoDB; Python; ZooKeeper; Amazon Web Services; Google Cloud Platform; OpenStack; Microsoft Azure; MAAS; LXC
 
 ### 2006---2011 :: Team Lead and Consultant :: BTC
@@ -62,6 +67,7 @@ date: '2022-11-01T08:00:00+02:00'
 - Maintenance and extension of CONDIS, a Smalltalk and GemStone/S based Configuration Management System for Telecommunication and Networks
 - Analyst and Consultant for SOA and Software Architectures
 - Trainer for Requirements Engineering and Software Cost Estimation
+- Business Area: Consulting and Development for Energy Production and Telecommunication
 - Technologies: Smalltalk; GemStrone/S; Java EE/SE; Microsoft BizTalk; C#; Python
 
 ### 2003---2006 :: Technical Project Manager and System Specialist :: Thales
@@ -70,41 +76,47 @@ date: '2022-11-01T08:00:00+02:00'
 - Technical Project Manager for 7 Software Engineers
 - Multi-database data consolidation and migration
 - Member of the sub-project *data management and metadata*
+- Business Area: Production of customer-specific Software Systems
 - Technologies: Java EE; TopLink; Oracle; WebSphere; Rational Rose; Rational ClearCase
 
 ### 2001---2003 :: Development Director :: OpenKnowledge
 
 - Oldenburg, Germany
 - Development Director for 15 Software Engineers
+- Business Area: Production of customer-specific software systems
 - Technologies: Java EE; Python; JBOSS; Oracle; IDEA
 
 ### 2000---2001 :: VP Software Development :: CANBOX
 
 - Oldenburg, Germany and Boston, MA USA
 - Vice President Software Development for 22 Software Engineers
-- Technologies: Java EE
+- Business Area: Unified Messaging
+- Technologies: Java EE; Linux; Solaris
 
 ### 1999---2000 :: Development Director :: RedDot
 
 - Oldenburg, Germany
 - Development Director for 7 Software Engineers
 - Implementation of the RedDot Content Management Systeme Enterprise Edition
+- Business Area: Content Management Software
 - Technologies: Java EE; POET OODBMS; SNiFF+; Python
 
 ### 1997---1999 :: System Specialist Unix :: Nordwest-Zeitung
 
 - Oldenburg, Germany
 - System Specialist for high-available Unix systems
-- Operation of Newspaper Production Systems, SAP R/3, and Mail Servers
+- Operation of Newspaper Production Software, SAP R/3, and Mail Servers
 - Automation using Shell, Python, and Perl scripting
 - Implementation of a System Monitoring via SNMP
 - Development and implementation of a Trouble Ticket System
+- Business Area: Newspaper
 - Technologies: Sun Solaris; OpenVision Axxion HA; Sun Cluster; Veritas; Oracle; Sybase; Linux; Bash; Python; Perl; PostgreSQL
 
 ### 1991---1997 :: System Specialist :: R+V Versicherung
 
 - Oldenburg, Germany
 - System Specialist for mainframe, servers, PCs, networking, and telecommunication
+- Business Area: Insurance
 - Technologies: MVS; TSO; CICS; DB2; AIX; OS/2; DPPX; Siemens Hicom; Token Ring; Turbo Pascal; ReXX
 
 ## Education
