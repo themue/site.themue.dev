@@ -83,7 +83,7 @@ date: '2022-11-01T08:00:00+02:00'
 
 - Oldenburg, Germany
 - Development Director for 15 Software Engineers
-- Business Area: Production of customer-specific software systems
+- Business Area: Production of customer-specific Software Systems
 - Technologies: Java EE; Python; JBOSS; Oracle; IDEA
 
 ### 2000---2001 :: VP Software Development :: CANBOX
