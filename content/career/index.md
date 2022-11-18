@@ -14,7 +14,7 @@ date: '2022-11-01T08:00:00+02:00'
 - Working remote
 - Team Lead for 3 Solution Architects
 - Setup and maintenance of the company IT System Architecture
-- Business Area: Batteries, Charger and Virtual Power Plants
+- Business Area: Production of batteries for photovoltaics and provider of Virtual Power Plants
 - Technologies: Regenerative Energies; VPP; Salesforce; SAP; Integration Technologies; Amazon Web Services; Kubernetes; Docker; Infrastructure as a Code; Elixir; Python; Ruby; Node.JS
 
 ### 1993---Present :: Part-Time Self-Employed Software Engineer and Technical Author
@@ -33,7 +33,7 @@ date: '2022-11-01T08:00:00+02:00'
 - Team Lead for 10 international Software Engineers
 - Implementation of customer specific Kubernetes Operators
 - Trainer for Cloud-Native Technologies
-- Business Area: Consulting and Production of Kubernetes Software
+- Business Area: Consulting for and production of Kubernetes software
 - Technologies: [Kubermatic](https://www.kubermatic.com); Kubernetes; Docker; Google Go; Google Cloud Platform; Amazon Web Services
 
 ### 2017---2018 :: Software Engineer :: Status Research & Development
@@ -47,8 +47,8 @@ date: '2022-11-01T08:00:00+02:00'
 ### 2016---2017 :: Software Engineer and Software Architect :: AKKA
 
 - Bremen, Germany
-- Architecture and implementation of a Logistics Management System
-- Business Area: Logistics for Production of Planes, Cars and Ships
+- Architecture and implementation of a Logistics and Production Management System
+- Business Area: Service by engineers in aerospace, shipbuilding and automotive
 - Technologies: Microservices; RESTful APIs; Google Go; JavaScript; CouchDB; JSON Web Token; Linux; Docker
 
 ### 2011---2015 :: Software Engineer :: Canonical
@@ -67,7 +67,7 @@ date: '2022-11-01T08:00:00+02:00'
 - Maintenance and extension of CONDIS, a Smalltalk and GemStone/S based Configuration Management System for Telecommunication and Networks
 - Analyst and Consultant for SOA and Software Architectures
 - Trainer for Requirements Engineering and Software Cost Estimation
-- Business Area: Consulting and Development for Energy Production and Telecommunication
+- Business Area: Consulting and development for energy production and telecommunication
 - Technologies: Smalltalk; GemStrone/S; Java EE/SE; Microsoft BizTalk; C#; Python
 
 ### 2003---2006 :: Technical Project Manager and System Specialist :: Thales
@@ -76,14 +76,14 @@ date: '2022-11-01T08:00:00+02:00'
 - Technical Project Manager for 7 Software Engineers
 - Multi-database data consolidation and migration
 - Member of the sub-project *data management and metadata*
-- Business Area: Production of customer-specific Software Systems
+- Business Area: Production of customer-specific software systems
 - Technologies: Java EE; TopLink; Oracle; WebSphere; Rational Rose; Rational ClearCase
 
 ### 2001---2003 :: Development Director :: OpenKnowledge
 
 - Oldenburg, Germany
 - Development Director for 15 Software Engineers
-- Business Area: Production of customer-specific Software Systems
+- Business Area: Production of customer-specific software systems
 - Technologies: Java EE; Python; JBOSS; Oracle; IDEA
 
 ### 2000---2001 :: VP Software Development :: CANBOX
