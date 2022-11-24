@@ -6,8 +6,6 @@ weight: 40
 date: '2022-04-30T20:00:00+01:00'
 ---
 
-## Talks / Webinars / Trainings
-
 - [2022 :: betterCode() API :: Let the computer do it](https://www.slideshare.net/TheMue/let-the-computer-do-it)
 - [2021 :: API Summit :: Modular RESTful APIs with Go](https://restful-apis-with-go.themue.dev)
 - 2021 :: betterCode() Go :: Once Web Application with Everything in Go
