@@ -1,5 +1,5 @@
 +++
-date = "2019-03-02T20:00:00+01:00"
+date = "2022-11-01T20:00:00+01:00"
 draft = false
 menu = "main"
 weight = 10
@@ -16,7 +16,7 @@ decided to stay because it is such a wonderful town.
 
 ## What do I do
 
-In my main profession I'm a software engineer with now more than 30 years
+In my main profession I'm an Enterprise Architect with now more than 30 years
 of experience. Additionally since 1999 I'm writing articles in IT magazines
 and giving talks on conferences. You'll find more about it in my
 [career section](/career/).
