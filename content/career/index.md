@@ -3,12 +3,21 @@ title: 'Career'
 draft: false
 menu: 'main'
 weight: 20
-date: '2022-11-01T08:00:00+02:00'
+date: '2022-12-14T08:00:00+02:00'
 ---
 
 ## Experience
 
-### 2022---Present :: Director Enterprise Architecture :: sonnen
+### 1993---Present :: IT technical author and conference speaker
+
+- Oldenburg, Germany
+- Articles, book reviews and conference reports for IT magazines like iX, heise developer, Entwickler Magazin, JavaSPEKTRUM, Java Magazin and Linux Enterprise
+- Author of the book *Systemprogrammierung in Google Go* (*System Programming in Google Go*)
+- Speaker on international conferences like OOP, JAX/W-JAX, GoDays, API Summit, API Conference, parallel, DevOps Conference, WebTech Conference and SOA India
+- Topics are Software Architecture, Software Development, Agile Processes, Cloud-Native Technologies like Kubernetes and software architectures like Micro Services
+- Development of open-source software labeled [Tideland](https://github.com/tideland/)
+
+### 2022 :: Director Enterprise Architecture :: sonnen
 
 - Oldenburg, Germany
 - Working remote
@@ -16,15 +25,6 @@ date: '2022-11-01T08:00:00+02:00'
 - Setup and maintenance of the company IT System Architecture
 - Business Area: Production of batteries for photovoltaics and provider of Virtual Power Plants
 - Technologies: Regenerative Energies; VPP; Salesforce; SAP; Integration Technologies; Amazon Web Services; Kubernetes; Docker; Infrastructure as a Code; Elixir; Python; Ruby; Node.JS
-
-### 1993---Present :: Part-Time Self-Employed Software Engineer and Technical Author
-
-- Oldenburg, Germany
-- Consulting for Software Development Processes, Software Architecture, Google Go, Erlang/OTP, Cloud Architecture and Microservices
-- Articles, book reviews and conference reports for IT magazines like iX, heise developer, Entwickler Magazin, JavaSPEKTRUM, Java Magazin and Linux Enterprise
-- Author of the book *Systemprogrammierung in Google Go* (*System Programming in Google Go*)
-- Speaker on international conferences like OOP, JAX/W-JAX, GoDays, API Summit, API Conference, parallel, DevOps Conference, WebTech Conference and SOA India
-- Development of open-source software labeled [Tideland](https://github.com/tideland/)
 
 ### 2019---2022 :: Team Lead and Senior Software Engineer :: Kubermatic
 
