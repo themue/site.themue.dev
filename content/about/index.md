@@ -8,15 +8,15 @@ title = "About"
 
 ## Who am I
 
-My name is **Frank Müller** a.k.a **Mue** and I'm located in
-*Oldeburg / Germany / Europe / World*. Here I'm also born in 1965 and
+My name is **Frank Müller** a.k.a **TheMue** (or short **Mue**) and I'm located
+in *Oldeburg / Germany / Europe / World*. Here I'm also born in 1965 and
 decided to stay because it is such a wonderful town.
 
 ![Frank Müller](/img/themue.jpg)
 
 ## What do I do
 
-In my main profession I'm an Enterprise Architect with now more than 30 years
+In my main profession I'm an **Enterprise Architect** with now more than 30 years
 of experience. Additionally since 1999 I'm writing articles in IT magazines
 and giving talks on conferences. You'll find more about it in my
 [career section](/career/).
