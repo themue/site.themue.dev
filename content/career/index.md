@@ -14,7 +14,7 @@ date: '2022-12-14T08:00:00+02:00'
 - Articles, book reviews and conference reports for IT magazines like iX, heise developer, Entwickler Magazin, JavaSPEKTRUM, Java Magazin and Linux Enterprise
 - Author of the book *Systemprogrammierung in Google Go* (*System Programming in Google Go*)
 - Speaker on international conferences like OOP, JAX/W-JAX, GoDays, API Summit, API Conference, parallel, DevOps Conference, WebTech Conference and SOA India
-- Topics are Software Architecture, Software Development, Agile Processes, Cloud-Native Technologies like Kubernetes and software architectures like Micro Services
+- Topics are software architecture, software development, programming languages, agile processes, cloud-native technologies, Kubernetes, Dockers and blockchains
 - Development of open-source software labeled [Tideland](https://github.com/tideland/)
 
 ### 2022 :: Director Enterprise Architecture :: sonnen
@@ -22,21 +22,21 @@ date: '2022-12-14T08:00:00+02:00'
 - Oldenburg, Germany
 - Working remote
 - Team Lead for 3 Solution Architects
-- Setup and maintenance of the company IT System Architecture
+- Redesign of the IT architecture based on the cloud as the future runtime environment
 - Business Area: Production of batteries for photovoltaics and provider of Virtual Power Plants
 - Technologies: Regenerative Energies; VPP; Salesforce; SAP; Integration Technologies; Amazon Web Services; Kubernetes; Docker; Infrastructure as a Code; Elixir; Python; Ruby; Node.JS
 
 ### 2019---2022 :: Team Lead and Senior Software Engineer :: Kubermatic
 
 - Oldenburg, Germany
-- Working remote
+- Working remote in an international team
 - Team Lead for 10 international Software Engineers
-- Implementation of customer specific Kubernetes Operators
-- Trainer for Cloud-Native Technologies
+- Implementation of customer specific Kubernetes operators and Kubermatic software
+- Trainer for cloud-native technologies
 - Business Area: Consulting for and production of Kubernetes software
 - Technologies: [Kubermatic](https://www.kubermatic.com); Kubernetes; Docker; Google Go; Google Cloud Platform; Amazon Web Services
 
-### 2017---2018 :: Software Engineer :: Status Research & Development
+### 2017---2018 :: Senior Software Engineer :: Status Research & Development
 
 - Oldenburg, Germany
 - Working remote in an international team
@@ -44,18 +44,18 @@ date: '2022-12-14T08:00:00+02:00'
 - Business Area: Blockchains
 - Technologies: Blockchains; Ethereum; Google Go; Geth
 
-### 2016---2017 :: Software Engineer and Software Architect :: AKKA
+### 2016---2017 :: Software Architect and Senior Software Engineer :: AKKA
 
 - Bremen, Germany
-- Architecture and implementation of a Logistics and Production Management System
+- Architecture and implementation of a logistics and production management system
 - Business Area: Service by engineers in aerospace, shipbuilding and automotive
 - Technologies: Microservices; RESTful APIs; Google Go; JavaScript; CouchDB; JSON Web Token; Linux; Docker
 
-### 2011---2015 :: Software Engineer :: Canonical
+### 2011---2015 :: Senior Software Engineer :: Canonical
 
 - Oldenburg, Germany
 - Working remote in an international team
-- Implementation of [Juju](https://jujucharms.com/), a Cloud Provisioning and Configuration System
+- Implementation of [Juju](https://jujucharms.com/), a cloud provisioning and configuration system
 - Business Area: Ubuntu Linux Distribution
 - Technologies: Linux; Google Go; MongoDB; Python; ZooKeeper; Amazon Web Services; Google Cloud Platform; OpenStack; Microsoft Azure; MAAS; LXC
 
@@ -83,13 +83,15 @@ date: '2022-12-14T08:00:00+02:00'
 
 - Oldenburg, Germany
 - Development Director for 15 Software Engineers
+- Software Architecture; Development Processes; Quality Assurance; Requirements Engineering; Software Cost Estimation
 - Business Area: Production of customer-specific software systems
 - Technologies: Java EE; Python; JBOSS; Oracle; IDEA
 
-### 2000---2001 :: VP Software Development :: CANBOX
+### 2000---2001 :: Vice President Software Development :: CANBOX
 
 - Oldenburg, Germany and Boston, MA USA
 - Vice President Software Development for 22 Software Engineers
+- Software Architecture; Development Processes; Quality Assurance; Requirements Engineering; Software Cost Estimation
 - Business Area: Unified Messaging
 - Technologies: Java EE; Linux; Solaris
 
@@ -98,6 +100,7 @@ date: '2022-12-14T08:00:00+02:00'
 - Oldenburg, Germany
 - Development Director for 7 Software Engineers
 - Implementation of the RedDot Content Management Systeme Enterprise Edition
+- Software Architecture; Development Processes; Quality Assurance; Requirements Engineering; Software Cost Estimation
 - Business Area: Content Management Software
 - Technologies: Java EE; POET OODBMS; SNiFF+; Python
 
@@ -107,7 +110,7 @@ date: '2022-12-14T08:00:00+02:00'
 - System Specialist for high-available Unix systems
 - Operation of Newspaper Production Software, SAP R/3, and Mail Servers
 - Automation using Shell, Python, and Perl scripting
-- Implementation of a System Monitoring via SNMP
+- Implementation of a system monitoring via SNMP
 - Development and implementation of a Trouble Ticket System
 - Business Area: Newspaper
 - Technologies: Sun Solaris; OpenVision Axxion HA; Sun Cluster; Veritas; Oracle; Sybase; Linux; Bash; Python; Perl; PostgreSQL
