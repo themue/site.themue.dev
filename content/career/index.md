@@ -36,7 +36,7 @@ date: '2022-12-14T08:00:00+02:00'
 - Business Area: Consulting for and production of Kubernetes software
 - Technologies: [Kubermatic](https://www.kubermatic.com); Kubernetes; Docker; Google Go; Google Cloud Platform; Amazon Web Services
 
-### 2017---2018 :: Software Engineer :: Status Research & Development
+### 2017---2018 :: Senior Software Engineer :: Status Research & Development
 
 - Oldenburg, Germany
 - Working remote in an international team
@@ -110,7 +110,7 @@ date: '2022-12-14T08:00:00+02:00'
 - System Specialist for high-available Unix systems
 - Operation of Newspaper Production Software, SAP R/3, and Mail Servers
 - Automation using Shell, Python, and Perl scripting
-- Implementation of a System Monitoring via SNMP
+- Implementation of a system monitoring via SNMP
 - Development and implementation of a Trouble Ticket System
 - Business Area: Newspaper
 - Technologies: Sun Solaris; OpenVision Axxion HA; Sun Cluster; Veritas; Oracle; Sybase; Linux; Bash; Python; Perl; PostgreSQL
