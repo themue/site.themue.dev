@@ -8,15 +8,6 @@ date: '2022-12-14T08:00:00+02:00'
 
 ## Experience
 
-### 1993---Present :: IT technical author and conference speaker
-
-- Oldenburg, Germany
-- Articles, book reviews and conference reports for IT magazines like iX, heise developer, Entwickler Magazin, JavaSPEKTRUM, Java Magazin and Linux Enterprise
-- Author of the book *Systemprogrammierung in Google Go* (*System Programming in Google Go*)
-- Speaker on international conferences like OOP, JAX/W-JAX, GoDays, API Summit, API Conference, parallel, DevOps Conference, WebTech Conference and SOA India
-- Topics are software architecture, software development, programming languages, agile processes, cloud-native technologies, Kubernetes, Dockers and blockchains
-- Development of open-source software labeled [Tideland](https://github.com/tideland/)
-
 ### 2022 :: Director Enterprise Architecture :: sonnen
 
 - Oldenburg, Germany
@@ -114,6 +105,15 @@ date: '2022-12-14T08:00:00+02:00'
 - Development and implementation of a Trouble Ticket System
 - Business Area: Newspaper
 - Technologies: Sun Solaris; OpenVision Axxion HA; Sun Cluster; Veritas; Oracle; Sybase; Linux; Bash; Python; Perl; PostgreSQL
+
+### 1993---Present :: IT technical author and conference speaker
+
+- Oldenburg, Germany
+- Articles, book reviews and conference reports for IT magazines like iX, heise developer, Entwickler Magazin, JavaSPEKTRUM, Java Magazin and Linux Enterprise
+- Author of the book *Systemprogrammierung in Google Go* (*System Programming in Google Go*)
+- Speaker on international conferences like OOP, JAX/W-JAX, GoDays, API Summit, API Conference, parallel, DevOps Conference, WebTech Conference and SOA India
+- Topics are software architecture, software development, programming languages, agile processes, cloud-native technologies, Kubernetes, Dockers and blockchains
+- Development of open-source software labeled [Tideland](https://github.com/tideland/)
 
 ### 1991---1997 :: System Specialist :: R+V Versicherung
 
