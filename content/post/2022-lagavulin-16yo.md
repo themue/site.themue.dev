@@ -1,12 +1,12 @@
 ---
-title: 'Lagavulin 16yo'
+title: 'Lagavulin 16 yo'
 date: '2022-05-06T21:30:00+02:00'
 draft: false
 categories: ['whisky']
 tags:  ['whisky', 'tastingnotes']
 ---
 
-The **Lagavulin 16yo** is a true classic, well known in almost every whisky collection. And for good reason, because it is a beautiful representative of this important region.
+The **Lagavulin 16y o** is a true classic, well known in almost every whisky collection. And for good reason, because it is a beautiful representative of this important region.
 
 ### Nose
 

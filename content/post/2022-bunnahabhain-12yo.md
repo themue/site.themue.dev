@@ -1,12 +1,12 @@
 ---
-title: 'Bunnahabhain 12yo'
+title: 'Bunnahabhain 12 yo'
 date: '2022-10-28T22:00:00+02:00'
 draft: false
 categories: ['whisky']
 tags:  ['whisky', 'tastingnotes']
 ---
 
-There are some of the relative cheap Islay whiskies which are in most collections. Like the Laphroaig 10yo or the Ardbeg TEN. Another interesting one of them, completely without smoke, is the **Bunnahabhain 12yo**.
+There are some of the relative cheap Islay whiskies which are in most collections. Like the Laphroaig 10yo or the Ardbeg TEN. Another interesting one of them, completely without smoke, is the **Bunnahabhain 12 yo**.
 
 ### Nose
 

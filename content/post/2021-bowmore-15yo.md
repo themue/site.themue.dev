@@ -1,5 +1,5 @@
 ---
-title: 'Bowmore 15yo'
+title: 'Bowmore 15 yo'
 date: '2021-12-01T18:00:00+01:00'
 draft: false
 categories: ['whisky']
@@ -7,7 +7,7 @@ tags:  ['whisky', 'tastingnotes']
 ---
 
 Some time ago I already had the **Bowmore No. 1** as a small addition to
-a **Bowmore 12yo**. And it was also with this 15-year-old, but as a result
+a **Bowmore 12 yo**. And it was also with this 15-year-old, but as a result
 will still find his in my collection. It pleases with its post-maturation
 in *Oloroso Sherry* casks and its price is really fair.
 

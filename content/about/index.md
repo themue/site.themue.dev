@@ -1,10 +1,10 @@
-+++
-date = "2022-11-01T20:00:00+01:00"
-draft = false
-menu = "main"
-weight = 10
-title = "About"
-+++
+---
+title: 'About'
+date: '2022-11-01T20:00:00+01:00'
+menu: 'main'
+draft: false
+weight: 10
+---
 
 ## Who am I
 

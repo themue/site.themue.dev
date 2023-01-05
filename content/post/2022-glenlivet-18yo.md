@@ -1,12 +1,12 @@
 ---
-title: 'The Glenlivet 18yo'
+title: 'The Glenlivet 18 yo'
 date: '2022-03-05T22:01:00+01:00'
 draft: false
 categories: ['whisky']
 tags:  ['whisky', 'tastingnotes']
 ---
 
-Some drops I let stand a little long, this one five years. But I'm glad that with my **The Glenlivet 18yo** the cork is not dry and the now opened bottle continues to seal well. It will not get much older now, but a good closure is already important.
+Some drops I let stand a little long, this one five years. But I'm glad that with my **The Glenlivet 18 yo** the cork is not dry and the now opened bottle continues to seal well. It will not get much older now, but a good closure is already important.
 
 ### Nose
 

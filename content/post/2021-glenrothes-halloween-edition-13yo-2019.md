@@ -1,5 +1,5 @@
 ---
-title: 'Glenrothes Halloween Edition 13yo 2019'
+title: 'Glenrothes Halloween Edition 13 yo 2019'
 date: '2021-12-18T18:00:00+01:00'
 draft: false
 categories: ['whisky']
@@ -7,7 +7,7 @@ tags:  ['whisky', 'tastingnotes']
 ---
 
 And again, new tasting notes for my single malt collection, today the 
-**Glenrothes Halloween Edition 13yo 2019**. After that, more will follow 
+**Glenrothes Halloween Edition 13 yo 2019**. After that, more will follow 
 at a faster pace, as I'm formulating the keyword notes in my database. 
 After that comes another change, but more on that in the conclusion.
 
