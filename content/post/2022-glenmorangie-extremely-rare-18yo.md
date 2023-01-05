@@ -1,5 +1,5 @@
 ---
-title: 'Glenmorangie Extremely Rare 18yo'
+title: 'Glenmorangie Extremely Rare 18 yo'
 date: '2022-08-07T21:30:00+02:00'
 draft: false
 categories: ['whisky']
@@ -21,5 +21,5 @@ The vanilla and chocolate are found in the taste. The most important element, ho
 
 The finish, on the other hand, is again a nice contrast. It is mild like the malt overall, not scratchy and smoky. Instead, it is long lasting and pleasantly warm. This rounds out the enjoyment.
 
-The Glenmorangie Extremely Rare 18yo is a nice round drop, mild and warm, soft and long lasting. This makes fun and the malt so a good drop for a Sunday evening. In my rating, he receives 83/100 points.
+The Glenmorangie Extremely Rare 18yo is a nice round drop, mild and warm, soft and long lasting. This makes fun and the malt so a good drop for a Sunday evening. In my rating, he receives **83/100** points.
 

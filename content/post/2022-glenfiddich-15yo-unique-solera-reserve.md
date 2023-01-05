@@ -1,12 +1,12 @@
 ---
-title: 'Glenfiddich 15yo Unique Solera Reserve'
+title: 'Glenfiddich 15 yo Unique Solera Reserve'
 date: '2022-10-28T21:00:00+02:00'
 draft: false
 categories: ['whisky']
 tags:  ['whisky', 'tastingnotes']
 ---
 
-Glenfiddich is one of the great and well-known distilleries of Speyside, for many especially the twelve-year-old found in many shops. But the distillery offers many more variants. One is the **Glenfiddich 15yo Unique Solera Reserve**, a fine drop from the house.
+Glenfiddich is one of the great and well-known distilleries of Speyside, for many especially the twelve-year-old found in many shops. But the distillery offers many more variants. One is the **Glenfiddich 15 yo Unique Solera Reserve**, a fine drop from the house.
 
 ### Nose
 

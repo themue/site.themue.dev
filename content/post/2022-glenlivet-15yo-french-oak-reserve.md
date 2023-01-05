@@ -1,12 +1,12 @@
 ---
-title: 'Glenlivet 15yo French Oak Reserve'
+title: 'Glenlivet 15 yo French Oak Reserve'
 date: '2022-01-15T22:00:00+01:00'
 draft: false
 categories: ['whisky']
 tags:  ['whisky', 'tastingnotes']
 ---
 
-Today I'm talking about a rather young malt in my collection. However, the "young" does not refer to its age, which is 15 years. But I bought it only last month.  Today it's about the **Glenlivet 15yo French Oak Reserve**. It was allowed to mature in French Limousin oak casks from the Dordogne and is one of the cheapest on the market.
+Today I'm talking about a rather young malt in my collection. However, the "young" does not refer to its age, which is 15 years. But I bought it only last month.  Today it's about the **Glenlivet 15 yo French Oak Reserve**. It was allowed to mature in French Limousin oak casks from the Dordogne and is one of the cheapest on the market.
 
 ### Nose
 

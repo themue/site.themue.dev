@@ -2,7 +2,7 @@
 title: 'Contact'
 date: '2022-12-18T12:00:00+02:00'
 draft: false
-menu: "main"
+menu: 'main'
 weight: 50
 ---
 

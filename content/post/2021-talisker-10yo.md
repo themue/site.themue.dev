@@ -1,12 +1,12 @@
 ---
-title: 'Talisker 10yo'
+title: 'Talisker 10 yo'
 date: '2021-12-17T18:00:00+01:00'
 draft: false
 categories: ['whisky']
 tags:  ['whisky', 'tastingnotes']
 ---
 
-My whisky today was the young **Talisker 10yo**. As a Nordic malt from
+My whisky today was the young **Talisker 10 yo**. As a Nordic malt from
 the Islands, it has its own taste, not comparable to the Speysides but
 also not like the Islays.  It is a strong and beautiful drop with 45.8%.
 
