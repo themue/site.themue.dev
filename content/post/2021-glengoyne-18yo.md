@@ -14,10 +14,10 @@ On the nose you immediately notice its sherry, a fruity mix of dark fruits, sort
 
 ### Taste
 
-Here the Glengoyne was then very nice and strong, spicy and warm, with some spiciness.  The sherry asserts itself again, with its notes of malt, fruit and strong dark chocolate. A pleasant complexity for the evening.
+Here the **Glengoyne** was then very nice and strong, spicy and warm, with some spiciness.  The sherry asserts itself again, with its notes of malt, fruit and strong dark chocolate. A pleasant complexity for the evening.
 
 ### Finish
 
 On the finish, this whisky retains its warmth. Complex and persistent, but not too overpowering. This pleases.
 
-All in all, Glengoyne has succeeded in creating a nice and reasonably priced single malt with this 18 year old. It is certainly not a high end, but it is worth its price and the connoisseur receives a round drop for beautiful autumn evenings. With me, this malt has received **84/100** points.
+All in all, **Glengoyne** has succeeded in creating a nice and reasonably priced single malt with this 18 year old. It is certainly not a high end, but it is worth its price and the connoisseur receives a round drop for beautiful autumn evenings. With me, this malt has received **84/100** points.

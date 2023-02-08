@@ -20,4 +20,4 @@ The taste, on the other hand, starts off more intense. Chilli and pepper immedia
 
 After this wave, a warm and intense finish can now be enjoyed. It lasts long without burning.
 
-The Glenfiddich 15yo is a pleasant and round Speyside, wonderfully intense in nose and mouth, beautifully warm on the finish. Just right for an autumn evening after a sunny day. I gave it **83/100** points.
+The **Glenfiddich 15 yo** is a pleasant and round Speyside, wonderfully intense in nose and mouth, beautifully warm on the finish. Just right for an autumn evening after a sunny day. I gave it **83/100** points.

@@ -20,4 +20,4 @@ This is where the Bowmore turns back into an Islay after all, with strong smoke 
 
 Here the malt has a warm and smooth but lingering finish. The sweetness of the nose comes back and is accompanied by citrus notes.
 
-Overall, Bowmore No. 1 is a smooth and not very spectacular single malt. It is okay, but nothing more. It scored **66/100** for me. Bowmore, for example, has a better whisky in its portfolio with the 15yo.
+Overall, **Bowmore No. 1** is a smooth and not very spectacular single malt. It is okay, but nothing more. It scored **66/100** for me. Bowmore, for example, has a better whisky in its portfolio with the 15yo.

@@ -8,6 +8,12 @@ date: '2022-12-14T08:00:00+02:00'
 
 ## Experience
 
+### 2003---Present :: Enterprise Architect :: T-Systems International
+
+- Oldenburg, Germany
+- Working remote
+- Business Area: Rail and Public Transport
+
 ### 2022 :: Director Enterprise Architecture :: sonnen
 
 - Oldenburg, Germany
@@ -24,7 +30,7 @@ date: '2022-12-14T08:00:00+02:00'
 - Team Lead for 10 international Software Engineers
 - Implementation of customer specific Kubernetes operators and Kubermatic software
 - Trainer for cloud-native technologies
-- Business Area: Consulting for and production of Kubernetes software
+- Business Area: Consulting for and architecture and production of Kubernetes software
 - Technologies: [Kubermatic](https://www.kubermatic.com); Kubernetes; Docker; Google Go; Google Cloud Platform; Amazon Web Services
 
 ### 2017---2018 :: Senior Software Engineer :: Status Research & Development

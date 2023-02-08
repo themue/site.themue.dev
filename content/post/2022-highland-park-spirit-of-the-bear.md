@@ -10,7 +10,7 @@ In today's Tastin Notes, I'm describing a special single malt. It is the **Highl
 
 ### Nose
 
-Unlike many other Highland Parks, Spirit of the Bear has a very leochy aroma. The nose is caressed by berry fruits and a sea of flowers.
+Unlike many other **Highland Parks**, Spirit of the Bear has a very leochy aroma. The nose is caressed by berry fruits and a sea of flowers.
 
 ### Taste
 
@@ -20,4 +20,4 @@ This malt is also only slightly spicy on the palate. Light notes of salt and nut
 
 The finish of this whisky is only medium long but warm. It is pleasant without being scratchy and pleases with slightly smoky notes.
 
-It's not a special Highland Park, I've had and still have better ones in my collection. But at this price, it's okay.  It scores **61/100** points in my rating.
+It's not a special **Highland Park**, I've had and still have better ones in my collection. But at this price, it's okay.  It scores **61/100** points in my rating.

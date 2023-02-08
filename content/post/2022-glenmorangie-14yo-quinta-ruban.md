@@ -10,7 +10,7 @@ The **Glenmorangie 14 yo Quinta Ruban** is a beautiful variant of the Glenmorang
 
 ### Nose
 
-The Quinta Ruban caresses the nose with a scent of beautiful dark and strong oranges and chocolate. There is damp wood in the background. Scents of exotic spices and flowers complete the beautiful picture. You don't even want to start drinking it, it smells so nice.
+The **Quinta Ruban** caresses the nose with a scent of beautiful dark and strong oranges and chocolate. There is damp wood in the background. Scents of exotic spices and flowers complete the beautiful picture. You don't even want to start drinking it, it smells so nice.
 
 ### Taste
 
@@ -20,4 +20,4 @@ A deliciously lush yet soft taste tickles the tongue. It contains many fruity no
 
 The malt goes down the throat nicely long lasting and warm, also notes like chocolate and orange are pleasantly found here.
 
-A wonderfully rich drop, warm, round and long lasting. I also like the mix of strong chocolate and orange in chocolates. Here it's rounded off by the spices and the lovely notes of a mature single malt. And so this Glenmorangie achieves **88/100** points.
+A wonderfully rich drop, warm, round and long lasting. I also like the mix of strong chocolate and orange in chocolates. Here it's rounded off by the spices and the lovely notes of a mature single malt. And so this **Glenmorangie** achieves **88/100** points.

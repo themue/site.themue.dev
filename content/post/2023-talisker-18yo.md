@@ -14,10 +14,10 @@ A wonderful aroma welcomes the connoisseur, it cannot deny its origin with sea s
 
 ### Taste
 
-The taste of Talisker 18 yo is pleasantly soft and warm. The most important component is nut, but also pleasant smoke and pepper. It's nice to notice how oily this drop is, leaving a pleasant feeling on the tongue.
+The taste of **Talisker 18 yo** is pleasantly soft and warm. The most important component is nut, but also pleasant smoke and pepper. It's nice to notice how oily this drop is, leaving a pleasant feeling on the tongue.
 
 ### Finish
 
 After this soft taste, it gets intense. Long lasting, lots of complex spices on the tongue and a strong warmth with some smoke in the throat reminds of every sip enjoyed before, very nice.
 
-One notices Talisker's Nordic origin. While the wind beats the waves of the sea against the cliffs and the salty spray blows over the meadows. And together with everything that the bushes and forests of the hinterland have to offer, a varied, intense and beautiful drop was created. And so, with its **91/100** points, it belongs to the very good malts.
+One notices **Talisker's** Nordic origin. While the wind beats the waves of the sea against the cliffs and the salty spray blows over the meadows. And together with everything that the bushes and forests of the hinterland have to offer, a varied, intense and beautiful drop was created. And so, with its **91/100** points, it belongs to the very good malts.

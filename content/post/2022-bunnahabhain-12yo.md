@@ -6,15 +6,15 @@ categories: ['whisky']
 tags:  ['whisky', 'tastingnotes']
 ---
 
-There are some of the relative cheap Islay whiskies which are in most collections. Like the Laphroaig 10yo or the Ardbeg TEN. Another interesting one of them, completely without smoke, is the **Bunnahabhain 12 yo**.
+There are some of the relative cheap Islay whiskies which are in most collections. Like the **Laphroaig 10 yo** or the **Ardbeg TEN**. Another interesting one of them, completely without smoke, is the **Bunnahabhain 12 yo**.
 
 ### Nose
 
-The nose of the Bunnahabhain is strong difference from typical Islay whiskies. It's a fresh and round fragrance, sweet with a hint of sultanas. and cereals. There are also nuts and very little smoke in the background.
+The nose of the **Bunnahabhain** is strong difference from typical Islay whiskies. It's a fresh and round fragrance, sweet with a hint of sultanas. and cereals. There are also nuts and very little smoke in the background.
 
 ### Taste
 
-The taste of the Bunnahabhain is intense with light fruity notes. In addition, the malt contains hints of nuts, some vanilla and malt.
+The taste of the **Bunnahabhain** is intense with light fruity notes. In addition, the malt contains hints of nuts, some vanilla and malt.
 
 ### Finish
 

@@ -6,7 +6,7 @@ categories: ['whisky']
 tags:  ['whisky', 'tastingnotes']
 ---
 
-The **The Balvenie Single Barrel Sherry Cask 15 yo** with its 47.8% is a special drop. It is not available in every store, I ordered it in France. This was easy for me, even without a previous tasting, as none of my Balvenies have ever disappointed me so far. So also this time.
+The **The Balvenie Single Barrel Sherry Cask 15 yo** with its 47.8% is a special drop. It is not available in every store, I ordered it in France. This was easy for me, even without a previous tasting, as none of my **Balvenies** have ever disappointed me so far. So also this time.
 
 ### Nose
 
@@ -18,6 +18,6 @@ The orange is immediately found in the taste, as well as the oak. But they are v
 
 ### Finish
 
-As nice as the nose and taste are, the finish is just as nice. The Balvenie is a long lasting warm drop, until the end you can find the sherry notes. This is a nice way to enjoy this particular malt.
+As nice as the nose and taste are, the finish is just as nice. The **Balvenie** is a long lasting warm drop, until the end you can find the sherry notes. This is a nice way to enjoy this particular malt.
 
-Balvenie has succeeded with this 15-year-old single barrel a wonderful drop. The price is certainly not without, it is not a malt for quick takeaway. But it is worth every euro. With me, it reaches **91/100** points.
+**Balvenie** has succeeded with this 15-year-old single barrel a wonderful drop. The price is certainly not without, it is not a malt for quick takeaway. But it is worth every euro. With me, it reaches **91/100** points.

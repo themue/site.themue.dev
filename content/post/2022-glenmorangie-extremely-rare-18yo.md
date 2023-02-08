@@ -6,7 +6,7 @@ categories: ['whisky']
 tags:  ['whisky', 'tastingnotes']
 ---
 
-A few weeks have passed since the last entry. Which doesn't mean that I haven't had any malts. The corresponding tasting notes will follow in the coming days. The first one today is the **Glenmorangie Extremely Rare 18yo**.
+A few weeks have passed since the last entry. Which doesn't mean that I haven't had any malts. The corresponding tasting notes will follow in the coming days. The first one today is the **Glenmorangie Extremely Rare 18 yo**.
 
 ### Nose
 
@@ -21,5 +21,5 @@ The vanilla and chocolate are found in the taste. The most important element, ho
 
 The finish, on the other hand, is again a nice contrast. It is mild like the malt overall, not scratchy and smoky. Instead, it is long lasting and pleasantly warm. This rounds out the enjoyment.
 
-The Glenmorangie Extremely Rare 18yo is a nice round drop, mild and warm, soft and long lasting. This makes fun and the malt so a good drop for a Sunday evening. In my rating, he receives **83/100** points.
+The **Glenmorangie Extremely Rare 18 yo** is a nice round drop, mild and warm, soft and long lasting. This makes fun and the malt so a good drop for a Sunday evening. In my rating, he receives **83/100** points.
 
