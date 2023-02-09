@@ -1,9 +1,9 @@
 ---
-title: 'Career'
+title: 'Curriculum Vitae'
 draft: false
 menu: 'main'
 weight: 20
-date: '2022-12-14T08:00:00+02:00'
+date: '2023-02-01T08:00:00+02:00'
 ---
 
 ## Experience
