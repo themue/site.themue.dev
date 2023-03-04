@@ -13,6 +13,7 @@ date: '2023-02-01T08:00:00+02:00'
 - Oldenburg, Germany
 - Working remote
 - Business Area: Rail and Public Transport
+- Technologies: Messaging; Service Bus; Data Lakes; Analytics; Kubernetes; Docker; Security; Licensing; Infrastructure as a Code; C++; Java; CORBA
 
 ### 2022 :: Director Enterprise Architecture :: sonnen
 
