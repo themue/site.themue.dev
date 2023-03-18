@@ -13,14 +13,14 @@ in *Oloroso Sherry* casks and its price is really fair.
 
 ### Nose
 
-The Bowmore 15yo pleases the nose with very pleasant salty sea notes, which
+The **Bowmore 15 yo** pleases the nose with very pleasant salty sea notes, which
 make the location of the distillery clear. A nice freshness, plus some smoke
 from the houses near the coast are reflected in the aroma. Everything is
 rounded off by the beautiful notes of sherry.
 
 ### Taste
 
-On the palate, the Bowmore surprises with a nice sweetness on the tip of the
+On the palate, the **Bowmore** surprises with a nice sweetness on the tip of the
 tongue. This continues to be accompanied by smoke and, in this case, a strong
 sherry. But the oak of the barrels can also be found. Pungency and spice, on
 the other hand, are only slight.

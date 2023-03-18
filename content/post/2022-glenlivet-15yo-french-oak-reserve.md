@@ -14,7 +14,7 @@ This is a pleasant and strong aroma, dominated by the beautiful scent of cedar w
 
 ### Taste
 
-On the palate, the Glenlivet really packs a punch, nice and strong. It is salty at the front of the tongue and very spicy towards the back. There is a strong dark cocoa of good quality on the way in, not your typical sweet drink for in between. This taste is easily accompanied by the equally strong taste of plum.
+On the palate, the **Glenlivet** really packs a punch, nice and strong. It is salty at the front of the tongue and very spicy towards the back. There is a strong dark cocoa of good quality on the way in, not your typical sweet drink for in between. This taste is easily accompanied by the equally strong taste of plum.
 
 ### Finish
 

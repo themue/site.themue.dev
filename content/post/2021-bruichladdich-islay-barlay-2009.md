@@ -12,7 +12,7 @@ I have had the bottle since 17.04.2018. It has been waiting to open for that lon
 
 ### Nose
 
-The Bruichladdich has surprisingly sweet notes, surprisingly.  On the one hand this is the barley, but on the other hand there are also nice notes of orange, very fresh. There is also quite a bit of tobacco in the background.
+The **Bruichladdich** has surprisingly sweet notes, surprisingly.  On the one hand this is the barley, but on the other hand there are also nice notes of orange, very fresh. There is also quite a bit of tobacco in the background.
 
 ### Taste
 
@@ -22,5 +22,5 @@ Here the tongue is immediately hit by a pinch of salt, then real smoke and lovel
 
 The finish is wonderfully warm and long lasting. At the same time it is very nice and smooth, without any spiciness.
 
-With the second glass, the Bruichladdich becomes rounder and warmer, a beautiful malt without imposing itself with its percentage. For its price, a nice drop. In my rating, it has **72/100** points.
+With the second glass, the **Bruichladdich** becomes rounder and warmer, a beautiful malt without imposing itself with its percentage. For its price, a nice drop. In my rating, it has **72/100** points.
 

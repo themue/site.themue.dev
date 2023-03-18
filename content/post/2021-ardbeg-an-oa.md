@@ -13,7 +13,7 @@ bourbon casks. The blend at the end is already special. It has 46.6 %.
 
 ### Nose
 
-The nose of Ardbeg An Oa is greeted by damp wood and various fruity notes. Among
+The nose of **Ardbeg An Oa** is greeted by damp wood and various fruity notes. Among
 these, orange and raspberry stand out. Toffee and a little salt are also present.
 The finish is made up of beautiful smoky notes.
 
@@ -25,10 +25,10 @@ a pleasant spiciness. Everything is rounded off by orange and a hint of chocolat
 
 ### Finish
 
-The finish of the An Oa is nice and long, strong and spicy. There is also a
+The finish of the **An Oa** is nice and long, strong and spicy. There is also a
 long-lasting and gentle warmth.
 
-Compared to the Ardbeg TEN, the An Oa is unexpectedly light and fruity on the nose,
+Compared to the **Ardbeg TEN**, the An Oa is unexpectedly light and fruity on the nose,
 almost light. Only in the taste does the distillery come back, becoming strong,
 smoky and salty, which lasts until the end. Here the An Oa becomes a nice spicy
 Ardbeg. It receives **78/100** points.
