@@ -8,7 +8,7 @@ date: '2023-02-01T08:00:00+02:00'
 
 ## Experience
 
-### 2023---Present :: Enterprise Architect :: T-Systems International
+### 2023---Present :: Principal Enterprise Architect :: T-Systems International
 
 - Rail and Public Transport
 - Oldenburg, Germany
