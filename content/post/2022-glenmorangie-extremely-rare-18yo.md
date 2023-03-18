@@ -12,7 +12,6 @@ A few weeks have passed since the last entry. Which doesn't mean that I haven't 
 
 A pleasant soft and very mild nose with sweet notes of berries and honey. There is also some white chocolate and the mild aroma of caramel. The contrast is provided by light oak notes and the spiciness of ginger. So the aroma is always fun.
 
-
 ### Taste
 
 The vanilla and chocolate are found in the taste. The most important element, however, is the sherry, plus some nut, the tingle of salt and, at the end, the spiciness of pepper. Round, if not exciting.

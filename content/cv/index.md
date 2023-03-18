@@ -111,14 +111,14 @@ date: '2023-02-01T08:00:00+02:00'
 - Development and implementation of a Trouble Ticket System
 - Keywords: Sun Solaris; OpenVision Axxion HA; Sun Cluster; Veritas; Oracle; Sybase; Linux; Bash; Python; Perl; PostgreSQL
 
-### 1993---Present :: IT technical author and conference speaker
+### 1993---Present :: IT technical author and conference speaker as a side job
 
 - Oldenburg, Germany
 - Articles, book reviews and conference reports for IT magazines like iX, heise developer, Entwickler Magazin, JavaSPEKTRUM, Java Magazin and Linux Enterprise
 - Author of the book *Systemprogrammierung in Google Go* (*System Programming in Google Go*)
 - Speaker on international conferences like OOP, JAX/W-JAX, GoDays, API Summit, API Conference, parallel, DevOps Conference, WebTech Conference and SOA India
+- Topics are software architecture, software development, programming languages, agile processes, cloud-native technologies, Kubernetes, Dockers and blockchains
 - Development of open-source software labeled [Tideland](https://github.com/tideland/)
-- Keywords: Software Architecture; Software Development; Programming Languages; Agile Processes; Cloud-Native Technologies; Kubernetes, Dockers; lockchains
 
 ### 1991---1997 :: System Specialist :: R+V Versicherung
 
@@ -160,3 +160,4 @@ date: '2023-02-01T08:00:00+02:00'
 - 1997 :: Solaris 2.x Administration 2
 - 1997 :: Sybase - Fast Track to Sybase SQL Server
 - 1997 :: Sybase - SQL Server Administration
+

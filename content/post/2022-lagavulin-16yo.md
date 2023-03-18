@@ -21,3 +21,4 @@ At the beginning, the tongue receives a nice round initial sharpness and also th
 The finish of the Lagavulin 16yo is very pleasant. It is wonderfully long and deep, and wonderfully warm. At the same time, it remains soft, not scratchy. It's fun and invites you to enjoy it.
 
 The summary is simple, the Lagavulin 16yo is right. It is an Islay, but does not burn your throat. It is intense, contains the right flavours and offers a thrilling journey from the exciting nose to the intense flavour to the round and warm finish. A must for every collection. It scores **90/100** points in my rating.
+
