@@ -109,7 +109,7 @@ date: '2023-02-01T08:00:00+02:00'
 - Automation using Shell, Python, and Perl scripting
 - Implementation of a system monitoring via SNMP
 - Development and implementation of a Trouble Ticket System
-- Keywords: Sun Solaris; OpenVision Axxion HA; Sun Cluster; Veritas; Oracle; Sybase; Linux; Bash; Python; Perl; PostgreSQL
+- Keywords: Solaris; Linux; OpenVision Axxion HA; Sun Cluster; Veritas; Oracle; Sybase; Bash; Python; Perl; PostgreSQL
 
 ### 1993---Present :: IT technical author and conference speaker as a side job
 
