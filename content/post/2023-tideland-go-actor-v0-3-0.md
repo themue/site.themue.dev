@@ -3,7 +3,7 @@ title: 'Tideland Go Actor v0.3.0'
 date: '2023-04-09T15:00:00+01:00'
 draft: false
 categories: ['tideland']
-tags: ['golang', 'tideland', 'library', 'release', 'actor']
+tags: ['golang', 'tideland', 'package', 'release', 'actor']
 ---
 
 I'm happy to share with you some news about the new release v0.3.0 of the **Tideland Go Actor**. This new version comes with a handful of exciting updates and improvements that make it easier and more efficient to work with Actors in Go. One important change in this release is the addition of the `Repeat()` method. This new feature allows developers to run background Actions in intervals, making it easier to handle long-running tasks in the background.
