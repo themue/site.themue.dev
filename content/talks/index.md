@@ -3,9 +3,11 @@ title: 'Talks'
 draft: false
 menu: 'main'
 weight: 40
-date: '2022-04-30T20:00:00+01:00'
+date: '2023-05-13T20:00:00+01:00'
 ---
 
+- [2023 :: JAX :: Cloud Provider APIs](https://www.slideshare.net/TheMue/jax-2023-cloud-provider-apis)
+- [2023 :: JAX :: Generics in Go](https://www.slideshare.net/TheMue/jax-2023-generics-in-go)
 - [2022 :: betterCode() API :: Let the computer do it](https://www.slideshare.net/TheMue/let-the-computer-do-it)
 - [2021 :: API Summit :: Modular RESTful APIs with Go](https://restful-apis-with-go.themue.dev)
 - 2021 :: betterCode() Go :: Once Web Application with Everything in Go
