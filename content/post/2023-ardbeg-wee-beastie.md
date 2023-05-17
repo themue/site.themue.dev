@@ -1,6 +1,6 @@
 ---
 title: 'Ardbeg Wee Beastie'
-date: '2023-05-17T22:00:00+01:00'
+date: '2023-05-17T21:00:00+01:00'
 draft: false
 categories: ['whisky']
 tags:  ['whisky', 'tastingnotes']
