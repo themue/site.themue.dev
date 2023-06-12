@@ -18,8 +18,8 @@ decided to stay because it is such a wonderful town.
 
 In my main profession I'm an **Enterprise Architect** with now more than 30 years
 of experience. Additionally since 1999 I'm writing articles in IT magazines
-and giving talks on conferences. You'll find more about it in my
-[career section](/career/).
+and giving talks on conferences. You'll find more about it in my [CV](/cv/),
+my [projects](/projects/) and my [talks](/talks/).
 
 ## Why the motto
 
