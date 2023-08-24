@@ -1,6 +1,6 @@
 ---
 title: 'Contact'
-date: '2022-12-18T12:00:00+02:00'
+date: '2023-08-01T12:00:00+02:00'
 draft: false
 menu: 'main'
 weight: 50
@@ -16,7 +16,6 @@ weight: 50
 ## External References
 
 - [Mastodon](https://mastodon.social/@themue)
-- [Twitter](https://twitter.com/themue)
 - [Linkedin](https://www.linkedin.com/in/themue/)
 - [GitHub Private](https://github.com/themue)
 - [GitHub Tideland](https://github.com/tideland)
