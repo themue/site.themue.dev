@@ -59,11 +59,11 @@ code = "/:slug/"
 identifier = "tags"
 name = "Tags"
 url = "/tags"
-weight = 1
+weight = 101
 
 [[menu.main]]
 identifier = "categories"
 name = "Categories"
 url = "/categories"
-weight = 1
+weight = 102
 
