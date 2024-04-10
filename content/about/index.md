@@ -1,28 +1,36 @@
 ---
-title: 'About'
-date: '2022-11-01T20:00:00+01:00'
-menu: 'main'
+title: "About"
+date: "2024-04-10T21:05:00+01:00"
+categories: ['themue']
 draft: false
-weight: 10
+menu: "main"
+weight: 50
 ---
 
 ## Who am I
 
-My name is **Frank Müller** a.k.a **TheMue** (or short **Mue**) and I'm located
-in *Oldeburg / Germany / Europe / World*. Here I'm also born in 1965 and
-decided to stay because it is such a wonderful town.
+Hello, my name is *Frank Müller*, also known here on the net as *themue*. Friends
+sometimes call me *mue*. My family and I live here in Oldenburg in the north-west
+of Germany. Professionally, I have been involved in IT for over 30 years now,
+as well as privately, which is practical. But I also love single malt whiskies. 
+You will find articles on both topics here.
 
-![Frank Müller](/img/themue.jpg)
+## How can I be contacted
 
-## What do I do
+### Address
 
-In my main profession I'm an **Enterprise Architect** with now more than 30 years
-of experience. Additionally since 1999 I'm writing articles in IT magazines
-and giving talks on conferences. You'll find more about it in my [CV](/cv/),
-my [projects](/projects/) and my [talks](/talks/).
+- *Frank 'themue' Müller*
+- World / Europe / Germany / Oldenburg
+- Mobile Phone +49-174-1819758
+- Mail [frank.mueller@themue.online](mailto:frank.mueller@themue.online)
 
-## Why the motto
+### External References
 
-I once simply discovered how normal change is. And also how helpful it is to
-not fight against those everyday changes but to embrance them and transform
-them into your advantage.
+- [Mastodon](https://mastodon.social/@themue)
+- [Linkedin](https://www.linkedin.com/in/themue/)
+- [GitHub Private](https://github.com/themue)
+- [GitHub Tideland](https://github.com/tideland)
+- [SlideShare](https://www.slideshare.net/themue)
+- [Stack Overflow](https://stackoverflow.com/users/25814/themue)
+- [Reddit](https://www.reddit.com/user/themue)
+- [Flickr](https://www.flickr.com/photos/themue/)

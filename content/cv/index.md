@@ -1,9 +1,10 @@
 ---
 title: 'Curriculum Vitae'
+date: '2024-04-10T23:00:00+02:00'
+categories: ['themue']
 draft: false
 menu: 'main'
-weight: 20
-date: '2023-02-01T08:00:00+02:00'
+weight: 60
 ---
 
 ## Experience

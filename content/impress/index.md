@@ -1,9 +1,9 @@
 ---
 title: 'Impress'
-date: '2023-01-01T12:00:00+02:00'
+date: '2024-04-10T23:00:00+02:00'
 draft: false
 menu: 'main'
-weight: 60
+weight: 70
 ---
 
 ### § 1 Warning notice regarding content

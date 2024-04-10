@@ -1,9 +1,10 @@
 ---
 title: 'Talks'
+date: '2023-05-13T20:00:00+01:00'
+categories: ['themue']
 draft: false
 menu: 'main'
 weight: 40
-date: '2023-05-13T20:00:00+01:00'
 ---
 
 - [2023 :: JAX :: Cloud Provider APIs](https://www.slideshare.net/TheMue/jax-2023-cloud-provider-apis)
