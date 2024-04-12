@@ -1,37 +1,26 @@
 ---
-title: 'Bowmore 15 yo'
-date: '2021-12-01T18:00:00+01:00'
+title: "Bowmore 15 yo"
+date: "2021-12-01T18:00:00+01:00"
 draft: false
-categories: ['whisky']
-tags:  ['whisky', 'tastingnotes']
+categories: ["whisky"]
+tags:  ["whisky", "tasting notes", "islay"]
 ---
 
-Some time ago I already had the **Bowmore No. 1** as a small addition to
-a **Bowmore 12 yo**. And it was also with this 15-year-old, but as a result
-will still find his in my collection. It pleases with its post-maturation
+Some time ago I already had the **Bowmore No. 1** as a small addition to a **Bowmore 12 yo**. And it was also with this 15-year-old, but as a result will still find his in my collection. It pleases with its post-maturation
 in *Oloroso Sherry* casks and its price is really fair.
 
 ### Nose
 
-The **Bowmore 15 yo** pleases the nose with very pleasant salty sea notes, which
-make the location of the distillery clear. A nice freshness, plus some smoke
-from the houses near the coast are reflected in the aroma. Everything is
+The Bowmore 15 yo pleases the nose with very pleasant salty sea notes, which make the location of the distillery clear. A nice freshness, plus some smoke from the houses near the coast are reflected in the aroma. Everything is
 rounded off by the beautiful notes of sherry.
 
 ### Taste
 
-On the palate, the **Bowmore** surprises with a nice sweetness on the tip of the
-tongue. This continues to be accompanied by smoke and, in this case, a strong
-sherry. But the oak of the barrels can also be found. Pungency and spice, on
+On the palate, the Bowmore surprises with a nice sweetness on the tip of the tongue. This continues to be accompanied by smoke and, in this case, a strong sherry. But the oak of the barrels can also be found. Pungency and spice, on
 the other hand, are only slight.
 
 ### Finish
 
-Even in the finish, this whisky is wonderfully pleasantly smoky with nice
-sherry notes - all nicely fitting. There is also some sweetness as well
-as the oak of the cask again. This pleases.
+Even in the finish, this whisky is wonderfully pleasantly smoky with nice sherry notes - all nicely fitting. There is also some sweetness as well as the oak of the cask again. This pleases.
 
-All in all, I really liked this single malt, I give it an **85/100** points. And
-since  I had just emptied a few bottles again, I now have room in my cupboard. There
-I strike again at the next opportunity.
-
+All in all, I really liked this single malt, I give it an **85/100** points. And since I had just emptied a few bottles again, I now have room in my cupboard. There I strike again at the next opportunity.

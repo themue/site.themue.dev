@@ -1,5 +1,5 @@
 baseURL = "/"
-title = "Embrace Change"
+title = "Embrace Change, Shape the Future"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 paginate = 10
@@ -11,59 +11,42 @@ metaDataFormat = "toml"
 paginatePath = "page"
 
 [frontmatter]
-date = ["date"]
+	date = ["date"]
 
 [author]
-name = "Frank Mueller"
-bio = "Frank Mueller / Oldenburg / Germany / Europe / World"
-avatar = "/img/mue.jpg"
+	name = "Frank Mueller"
+	bio = "Frank Mueller / Oldenburg / Germany / Europe / World"
 
 [params]
-description = "Insights into the world of Frank Müller"
-customCSS = []  #Optional Customised CSS
-#favicon = ""
-homepageLength = 10
-#commentAutoload = true  #This mean reader don't need click, disqus comment autoload
-#mathjax = true #Enable display of mathematics using mathjax (LaTeX syntax)
-katex = true #Enable display of mathematics using katex (Faster LaTeX rendering)
-google_fonts = ["Staatliches"] # Adds additional google fonts
-disableDarkModeCSS = false # disables css style for users using dark-mode
-opengraph = true
-leftsidebar = false
-authorbox = false
-readmore = true
-post_nagivation = true
-date_format = "2006-01-02"
-highlightColor = "#2e8b57"
-post_meta = ["author", "date", "categories"]
-
-[params.logo]
-title = "Embrace Change"
-subtitle = "Insights into the world of Frank Mueller"
-
-[params.sidebar]
-home = "right"
-list = "right"
-single = false
-widgets = ["search", "recent", "categories", "taglist"]
-
-[params.widgets]
-recent_num = 10
-tags_counter = true
+	description = "Insights into the world of Frank Müller"
+	customCSS = ["css/hugo-kiera-custom.css"]
+	site_logo = "/img/highland-cow.jpg"
+	# favicon = ""
+	homepageLength = 10
+	disableDarkModeCSS = true
+	# commentAutoload = true  #This mean reader don't need click, disqus comment autoload
+	# mathjax = true #Enable display of mathematics using mathjax (LaTeX syntax)
+	katex = true #Enable display of mathematics using katex (Faster LaTeX rendering)
+	google_fonts = ["Staatliches"] # Adds additional google fonts
+	date_format = "2006-01-02"
+	post_meta = ["author", "date", "categories"]
 
 [permalinks]
-post = "/blog/:year/:month/:day/:slug/"
-code = "/:slug/"
+	[permalinks.page]
+    	posts = '/posts/:year/:month/:day/:slug/'
+    	tutorials = '/tutorials/:slug/'
+	[permalinks.section]
+		posts = '/posts/'
+    	tutorials = '/tutorials/'
 
 [[menu.main]]
-identifier = "tags"
-name = "Tags"
-url = "/tags"
-weight = 20
+	identifier = "categories"
+	name = "Categories"
+	url = "/categories"
+	weight = 10
 
 [[menu.main]]
-identifier = "categories"
-name = "Categories"
-url = "/categories"
-weight = 10
-
+	identifier = "tags"
+	name = "Tags"
+	url = "/tags"
+	weight = 20

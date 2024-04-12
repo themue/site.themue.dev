@@ -1,12 +1,12 @@
 ---
-title: 'The GlenDronach Parliament 21 yo'
-date: '2022-02-15T22:01:00+01:00'
+title: "The GlenDronach Parliament 21 yo"
+date: "2022-02-15T22:01:00+01:00"
 draft: false
-categories: ['whisky']
-tags:  ['whisky', 'tastingnotes']
+categories: ["whisky"]
+tags:  ["whisky", "tasting notes", "highlands"]
 ---
 
-A drop that had to wait almost three years for me to open it. But now there was an event that I wanted to reward myself for. So I looked for my **The GlenDronach Parliament 21 yo** from my stash and allowed this old Highland speciality with 48% to find its way into my nosing glass.
+A drop that had to wait almost three years for me to open it. But now there has been an event that I wanted to reward myself for. So I looked for my **The GlenDronach Parliament 21 yo** from my stash and allowed this old Highland speciality with 48% to find its way into my nosing glass.
 
 ### Nose
 

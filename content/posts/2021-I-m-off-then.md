@@ -1,10 +1,10 @@
-+++
-date = "2021-01-10T19:00:00+01:00"
-draft = false
-title = "I'm off then"
-tags = ["whatsapp", "facebook", "signal"]
-categories = ["blogging"]
-+++
+---
+title: "I'm off then"
+date: "2021-01-10T19:00:00+01:00"
+draft: false
+categories: ["internet", "blogging"]
+tags: ["whatsapp", "facebook", "signal", "metadata"]
+---
 
 The Facebook corporation was a thorn in my side early on with its handling of personal data for advertising purposes. On top of that, Facebook itself showed me how difficult it is to keep conversations in check. That's why I deleted my Facebook account a while ago. It was the same with Instagram as another service of the Facebook group.
 

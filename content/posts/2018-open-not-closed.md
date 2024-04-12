@@ -1,10 +1,10 @@
-+++
-date = "2018-08-24T20:00:00+01:00"
-draft = false
-title = "Open, not closed"
-tags = ["internet", "protocols", "standards", "ietf", "rfc", "openess"]
-categories = ["blogging"]
-+++
+---
+title: "Open, not closed"
+date: "2018-08-24T20:00:00+01:00"
+draft: false
+categories: ["blogging", "internet"]
+tags: ["internet", "protocols", "standards", "ietf", "rfc", "openess"]
+---
 
 These days it happened again. This time it has been **Twitter** which changed the services it provides and forced external applications to change due to changes of the API. So it more and more follows Facebook to become a propriatary system, closed and best without any external client. But there are definitely better clients than the original one, in my case it's **Tweetbot**.
 

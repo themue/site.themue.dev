@@ -1,22 +1,22 @@
-+++
-date = "2020-03-23T22:15:00+01:00"
-draft = false
-title = "Working from home"
-tags = ["work from home", "remote", "home", "virus", "covid-19"]
-categories = ["work"]
-+++
+---
+title: "Working from home"
+date: "2020-03-23T22:15:00+01:00"
+draft: false
+categories: ["working"]
+tags: ["job", "remote", "home", "virus", "covid-19"]
+---
 
 Interestingly I already wanted to write about working from home already before the current crisis. I had the luck to start with it in 2011. I then began working for [Canonical](https://canonical.com/), a world-wide distributed company. My direct colleagues had been spread from New Zealand and Australia via several locations in Europe to North- and South-America. A fantastic feeling. Actually I'm working for [Loodse](https://www.loodse.com/), not as large but 100% remote too. And I enjoy working with all my different colleagues.
 
-But right now the motivation for many is a different one. It's the virus crisis which forces people to stay home and to work there. Not all jobs allow to do so, but IT jobs like mine or many other typical office jobs do. So this possibly is a chance to establish remote work even more. Until today many executive boards have been too sceptical about it.
+But right now the motivation for many is a different one. It's the virus crisis which forces people to stay home and to work there. Not all jobs allow to do so, but IT jobs like mine or many other typical office jobs do. So this possibly is a chance to establish remote work even more. Until today many executive boards have been too skeptical about it.
 
-Why do I appreciate remote work so much? It's being close to the family, having a self designed office, quiet and in my case with self-chosen hardware. Additionally I'm avoiding the daily commuting. Here I multiple times had a distance of one hour, 10 hours lost time per week, not talking about the additional cost. So useless and dumb. Beside that I also like the freedom regarding the time or the working place, I will write more about it later. And a special benefit is the feeling. Your team isn't determined by the location. It's determined by the specialisation of the people, their knowledge, their interests. And as mentioned before you may have international colleagues you're working with each day.
+Why do I appreciate remote work so much? It's being close to the family, having a self designed office, quiet and in my case with self-chosen hardware. Additionally I'm avoiding the daily commuting. Here I multiple times had a distance of one hour, 10 hours lost time per week, not talking about the additional cost. So useless and dumb. Beside that I also like the freedom regarding the time or the working place, I will write more about it later. And a special benefit is the feeling. Your team isn't determined by the location. It's determined by the specialization of the people, their knowledge, their interests. And as mentioned before you may have international colleagues you're working with each day.
 
 ### Infrastructure
 
 One interesting topic is the infrastructure. Many companies do have their own data center. So they need enough network capacity and the technology to enter it from outside. VPNs and terminal servers are one way. The other one chosen by many IT startups is to use external services like Google Apps. And there are a lot available for office, HR and recruiting, sales, customer service, travel booking and cost management, documentation, and communication. And for development teams there are tools for code management, code review, and CI. So you can avoid an own central infrastructure.
 
-But still the employees need their hardware. Distribution of central managed computers and mobile phones is one way. Another one is supporting people in buying their own computer or using their private ones for the job too. As we all know we have individual preferences. And as long as those match to the environment it's no problem.
+But still the employees need their hardware. Distribution of central managed computers and mobile phones is one way. Another one is supporting people in buying their own computer or using their private ones for the job too. We all know that people have individual preferences. And it is fine as long as those match to the environment.
 
 ### Processes
 

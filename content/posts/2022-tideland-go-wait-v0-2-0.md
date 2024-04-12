@@ -1,12 +1,12 @@
 ---
-title: 'Tideland Go Wait v0.2.0'
-date: '2022-03-05T22:25:00+01:00'
+title: "Tideland Go Wait v0.2.0"
+date: "2022-03-05T22:25:00+01:00"
 draft: false
-categories: ['tideland']
-tags: ['golang', 'tideland', 'library', 'release', 'waiting', 'polling', 'throttling', 'limiting']
+categories: ["development"]
+tags: ["golang", "tideland", "library", "release", "wait", "poll", "throttle", "limit"]
 ---
 
-The package **Tideland Go Wait** reached version 0.2.0 due to a new added feature. It now contains the type `Throttle` to provide a limited processing of events per second, e.g. for web handlers. The events are simple closures or functions with a given signature. The limit and a burst size for the maximum number of events during one call are defined at throttle creation.
+The package **Tideland Go Wait** reached **v0.2.0** due to a new added feature. It now contains the type `Throttle` to provide a limited processing of events per second, e.g. for web handlers. The events are simple closures or functions with a given signature. The limit and a burst size for the maximum number of events during one call are defined at throttle creation.
 
 ### Example
 

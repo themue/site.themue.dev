@@ -1,31 +1,22 @@
-+++
-date = "2021-05-30T20:00:00+01:00"
-draft = false
-title = "Tideland Go Audit v0.5.0"
-tags = ["golang", "tideland", "library", "release", "testing"]
-categories = ["tideland"]
-+++
+---
+title: "Tideland Go Audit v0.5.0"
+date: "2021-05-20T22:25:00+01:00"
+draft: false
+categories: ["development"]
+tags: ["golang", "tideland", "library", "testing"]
+---
 
-While step by step  reorganizing the Tideland Go libraries the one for testing
-your projects reached a new version. I've just released the **Tideland Go Audit v0.5.0**.
-As it already is a very robust and complete library there are only few changes.
+I've mentioned before that I'm currently reorganize my **Tideland Go Libraries** - once again. I'm sorry for it and it will be interesting just for those who want to participate in development. The import into your own projects will stay the same.
 
-* The `asserts` package now provides the additional assertions `NotOK()` and `AnyError()`.
-* In case of asserting tests and using `Failable` like `testing.T` their provided `Logf()`
-  and `Errorf()` will be used for output. This way there are less conflicts with some
-  CI environments.
-* The `generators` package now also contains a `OneOf()` returning one of the given
-  variadic parameters.
+This time it's about the **Tideland Go Audit** library, I've just released the new **v0.5.0**. It's a well approved and robust library containing helpful packages for testing. So the update only contains a few changes.
 
-The library **Tideland Go Audit** supports testing Go projects in multiple ways:
+* The main package `asserts` has been extended by the additional assertions `NotOK()` and `AnyError()`.
+* In case of asserting tests and using `Failable` which like `testing.T` does define `Logf()` and `Errorf()` their output is more compatible with CI environments.
+* The `generators` package has been extended by a `OneOf()` function returning anyone of the given variadic parameters randomly.
 
-* Package `asserts` provides functions for assertions helpful in tests and validation.
-* Package `capture` allows capturing of STDOUT and STDERR.
-* Package `environments` provides setting of environment variables, creation of temporary
-  directories, and running web servers for tests.
-* Package `generators` simplifies generation of test data. In case of initializing it
-  with a fixed random the generated values are also repeatable.
+In total the **Tideland Go Audit** library helps you to test your projects in multiple ways.
 
-Documentation can be found at [pkg.go.dev](https://pkg.go.dev/tideland.dev/go/audit), the
-project sources at [GitHub](https://github.com/tideland/go-audit). Enjoy it.
-
+* `asserts` contains many descriptive assertions not only usable for unit tests.
+* `capture` helps capturing `stdout` and `strerr` for tests.
+* `environments` simplifies setting of environment variable and creation of temporary directories. It also can run a small web server for tests.
+* `generators` contains generating test data in many ways. It can be randomly or fixed for repeatability.

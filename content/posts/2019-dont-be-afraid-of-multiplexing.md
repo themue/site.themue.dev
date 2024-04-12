@@ -1,12 +1,12 @@
-+++
-date = "2019-03-23T22:50:00+01:00"
-draft = false
-title = "Don't be afraid of multiplexing"
-tags = ["golang", "http"]
-categories = ["development"]
-+++
+---
+title: "Don’t be afraid of multiplexing"
+date: "2019-03-23T22:50:00+01:00"
+draft: false
+categories: ["development"]
+tags: ["golang", "http"]
+---
 
-Pretty often you read questions about multiplexing in Go web application on Slack, StackOverflow, or Reddit. Sometimes they think about using libraries like `gorilla/mux`, which is a powerful software, and its alternatives. Depending on individual requirements and constraints these may make sense, but for many cases the standard library or own little packages based on the standard library are more than enough. I'll show the idea behind the Go `net/http` package and how to build own solutions based on it.
+Pretty often you read questions about **multiplexing** in **Go** web application on Slack, StackOverflow, or Reddit. Sometimes they think about using libraries like `gorilla/mux`, which is a powerful software, and its alternatives. Depending on individual requirements and constraints these may make sense, but for many cases the standard library or own little packages based on the standard library are more than enough. I'll show the idea behind the Go `net/http` package and how to build own solutions based on it.
 
 ## Processing requests
 
@@ -18,7 +18,7 @@ All three ways have in common that they need an implementation of the `http.Hand
 ServeHTTP(w http.ResponseWriter, r *http.Request)
 ```
 
-This method is responsible to analyse the request `r` and write the answer to the writer `w`. Both types provide different fields and methods for this task.
+This method is responsible to analyze the request `r` and write the answer to the writer `w`. Both types provide different fields and methods for this task.
 
 A simple and convenient form of the interface is the `http.HandlerFunc`. It is the simple function type
 
@@ -72,7 +72,7 @@ http.ListenAndServe(":8080", mux)
 
 As long as only the simple  `http.ListenAndServe()` is used you don't need an extra instance of the multiplexer. The package contains the global `DefaultServeMux` and the handler can be registered via `http.Handle("/api/", NewAPIHandler())`. When starting the server you only need to pass `nil` as handler, so `http.ListenAndServe(":8080", nil)`.
 
-## But which method
+## Which method to take
 
 Beside the path of a request its HTTP method is important too. Here the Go packages provide nothing, a handler has to do evaluate the field `Request.Method` manually. But by creating a small `MethodMux` it's no problem.
 

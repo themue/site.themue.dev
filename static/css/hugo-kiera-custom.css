@@ -1,0 +1,11 @@
+#container main article p code {
+  padding: 0.2em;
+  background-color: #eeeeee;
+  font-size: 0.8em;
+}
+
+#container main article li code {
+  padding: 0.2em;
+  background-color: #eeeeee;
+  font-size: 0.8em;
+}

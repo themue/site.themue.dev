@@ -1,10 +1,10 @@
-+++
-date = "2021-11-17T21:00:00+01:00"
-draft = false
-title = "Bowmore No. 1"
-tags = ["whisky", "tastingnotes"]
-categories = ["whisky"]
-+++
+---
+title: "Bowmore No. 1"
+date: "2021-11-17T21:00:00+01:00"
+draft: false
+categories: ["whisky"]
+tags: ["whisky", "tasting notes", "islay"]
+---
 
 I didn't have the **Bowmore No. 1** in a big bottle, but only as a small 50 ml addition to the **Bowmore 12 yo**. A good size for tasting unknown drops. So is this simple malt, matured only in first fill bourbon casks.
 
@@ -20,4 +20,4 @@ This is where the Bowmore turns back into an Islay after all, with strong smoke 
 
 Here the malt has a warm and smooth but lingering finish. The sweetness of the nose comes back and is accompanied by citrus notes.
 
-Overall, **Bowmore No. 1** is a smooth and not very spectacular single malt. It is okay, but nothing more. It scored **66/100** for me. Bowmore, for example, has a better whisky in its portfolio with the 15yo.
+Overall, **Bowmore No. 1** is a smooth and not very spectacular single malt. It is okay, but nothing more. It scored **66/100** for me. Bowmore, for example, has a better whisky in its portfolio with the 15 yo.

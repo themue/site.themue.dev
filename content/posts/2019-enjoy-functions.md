@@ -1,12 +1,12 @@
-+++
-date = "2019-05-16T23:01:00+01:00"
-draft = false
-title = "Enjoy functions"
-tags = ["golang", "functions"]
-categories = ["development"]
-+++
+---
+title: "Enjoy functions"
+date: "2019-05-16T23:01:00+01:00"
+draft: false
+categories: ["development"]
+tags: ["golang", "functions"]
+---
 
-What shall be special when working with functions? They are part of software development almost since beginning, there's even the paradigm of functional programming. So what's special with functions in Go? Simple answer: nothing. But true to the motto of the language the work with functions and their relatives, the methods, is very pragmatic. And so they get parts of elegant solutions.
+What shall be special when working with **functions**? They are part of software development almost since beginning, there's even the paradigm of functional programming. So what's special with functions in **Go**? Simple answer: nothing. But true to the motto of the language the work with functions and their relatives, the methods, is very pragmatic. And so they get parts of elegant solutions.
 
 Let's start with quite simple functions. They can be small, having none, one, more or a variable number of parameters. Almost the same applies for the return values. There can be none, one, or more. But no variable number. In this case you would have to return a slice of the wanted type.
 
