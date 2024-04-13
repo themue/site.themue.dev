@@ -3,33 +3,58 @@ title = "Embrace Change, Shape the Future"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 paginate = 10
-theme = "hugo-kiera"
+theme = "mainroad"
 canonifyURLs = true
 enableEmoji = true
 enableRobotsTXT = true
 metaDataFormat = "toml"
 paginatePath = "page"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [frontmatter]
 	date = ["date"]
 
-[author]
-	name = "Frank Mueller"
-	bio = "Frank Mueller / Oldenburg / Germany / Europe / World"
-
 [params]
 	description = "Insights into the world of Frank Müller"
-	customCSS = ["css/hugo-kiera-custom.css"]
-	site_logo = "/img/highland-cow.jpg"
-	# favicon = ""
+	copyright = "Frank Mueller"
+	opengraph = true
+	schema = true
+	readmore = true
+	paper = true
+	site_logo = "/img/themue.svg"
+	favicon = ""
 	homepageLength = 10
 	disableDarkModeCSS = true
-	# commentAutoload = true  #This mean reader don't need click, disqus comment autoload
-	# mathjax = true #Enable display of mathematics using mathjax (LaTeX syntax)
-	katex = true #Enable display of mathematics using katex (Faster LaTeX rendering)
-	google_fonts = ["Staatliches"] # Adds additional google fonts
+	mathjax = true
 	date_format = "2006-01-02"
 	post_meta = ["author", "date", "categories"]
+	customCSS = []
+
+[params.logo]
+	image = "img/themue.svg"
+	title = "Embrace Change, Shape the Future"
+	subtitle = "Insights into the World of Frank 'themue' Mueller"
+
+[params.style.vars]
+	highlightColor = "#449944"
+
+[params.sidebar]
+	home = "right"
+	list = "right"
+	single = true
+	widgets = ["search", "recent", "categories", "taglist"]
+
+[params.widgets]
+	recent_num = 5
+	categories_counter = true
+	tags_counter = true
+
+[params.widgets.recent]
+ 	cached = true
 
 [permalinks]
 	[permalinks.page]
@@ -39,14 +64,6 @@ paginatePath = "page"
 		posts = '/posts/'
     	tutorials = '/tutorials/'
 
-[[menu.main]]
-	identifier = "categories"
-	name = "Categories"
-	url = "/categories"
-	weight = 10
-
-[[menu.main]]
-	identifier = "tags"
-	name = "Tags"
-	url = "/tags"
-	weight = 20
+[taxonomies]
+	tag = "tags"
+	category = "categories"
